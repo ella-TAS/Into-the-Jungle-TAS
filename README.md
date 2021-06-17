@@ -5,7 +5,7 @@ Work in progress.
 
 Any% times:
 
-Prologue: 47.872
+Prologue: 0:47.872
 1A: 1:46.760
 2A: WIP
 3A: WIP
@@ -13,8 +13,10 @@ Prologue: 47.872
 5A: WIP
 
 Potential B-Sides:
-1AC: 19.465
-1B: WIP
+1AC: 0:19.465
+1B: 1:40.402
+
+2AC: 0:51.340
 
 4AC: 1:09.768
 
