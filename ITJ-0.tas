@@ -372,20 +372,17 @@ console, load, Into The Jungle/ch0
    1,R,K
    1,R,J
    1,R,K
-   8,R
+   9,R
    1,R,J
-   1
    1,R,K,G
-   4
-   7,R
-   1,R,D
-   8,R,D,J
-   5,R
+  10,R
+   2,R,D
+  11,R,J
    1,L,J
    3,K,G
-   2
+   1
    1,R,J,G
-  35,R,D
+  34,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -394,16 +391,14 @@ console, load, Into The Jungle/ch0
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
+   2,R
    4,R
    1
-   5,R,J
-   2,R
+   1,R,J
    6,R,J
    4,R,K,G
    3,R,J,G
-  17,R,K,G
+  16,R,K,G
    1,R,J,G
    2,L,J
    3,R,J
@@ -587,4 +582,4 @@ console, load, Into The Jungle/ch0
    1,S
    1,D,J
   18
-#48.059(2827)
+#47.872(2816)
