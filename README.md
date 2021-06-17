@@ -5,7 +5,7 @@ Work in progress.
 
 Any% times:
 
-Prologue: 48.059
+Prologue: 47.872
 1A: 1:46.760
 2A: WIP
 3A: WIP
