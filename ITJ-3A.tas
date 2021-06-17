@@ -281,7 +281,7 @@ console, load, Into The Jungle/ch3
    5,R,K,G
   40,R,K
 
-#lvl_b-1
+#lvl_b_01
   13,R,J
   15,R,U,X
  184
@@ -292,7 +292,7 @@ console, load, Into The Jungle/ch3
    4,R
   41,R
 
-#lvl_b-2
+#lvl_b_02
    5,R,D,X
    1,R,J,G
   10,R
@@ -327,7 +327,6 @@ console, load, Into The Jungle/ch3
   21,R,J
    5,R,D
   15,R,U,X
-***s
   11,R
    5,L,D,X
    2,R,J
@@ -336,7 +335,7 @@ console, load, Into The Jungle/ch3
    7,R,K,G
    3,R,J,G
   48,R
-#lvl_04
+#lvl_b_04
   15,R,U,X
   10,R
    4,D,X
@@ -364,7 +363,223 @@ console, load, Into The Jungle/ch3
    3,R,K
   12,U,X
   40
-#lvl-2-05
+
+#lvl_b_05
    3,U,X
-  27,L,J
-#56.848
+  25,L,J
+  15,U,X
+  11,R,G
+   1,J,G
+  10,R,J,G
+   1,L,J,G
+   8,U,G
+   1,J,G
+   9,R,J
+  10,R,K,G
+   7,J,G
+   6,L,J
+  12,L,K,G
+  10,R,J
+   1,R
+   2,R,J
+   5,R,G
+   8,R,J,G
+   3,R
+  15,R,J
+  10,R,X
+  12,R,J
+   1,R,K,G
+   5,R,Z
+   1,R,J
+   7,R
+   2,R,J
+  40,R,J
+
+#lvl_b_09
+   3
+   2,R,J
+  14,R,D,X
+   3,R,J
+  83
+  14,U,X
+   4,R,J
+   3
+  14,U,X
+  12,R
+   1,R,G
+   8,L,J
+   6,L
+  14,L,J
+   1,L,K,G
+   1,L,J,G
+  10,L,J
+   7,L
+   1,L,G
+   1,J,G
+   3,L,J
+   1,L
+   4,L,J
+   2,L
+   2,R,J,G
+  11,L,K
+   3
+  11,L,K
+  14,L,U,Z
+   1,L
+   2,L,J
+   5,L,K
+  12,L,J
+  40
+
+#lvl_b_11
+   3,R,J
+   8,R
+   5,R,Z
+   1,R,J
+   7,R
+  16,R,J
+   3,R
+   1,R,G
+  12,J,G
+   8,G
+  14,L,J
+  14,L,U,X
+   9,L,J
+   7,L,K,G
+   7,L
+  13,L,J
+  14,L,U,X
+  10,R,J
+   4,R,G
+  12,J,G
+   8,G
+   6,J,G
+  28,G
+  43,R,J,G
+  14,R,X
+  13,R,J
+   3,L,K
+  15,U,X
+  12,L,J,G
+   9,L,K,G
+   7,L
+  10,L,X
+   6,L,J
+  14,U,X
+  13,L,J
+  40
+
+#lvl_b_13
+  20,L
+  14,L,J,G
+  14,U,X
+   3
+   6,L,J
+  14,U,X
+   8,L,J
+  52
+   1,R,J
+  14,R,D
+   1,R
+  13,R,X
+  14,R,J
+  13,U,X
+   3
+   1,U,X
+   2,R
+  15,U,X
+#2f timesave possible here from better landing
+   8,R,J,G
+   9,R
+   4,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  40
+
+#lvl_b_14
+   2,R,J
+  14,R,D,X
+   1,R,J
+  13,R,U,X
+  23
+  29,R,J
+  15
+  12,R,X
+   5,R,J
+  14,U,X
+  28
+  19,R,J
+  26
+  12,R,X
+   1,R,J
+  26,L,J
+  35
+  14,U,X
+   3
+  15,R,J
+  14,R,U,X
+  39,R,J
+  60
+  18,R,J
+  14,R,Z
+  14,R,J
+  15,U,X
+   8,R,J,G
+#same 2f timesave here
+   9,R
+   7,R,J
+  10,R,Z
+   5,R,J
+  10,R,D,X
+  40
+
+#lvl_c_01
+   1,R,J
+   7,R
+  11,R,J
+   1,R,K,G
+  14,R,Z
+  20,R,J
+   6,R,K,G
+   1
+   1,R,K
+   4
+   5,L,K,G
+  28,R,J
+   1,R,J,G
+   7,R,K,G
+   3
+  16,R
+  10,L,D,X
+  13,R,J
+  14,R,D,X
+   3,R,D
+   1,R,J
+  10,R,D,X
+  40
+
+#lvl_c_03
+   4,R,D,X
+   1,R,J
+   7,R
+  17,R,J
+   9,R,X
+   1,R,K,G
+   9,R
+  55,R,J
+  14,R,U,X
+  26,R,J
+   2,R,K,G
+  13,R
+   4,R,D,X
+   1,R,J
+   6,R
+  40
+
+#lvl_c_04
+   1,R
+  14,R,J
+
+#lvl_c_06
+
