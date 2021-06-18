@@ -20,7 +20,7 @@ read ITJ-4A Start lvl_c_02
    4,L
   40
 
-#lvl_c_Cassette (1)
+#lvl_c_Cassette
    5,L,J
    5,L
   15,L,D,X
@@ -42,6 +42,7 @@ read ITJ-4A Start lvl_c_02
    1,L,J
    7,L
    3,L,J
-  14,L,U,X
+  13,L,U,X
+#65.467(3851)
  257
    1,J
