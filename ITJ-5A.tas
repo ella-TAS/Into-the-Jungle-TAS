@@ -190,6 +190,7 @@ console, load, Into The Jungle/ch5
   10,L,J,G
    8,L,D
   10,L,Z
+#Pillars
   11,L,J
   16,U,X
   22,L,J
@@ -227,6 +228,7 @@ console, load, Into The Jungle/ch5
    4,L,K,G
    9,L
    1,L,J
+#Debris
   15,U,X
    3,J,G
   10,L,J
@@ -277,6 +279,7 @@ console, load, Into The Jungle/ch5
   12,R,K
   10,R
   14,U,X
+#Escape
 #47.294(2782)
 
 #lvl_b_01
@@ -307,7 +310,6 @@ console, load, Into The Jungle/ch5
   40
 
 #lvl_b_02
-
    7,R
   14,L,G
   12,J,G
@@ -352,24 +354,24 @@ console, load, Into The Jungle/ch5
    1,R,J
   11,R
   10,L,D,X
-   6,R,J
-   3,R
-   2,R,G
-  14,R,J,G
-  14,R,Z
    1,R,J
-   9,R,D,X
-  40,R
+   5,R
+  30,R,U,X
+   4,D,C
+   1,R,J
+   5,R
+  40
 
 #lvl_b_04
-   5,R,D,X
-   9,R,J
-  16,U,X
-  28,R,J
+   2,R
+  13,R,J
+  14,U,X
+  11,R,J
+  11,R
   11,R,D,X
    1,R,J
   15,R
-  13,R,X
+  12,R,X
    3,R,J
   10,R
   16,D
@@ -472,7 +474,6 @@ console, load, Into The Jungle/ch5
   16,J,G
    1,K
   16,L,J,G
-
    1,L,K,G
   40
 
@@ -538,8 +539,8 @@ console, load, Into The Jungle/ch5
   14,R,Z
    3,R,J
   13,R,D,X
-
-   
+#Deathwarp
+#90.236(5308)
    1,S
    1,D,J
   69,O
@@ -675,7 +676,6 @@ console, load, Into The Jungle/ch5
    7,R,J
   38,R,D
   11,R,X
-
   14,R,J,G
   12,R
    1,K
@@ -1141,3 +1141,90 @@ console, load, Into The Jungle/ch5
   40
 
 #lvl_d_09
+  11,R
+  10,L,D,X
+   3,R,J
+   1,R,K,G
+  14,R,K
+   5,R,J,G
+  12,R,X
+  10,R,J
+  16,U,X
+  19,L,J
+   3,L,K,G
+   7,L
+   4,R,J
+  12,L,Z
+   1,R,J,G
+   1,R,J
+   1,R,J,G
+  23,R,J
+   7,R,K,G
+   2,J,G
+   2,L,J
+   3,R,J
+   9,R,K,G
+   8,R,J,G
+   4,R
+   1,R,D,G
+   9
+   8,L,Z
+   1,R,J
+   1,R
+   1,R,G
+   4,R
+  25,R,J
+   3,R
+   1,R,D,G
+  13,R,U,X
+   3
+  24,R,J
+  14,R,U,X
+  16,R,J
+   6,R,D
+   6,R,K,G
+   7
+   2,R
+   6,R,Z
+   1,R,J
+   5,R
+   2,L
+   1,R,J
+   1,L
+  40
+
+
+#lvl_d_10
+   2,L
+   7,R,D,X
+   1,R,J,G
+   1,L
+  11,R
+   2,R,J
+   6,R
+   3
+   6,R,G
+  12,R,J
+   3,R
+  13,R,U,G
+   3,R,G
+   1,R,U,G
+  20,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  11,R
+   3,R,J
+  21,L,J
+   3,R,K,G
+  11,R,J,G
+   9,R,U,Z
+   6,R,D,J,G
+   1,L,D,J,G
+   1,K,G
+  12,R,J,G
+   7,L,J,G
+  14,L,U,X
+   5,L,K,G
+ 100,L
