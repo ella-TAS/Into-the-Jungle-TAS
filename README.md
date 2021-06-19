@@ -6,14 +6,14 @@ Work in progress.
 Any% times:
 
 Prologue: 0:47.872
-1A: 1:46.760
+1A: 1:48.630
 2A: WIP
 3A: WIP
-4A: 2:31.912
+4A: 2:31.011
 5A: WIP
 
 B-Sides:
-1AC: 0:19.465
+1AC: 0:15.368
 1B: 1:40.402
 
 2AC: 0:48.654
