@@ -118,10 +118,10 @@ console, load, Into The Jungle/ch4
 #lvl_a_07
    6
    5,L
-  15,U,X
+  15,U,Z
    1,R,J,G
-   9,R
-  13,R,Z
+   7,R
+  17,R,Z
    1,R,J
    7,R
   17,R,J
@@ -266,7 +266,7 @@ console, load, Into The Jungle/ch4
   40
 
 #lvl_b_04
-  18,R,D
+  21,R,D
   15,R,X
   27,G
   13,U,G
@@ -497,63 +497,50 @@ console, load, Into The Jungle/ch4
    6,R
    1,R,D,J
    1,R,K
-   2,R,J
-   1,R
    1,R,J
-   4,R
-   1,R,J
+   2,R
+   1,R,K
+   5
   40
 
 #lvl_c_02
-  10,R,X
-   5,R,J
-  15,U,X
-  12,L,J
-   3,L
-   1,L,K,G
-   1,R
-   6,L
-   6,L,J
-  15,U,Z
-  18,R,J
+   1
+  15,D,X
+   5,R,D,C
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+   1,R,J
    4,R,K,G
+  14,R,D,X
+   1,R,J
+   2,R
+  15,U,Z
+  11,R
    4
    1,R
-   1
-   1,R
+   1,D
+   6
+  10,R,D,X
    1,L,J
-   5,D,X
-   1,R,J,G
-   4,R,K,G
-   2
-   1,J
-   2
-   1,R
-   9,R,U,X
-   1,R,J,G
-  10,R,D
-   1,D
-  18,R,D
-   2,D
-  10,L,D,X
-   4,R,J
-   2,R
-  15,R,D,X
-   5,R,D
+   2,J
+  10,K,G
+   3,L,K
+   1,L,J,G
+   4,L
+   4
+  10,R,D,X
    5,R,J
-   5,R
-   1,R,K,G
-   5,R
-   3,R,K
+  15,R,D,X
+   3,R,J
+  13,R
   15,R,U,X
-   9,R,D
-   8,L,D
-   6,R,D
-   1,D
-  18,R,D
-  55,D
+  35,R,D
+  58,D
    1
    1,D
+   1
    9,L,Z
   16,L,J
   14,L,K,G
@@ -1390,36 +1377,39 @@ console, load, Into The Jungle/ch4
   43
 
 #lvl_d_12
-   5,R
+   1,R
+   1
+   3,R
    1,R,J
   14,R,D,X
   14,R,J
-  15,R,D,X
-  27,R
+  18,R,D,X
+  24,R
    1,R,D
    1,L,D
    4,J,G
-   7,R,J
-  10,L,J
+   8,R,J
+   9,L,J
+   1,J
    1,G
-  18,R,J
+  13,R,J
+  18,R,X
+   4,R
   15,R,X
-  17,R
-  15,R,X
-  11,R
    1
-   2,R
+   3,R
    1,R,G
-  25,R,J,G
-  10,R
-   4,R,Z
+  40,R,J,G
+   6,R,D
+  10,R,Z
    1,R,J
    6,R
    7,R,J
   15,R,D,X
    7,R,J
   15,R,D,X
-   2,R,J
+   1,R,J
+   2,R
   15,R,D,X
    6,R,D
   43
@@ -1429,4 +1419,4 @@ console, load, Into The Jungle/ch4
    1,S
    1,D,J
   18
-#151.912
+#151.011

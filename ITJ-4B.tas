@@ -1,32 +1,37 @@
-console, hard, Into The Jungle/ch4, -1112, -56
+console, hard, Into The Jungle/ch4
    1
 
-  36
 #Start
 #lvl_0a_01
+  84
    4,D,X
-   1,R,J
-   5,R
+   2,R,J
+   8,R
+   9,R,J
+   8,R,D,X
+   1,R,J,G
+  12,R
+  12,R,J
+  12,R,D,X
   40
 
 #lvl_0a_02
-   2,R
-   1,R,J
-   2,R
-  14,R,D,X
-  26,R,J
-  13,U,X
-  16,L,J
+   3,R
+  32,R,J
+  10,U,X
+  17,L,J
   15,R,U,X
    5,L
-   4,R
-   4,D,X
-   5,L,X
+   2,R
+   2,L
+   9,L,Z
    1,R,J
    7,R
   12,R,J
    9,R,D,X
   43
+
+#lvl_0a_03
    6,R
    1,R,J
    1,J
@@ -66,7 +71,168 @@ console, hard, Into The Jungle/ch4, -1112, -56
   20,R,D,X
   15,R,D,C
    6,R,D
+   3,R,J
+   4,R,D,X
+   1,R
+   1,R,D
+   3,R,D,J
+  40
 
+#lvl_0a_04
+   3
+   6,R,J
+#Demohyper activates block too soon
+   4,R,D,X
+   1,R,D
+   7,R,D
+  10,R,D,J
+   3,R,J
+#Dash as early as possible
+   4,X
+   1,R
+   6,R
+   3
+  11,R
+   4,U,X
+   1,U
+   6
+   2
+  13,L,J
+  15,L
+   4,L,D,X
+   1,L
+   1,L,D
+   1,R,D,J
+   8,R
+   2,R,D,J
+   4,R,D,X
+   1,R,D
+  20,R
+  40
 
+#lvl_0a_05
+   5,R,D
+   9,R
+   4,R,U,X
+   1,R,U
+   7
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   4,R,J
+  40
 
+#lvl_0a_06
+  13,R,J
+   4,U,X
+   1,U
+  20,R
+   4,L,U,X
+   1,L,U
+  17,L
+   4,U,X
+   1,U
+  24,R
+   4,R,U,X
+   1,R,U
+  23,R
+   3
+   4,U,X
+   1,U
+   6
+  11,R,J
+  13,R
+   4,R,D,X
+   1,R
+   9,R,D
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   5,R,D
+  40
+
+#lvl_0b_01b
+   4,R,D
+   2,R,D,J
+   7,R,D
+   4,D,X
+   1,D
+  12
+   4,R,D,X
+   9,R,D
+  11,R,D,J
+  17,R
+   2
+   1,L,J
+   7,L,J
+   5,R,J
+   1,R,K,G
+   3,R
+   4,D,X
+   1,D
+   8
+  17,R
+  16
+   4,L,D,X
+   1,L
+   7,L,D
+   1,L,D,J
+  19,L
+   7,L,D
+   1,R,K
+   8,L,J
+  40,L
+   8
+   4,L,D,X
+   1,L
+  11,R,D
+  30,D
+  40
+
+#lvl_0b_02
+   1,D
+  20,R,D
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+  10,L
+   1,L,J
+  30,D
+   4,R,D,X
+   1,R,D
+   8
+   3
+   1,R,J,G
+  18,L,D
+  10,D
+#Unblock the egg as quickly as possible
+   4,L,X
+   1,L
+   5
+   1,R,J
+   6,L
+   1,J
+   4,R
+  26,D
+   4,L,D
+   4,L,X
+   1,L
+  12
+  30,R,D
+   7,D
+   1,R,J
+   6,L,J
+   4,R,X
+   1,R
+  31,L,D
+  19,D
+  40
+
+#Current progress
+#27.132(1596)
+
+#lvl_0b_03
  100
