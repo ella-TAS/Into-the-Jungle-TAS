@@ -443,6 +443,7 @@ console, load, Into The Jungle/ch3
    1,L,J,G
   43
 
+
 #lvl_b_11
    4,R,J
    8,R
@@ -490,8 +491,6 @@ console, load, Into The Jungle/ch3
   12,R,K,G
    5,R,J,G
   40
-
-#lvl_b_13
    7,R,K,G
    6,R,J,G
   12,R,Z
@@ -504,24 +503,21 @@ console, load, Into The Jungle/ch3
   11,R
   14,R,X
   13,R,J
-  14,U,X
-   6
-  15,U,X
-   8,R,K,G
-#can save 2f from better landing here
-   9,R
-   4,R,D,X
-   1,R,J
+  19,U,X
+  16,U,C
+   7,R,K,G
    7,R
+   7,R,Z
    1,R,J
+   6,R
   40
 
 #lvl_b_14
-   2,R,J
+   1,R,J
   14,R,D,X
    1,R,J
   13,R,U,X
-  23
+  22
   29,R,J
   15
   12,R,X
@@ -539,18 +535,19 @@ console, load, Into The Jungle/ch3
   15,R,J
   14,R,U,X
   39,R,J
-  60
+  59
   18,R,J
   14,R,Z
-  14,R,J
+  11,R,J
+   3,R
   15,U,X
    8,R,J,G
-#same 2f timesave here
-   9,R
+   7,R
    7,R,J
   10,R,Z
-   5,R,J
-  10,R,D,X
+   1,R,J
+   4,R
+  11,R,D,X
   40
 
 #lvl_c_01
@@ -767,37 +764,74 @@ console, load, Into The Jungle/ch3
   11,L,G
   12,J,G
    8,G
-   1,L,J,G
-   5,R,J
-   6,J
-   3,L,J
+   1,J,G
+   1,R,J
+   5,L,J
+  15,L,X
+   7,L,G
+   1,J,G
+  10,L,J
+   1,R,J
+   8,R,G
+  12,J,G
+   8,G
+  11,J,G
+   4,L,J
+  12,R,K,G
+  12,R,J,G
+  11,R,K,G
+  40
+
+#lvl_c_10
+   7,R
+   1,R,J,G
+   7,R
+  19,R,J
+  15,U,X
+  11,L,G
+  35,R,J
+  10
+   1,R
    3
-   9,L
-   1,L,G
-   1,L,J,G
-  99,L
+   7,J
+   4,R,J
+  16,R,G
+   2,R,J,G
+   2,R
+  15,R,U,Z
+  10,R,G
+   1,J,G
+  10,R,J
+   1,L,J
+   8,G
+  28,R,J,G
+   1,K,G
+   8,G
+   1,K,G
+  10,R,K
+   1,L,K
+   8,G
+   7,R,J
+  24,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
+  40
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#lvl_c_12
+   7,R
+   7,R,J
+   1,R
+   1,R,K
+   5,R
+  25,R,U,Z
+  14,R,D,C
+  29,R,J
+  40,R,U,X
+  18,R,D
+   2,R,J
+   5,R,Z
+   1,R,J
+   4,R
