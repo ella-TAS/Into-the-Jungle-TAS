@@ -7,7 +7,7 @@ Work in progress.
 Any% times:
 
 0:  0:47.872
-1A: 1:48.511
+1A: 1:46.488
 2A: WIP
 3A: WIP
 4A: 2:31.011
