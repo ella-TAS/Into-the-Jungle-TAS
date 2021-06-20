@@ -123,23 +123,19 @@ console, hard, Into The Jungle/ch4
   40
 
 #lvl_0a_06
-  13,R,J
+  14,R,J
    4,U,X
    1,U
-  20,R
-   4,L,U,X
-   1,L,U
-  17,L
+  20
    4,U,X
    1,U
-  24,R
-   4,R,U,X
-   1,R,U
   23,R
-   3
    4,U,X
    1,U
-   6
+  22,R
+   4,U,X
+   1,U
+   9
   11,R,J
   13,R
    4,R,D,X
@@ -228,11 +224,318 @@ console, hard, Into The Jungle/ch4
    4,R,X
    1,R
   31,L,D
-  19,D
+#If going for imm. t.s,
+#   replace w/ 19,D
+   3,D
+  16,R,D
   40
 
-#Current progress
-#27.132(1596)
+#lvl_0b_03_0
+#option: immediate collect
+#probably doesn't save time
+#   over waiting for door
+#   4,D,X
+#   1,D
+#  18,L,D
+#   4,L,D,X
+#   1,L,D
+#   7,L,D
+#   1,L,D,J
+#   8,R,D
+#   4,R,D,X
+#   1,R,D
+#  16,R,D
+#   4,U,X
+#   1,U
+#  15,D
+#   9,L,D
+#   1,L,J
+#   1,L
+#   4,L,D,X
+#   1,L,D
+#   9,L,D
+#   3,L,J
+#Deathwarp?
+#   1,S
+#   1,D
+#   1,J
+#   103
+#end
+   4,D
+  12,R,D
+   4,R,D,X
+   1,R,D
+   3,R,D,J
+   8,R,D
+   4,R,D,X
+   1,R,D
+   8,R,D
+  40
 
-#lvl_0b_03
+#lvl_0b_04
+   1,R,D
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,D,J
+   4,R,D
+   4,D,X
+   1,D
+  12,D
+   4,R,D,X
+   1,R,D
+   7,R
+  19,R,J
+   8,L,K
+   4,L,D,X
+   1,L
+  10,L,D
+  11,L,D
+   5,L
+  14,L,D
+   1,L,G
+   1,L,J,G
+   4,L,J
+  21,L,D
+  19,R,J
+  10,D
+#Goes left first
+#Saving for reuse because it will be useful later
+#Does not incorporate super->wallbounce
+#  11,L,D
+#   4,L,D,J,X
+#   1,L,D,J
+#   4,L,J
+#  10,L
+#   2,L,J
+#   4,R,D,X
+#   1,R,D
+#   7,R,D
+#  10,R,D,J
+#   4,R,D,X
+#   1,R,D
+#   9,R,D
+#   7,R,D,J
+#   4,U,X
+#   1,U
+#  22
+#  13,D
+#  12,L,D
+#   4,L,X
+#   1,L
+#  10,L
+#   4,D,X
+#   1,D
+#  10
+#   4,L,D,X
+#   1,L,D
+#   9,L,D
+#   1,R,D,J
+#   7,R,D
+#   6,R,D,J
+#   2,R,D
+#   7,D
+#   4,U,X
+#   1,U
+#  13,R
+#   8,R,D
+#   4,R,D,X
+#   1,R
+#   7,R
+#   1,R,J
+#   4,R
+#   4,D,X
+#   1,D
+#  20,R,D
+#   4,R
+#  etc.
+
+#Go right first
+#Use super to reach ledge
+  11,D
+   4,R,X
+   1,R
+   7,R
+   3,R,J
+   3,L,J
+   4,R,U,X
+   1,R,U
+  14,L
+   9
+  13,L
+  13,L,D
+   4,L,X
+   1,L
+  10,L
+   4,D,X
+   1,D
+  10
+   4,L,D,X
+   1,L,D
+   9,L,D
+   8,L,D,J
+   4,L,D,X
+   1,L,D
+   7,L,D
+   7,R,D,J
+  10,R
+   4,R,X
+   1,R
+   7,R
+  13,R,J
+   1,K
+  10,L,K
+   3,K
+   4,R,U,X
+   1,R,U
+   5
+   1,R,J,G
+   4,R,J
+  16,R
+   3,R,D
+   7,D
+   6,R,D
+   1,R,J
+   4,R
+   3
+  10,R
+   9,R,J
+   9,R,K
+  11,R
+   4,R,U,X
+   1,R,U
+   9
+   1,R,J,G
+   8,R
+   5,L,D
+   4,L,D,X
+   1,L,D
+   7,L,D
+   3,L,D,J
+   4,U,X
+   1,U
+  10
+   3,L,D
+  26,D
+  17,J
+   4,U,X
+   1,U
+   7
+  14,L,J
+  12,L
+  17,L,J
+   4,L,D,X
+   1,L,D
+   6,L,D
+   3
+   3,L,D
+   5,L,J
+   3,L
+   4,L,D,X
+   1,L
+   9
+  12,L,J
+   8,L
+   4,U,X
+   1,U
+  10
+  14,L
+   4,L,D,J,X
+   1,L,D,J
+   1,L,D,J
+  11,L,D
+   4,D,X
+   1,D
+  18,D
+  15,L,D
+   4,L,D,X
+   1,L,D
+   9,L,D
+  40
+
+#lvl_0b_03_1
+   1,L,D,J
+   4,L,D,X
+   1,L,D
+   9,L,D
+  10,L,D,J
+   7,L,D
+   4,D,X
+   1,D
+  10
+   4,L,D,X
+   1,L,D
+   7,L,D
+   1,L,D,J
+   8,R,D
+   4,R,D,X
+   1,R,D
+  16,R,D
+   4,U,X
+   1,U
+  15,D
+   9,L,D
+   1,L,J
+   1,L
+   4,L,D,X
+   1,L,D
+   9,L,D
+   3,L,J
+   4,L,D,X
+   1,L,D
+   3,L,D
+   1,R,D,J
+   7,R,D
+   4,R,D,X
+   1,R,D
+   7,R,D
+   3,R,D,J
+   8
+   4,L,D,X
+   1,L,D
+   9,L,D
+   1,L,D,J
+   4,L,D,X
+   1,L,D
+   9,L,D
+   3,L,D,J
+   4,L,D,X
+   1,L,D
+   9,L,D
+   3,L,D,J
+  40
+
+#lvl_0b_06
+   4,L,D,J
+   4,L,D
+   8,L,J
+   4,U,X
+   1,U
+  10
+   3
+   4,L,D,X
+   1,L,D
+   9,L,D
+  16,L,D,J
+   3
+  20,L,D,J
+   4,L,X
+   1,L
+  20,L
+  20,R
+   6,R
+  20,L,J
+  11,L,K
+#Death warp is possibly not the fastest option
+   1,S
+   1,D
+   1,J
+ 103
+   4,R,D,X
+   1,R,D
+   7,R,D
+  20,R,D,J
+
+
  100
