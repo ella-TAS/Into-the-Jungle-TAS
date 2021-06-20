@@ -4,13 +4,19 @@ console, load, Into The Jungle/ch1
 #Start
 #lvl_a_01
   76
-  10,L,Z
-   5,R,J
-   2,J
-   5,R,J
+
+   7,L,Z
+   1,R,J
+   7,R
+   2,R,J
+   1,L,J
   15,R,U,X
-  31,R,D
-   6,R,Z
+  10,R
+   1
+   1,R
+   4
+  14,R,D
+   5,R,Z
    1,R,J
   12,R
   10,R,J
@@ -18,7 +24,7 @@ console, load, Into The Jungle/ch1
    6,R,J
   15,R,X
   14,R,D
-   5,R,Z
+   4,R,Z
    2,R,J
    1,R,K,G
    9,R
@@ -846,4 +852,4 @@ console, load, Into The Jungle/ch1
    1,S
    1,D,J
   18
-#108.630(6390)
+#108.511(6383)
