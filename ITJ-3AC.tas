@@ -25,49 +25,44 @@ read ITJ-3A Start lvl_b_09
    8,R
   10,L,J
   32,R,U,X
-   5,R,Z
+  14,L,D,C
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+   5,R
   40
 
 #lvl_b_08
+   9,R
+   1,R,J
+  10,R
+   7,R,U,X
+   2,R,J,G
    1,R
-   1,R,J
-   7,R
-   1,R,J
-  13,R,D,X
-   3,R,J
-   4,R,K,G
-   3,R,J,G
-   8,R,K,G
-  15,R,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  10,R,Z
-   5,R,J
-  15,D,X
-  15,D,C
-  15,D,X
-  23,D,C
-  15,D,X
-  15,D,C
-  10,L,D,X
-   1,L,J
-  35,L,D
-  15,L,U,Z
-  12,R,J,G
-   8,R,K,G
-  15,L,J
-   5,L
-   7,R,J
-  15,R,Z
-  15,D,X
-  15,D,C
-  15,D,X
+   5,R,K
+  16,R
+   4,L,D
+  28,L,D,X
+   1,J
+   3,L,D
   11,D
-  11,L,Z
+   5,R,D
+  15,D,X
+   1,R
+  28,L,D
+  11,L,U,Z
+   1,R
+   1,K,G
+  18,L,K
+  12,R,J,G
+  14,R,K,G
+   1,R,J,G
+   7,R
+  15,D,X
+   8,D
+  14,L,X
    1,L,J
-   2,L
-  13,L,D,X
-#68.408(4024)
+  11,L,D,X
+#66.674(3922)
  257
    1,J
