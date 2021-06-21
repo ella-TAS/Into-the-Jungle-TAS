@@ -224,65 +224,58 @@ console, hard, Into The Jungle/ch4
    4,R,X
    1,R
   31,L,D
-#If going for imm. t.s,
-#   replace w/ 19,D
-   3,D
-  16,R,D
+#ALT-1
+  19,D
   40
-
 #lvl_0b_03_0
-#option: immediate collect
-#probably doesn't save time
-#   over waiting for door
-#   4,D,X
-#   1,D
-#  18,L,D
-#   4,L,D,X
-#   1,L,D
-#   7,L,D
-#   1,L,D,J
-#   8,R,D
-#   4,R,D,X
-#   1,R,D
-#  16,R,D
-#   4,U,X
-#   1,U
-#  15,D
-#   9,L,D
-#   1,L,J
-#   1,L
-#   4,L,D,X
-#   1,L,D
-#   9,L,D
-#   3,L,J
-#Deathwarp?
-#   1,S
-#   1,D
-#   1,J
-#   103
-#end
-   4,D
-  12,R,D
-   4,R,D,X
-   1,R,D
-   3,R,D,J
+   4,D,X
+   1,D
+  18,L,D
+   4,L,D,X
+   1,L,D
+   7,L,D
+   1,L,D,J
    8,R,D
    4,R,D,X
    1,R,D
-   8,R,D
-  40
-
-#lvl_0b_04
+  16,R,D
+   4,U,X
+   1,U
+  15,D
+   9,L,D
+   1,L,J
+   1,L
+   4,L,D,X
+   1,L,D
+   9,L,D
+   3,L,J
+#Death warp
+#Respawn from death is 33 frames before
+#  the move-recharge thing respawns
+   1,S
+   1,D,O
+  69,J
+   4,R,D,X
    1,R,D
-   1,R,D,J
+   9,R,D
+   2,R,D,J
+   5,R,D
    4,R,D,X
    1,R,D
    9,R,D
    1,R,D,J
-   4,R,D
+  40
+
+#lvl_0b_04_0
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,D,J
+   7,R,D
    4,D,X
    1,D
-  12,D
+  11,D
+#ALT-1e
    4,R,D,X
    1,R,D
    7,R
@@ -300,59 +293,6 @@ console, hard, Into The Jungle/ch4
   21,L,D
   19,R,J
   10,D
-#Goes left first
-#Saving for reuse because it will be useful later
-#Does not incorporate super->wallbounce
-#  11,L,D
-#   4,L,D,J,X
-#   1,L,D,J
-#   4,L,J
-#  10,L
-#   2,L,J
-#   4,R,D,X
-#   1,R,D
-#   7,R,D
-#  10,R,D,J
-#   4,R,D,X
-#   1,R,D
-#   9,R,D
-#   7,R,D,J
-#   4,U,X
-#   1,U
-#  22
-#  13,D
-#  12,L,D
-#   4,L,X
-#   1,L
-#  10,L
-#   4,D,X
-#   1,D
-#  10
-#   4,L,D,X
-#   1,L,D
-#   9,L,D
-#   1,R,D,J
-#   7,R,D
-#   6,R,D,J
-#   2,R,D
-#   7,D
-#   4,U,X
-#   1,U
-#  13,R
-#   8,R,D
-#   4,R,D,X
-#   1,R
-#   7,R
-#   1,R,J
-#   4,R
-#   4,D,X
-#   1,D
-#  20,R,D
-#   4,R
-#  etc.
-
-#Go right first
-#Use super to reach ledge
   11,D
    4,R,X
    1,R
@@ -424,18 +364,51 @@ console, hard, Into The Jungle/ch4
    7
   14,L,J
   12,L
-  17,L,J
+#ALT-2
+   4,L,U,X
+   1,L,U
+  10
+  10,L
+  18,D
+  16,R,J
+   4,U,X
+   1,U
+   9
+  20,J
+  40
+
+#lvl_0b_05
+   3
+  12,K
+   4,R,X
+   1,R
+  10
+   4,D,X
+   1,D
+  10
+   1,J
+   9
+   1,L,J
+   1,L,K
+   7,L
+   4,D,X
+   1,D
+  10,D
+  40
+
+#lvl_0b_04_n
+  13,D
+  10,L,D
+
    4,L,D,X
    1,L,D
-   6,L,D
-   3
-   3,L,D
-   5,L,J
-   3,L
-   4,L,D,X
+   8,L,D
+   6,L,J
+   0,L
+   4,L,Z
    1,L
    9
-  12,L,J
+  11,L,J
    8,L
    4,U,X
    1,U
@@ -444,7 +417,7 @@ console, hard, Into The Jungle/ch4
    4,L,D,J,X
    1,L,D,J
    1,L,D,J
-  11,L,D
+  10,L,D
    4,D,X
    1,D
   18,D
@@ -455,6 +428,7 @@ console, hard, Into The Jungle/ch4
   40
 
 #lvl_0b_03_1
+   3
    1,L,D,J
    4,L,D,X
    1,L,D
@@ -481,35 +455,35 @@ console, hard, Into The Jungle/ch4
    4,L,D,X
    1,L,D
    9,L,D
-   3,L,J
+   1,L,J
    4,L,D,X
    1,L,D
-   3,L,D
-   1,R,D,J
-   7,R,D
-   4,R,D,X
-   1,R,D
-   7,R,D
-   3,R,D,J
-   8
+   9,L,D
+   3,L,D,J
    4,L,D,X
    1,L,D
    9,L,D
    1,L,D,J
    4,L,D,X
    1,L,D
-   9,L,D
-   3,L,D,J
-   4,L,D,X
-   1,L,D
-   9,L,D
-   3,L,D,J
+   2,L,D
   40
 
 #lvl_0b_06
-   4,L,D,J
-   4,L,D
+   1,L,D
+   5,L,D,J
+   1,L,K,G
+   1,L,J,G
+#silly cornerboost that accomplishes nothing
+#   3,L
+#   4,L,U,X
+#   1,L,U
+#   6
+#   1,L,J,G
+#  50,L,J
+
    8,L,J
+#ALT-2e
    4,U,X
    1,U
   10
@@ -527,15 +501,472 @@ console, hard, Into The Jungle/ch4
    6,R
   20,L,J
   11,L,K
-#Death warp is possibly not the fastest option
+#Death warp is *possibly* not the fastest option
    1,S
-   1,D
-   1,J
- 103
+   1,D,O
+  72,J
    4,R,D,X
    1,R,D
    7,R,D
-  20,R,D,J
+   3,R,D,J
+   4,R,D,X
+   1,R,D
+   5,R,D
+  40
 
+#lvl_0b_03_2
+   3
+   4,R,D
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   3,R,D
+   3,R,D,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  13,R,D
+  16,R,J
+   4,D,X
+   1,D
+  10
+   9
+   4,R,X
+   1,R
+   7
+  10,L,J
+   4,R,U,X
+   1,R,U
+   6,R
+   1,R,J,G
+  13,R,D
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   3,R,D
+   1,R,D,J
+   8,R,D
+   4,R,D,X
+   1,R,D
+   9,R,D
+  40
+
+#lvl_0b_04_1
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   7,R,D
+   2,R,D,J
+  14,L,D
+   5,D
+   5,R,D
+   2,R
+   1,L
+   5,L,D
+   3,L
+   3,L,D
+
+   1,L,G
+   1,L,J,G
+   4,L,J
+   6,L,D
+  12,R,D
+
+   4,R,D,X
+   1,R,D
+  10,D
+   2
+   1,D
+  10,L,D
+   1
+   3,L,D
+   1
+   4,L,D
+   2,L,J
+  14,L
+   4,L,U,X
+   1,L,U
+   6
+   1,L,J,G
+  13,L
+   4,L,D,X
+   1,L,D
+   9,L,D
+   1,L,D,J
+  40
+
+#lvl_0b_07
+#Better strats welcome
+   3
+   1,L,D,J
+   9,L
+   2,G
+   2,J
+   4,R,X
+   1,R
+   9
+   1,J
+   4,U,X
+   1,U
+  14
+  30,L,D
+   9,D
+   7
+   4,L,X
+   1,L
+  10
+   4,U,X
+   1,U
+   9
+  17,R,J
+  15,R
+  33
+   4,R,X
+   1,R
+   1,L,J
+  12,L
+   6,R,J
+  19,R
+   4,R,D,X
+   1,R,D
+   4,R,D
+  40
+
+#lvl_0b_04_2
+   5,R,D
+   2,R,D,J
+  13,R,D
+   2,R,J
+   2
+   4,R,U,X
+   1,R,U
+   1,L,J,G
+   4,L,D
+   8,R,D
+
+   4,L,D,X
+   1,L,D
+   7,L,D
+  18,R,D,J
+   4,U,X
+   1,U
+  22
+  13,D
+  12,L,D
+   4,L,X
+   1,L
+  11,L
+   4,D,X
+   1,D
+  10
+   4,L,D,X
+   1,L,D
+   9,L,D
+   1,R,J
+   7,R,D
+   6,R,D,J
+   2,R,D
+   7,D
+   4,U,X
+   1,U
+  13,R
+   8,R,D
+   4,R,D,X
+   1,R
+   7,R
+   1,R,J
+   2,R
+   4,D,X
+   1,D
+  20,R,D
+  18,D
+  40
+
+#lvl_0b_08
+   8,D
+   4,D,X
+   1,D
+  10
+   4,R,X
+   1,R
+  13
+   4,L,X
+   1,L
+   7,L
+   1,R,J
+   6,D
+   4,D,X
+   1,D
+  20,D
+   4,L,X
+   1,L
+   4,R,J
+   8,R
+   2,G
+  17,L,J
+   4,L,K
+   1,R,J
+   3
+   3,R,J
+   4,L,K
+   4,R,J
+   2,L,K
+  11,L
+   1,L,J
+  13,L
+   1
+  10
+   4,R,X
+   8,R
+   3,L,J
+   4,U,X
+   1,U
+   9
+  10,L,J
+  12
+  18,G
+   1,J,G
+  40
+
+#lvl_0b_04_3
+   8,J,G
+   7,K,G
+   4,U,X
+   1,U
+   6
+   8,R,J
+   1,R,K,G
+   7,R
+   4,R,Z
+   1,R
+   3
+   6
+  15,R,J
+   4,U,X
+   1,U
+  10
+   8,R
+   1,R,J,G
+  13,R,D
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   2,R,D
+   1,R,D,J
+  40
+
+#lvl_0b_09
+   3
+  12,R,D
+   4,R,X
+   1,R
+  31,R,D
+   5,R
+   6,R,J
+   6,R,J
+   6,R,K
+   5,R,J
+   5,R
+   2,R,K
+   4,R,U,X
+   1,R,U
+   5
+   1,R,J,G
+   5,R
+  40
+
+#lvl_0c_01b
+   1,R
+   4,R,D,X
+   1,R,D
+  16,R,D
+#Momentum can be carried further but isn't useful
+#  20,R,D,J
+   1,L,J
+   9,L,K
+#fake hyper, but gets us marginally further in same time
+   4,R,D,X
+   1,R,D
+   7
+   3,R,D,J
+   4,R,X
+   1,R
+   6
+   7,J
+   9,L,K
+   9,R,J
+   4,R,Z
+   6
+   2,R,J
+   7,R
+   4,D,X
+   1,D
+  10
+   4,L,D,X
+   1,L,D
+   4
+   1,R,J
+   7,R
+   6,R,J
+   4,R,U,X
+   1,R,U
+#going down first may be faster
+   8
+   1,R,J,G
+  27,R,D
+   4,L,D,X
+   1,L,D
+   6
+   1,L,J
+   7,L
+   4,R,X
+   1,R
+  10,R
+   4,R,D,J,X
+   1,R,D,J
+   7,R,D
+   4,R,U,J
+   4,U,X
+   1,U
+  10
+  23,R,D
+   4,L,D,X
+   1,L,D
+   9,L,D
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,J,G
+   7,R,D
+  43
+
+#lvl_0c_02
+   1,R,D,J
+   4,R,D,X
+   1,R,D
+   9,R,D
+  11,R,D,J
+   4,R,U,X
+   1,R,U
+   3,R
+   1,R,J,G
+   1,R,K,G
+  28,R,D
+   4,R,X
+   1,R
+   7
+   3,R,J
+   4,R,U,X
+   1,R,U
+   9
+   1,R,J,G
+   4,R
+   3,L,D
+   1
+   2,D
+   1,R,D
+   1,R
+  10,D
+   4,R,D,X
+   1,R,D
+   9
+#wb->cb almost works
+#  16,R,J
+#   4,U,X
+#   1,U
+#   9
+#   4,R,J
+#   1,R,K,G
+#   1,R,J,G
+#  20,R,J
+#  20,R
+  18,R,J
+  13,R,K,G
+  12,J,G
+   5,K,G
+   4,R,X
+   1,R
+   1,R,J,G
+   2,R,J
+  10,R
+   2,L
+   8,L,D
+  17,R,D
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,J
+   4,R,D,X
+   1,R,D
+   7,R,D
+  40
+
+#lvl_0c_03
+   3
+   2,R,D
+   1,R,J
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,J
+   4,R,D,X
+   1,R,D
+   9,R,D
+   1,R,J
+   4,R,D,X
+   1,R,D
+   9,R,D
+   5,R,J
+   4,R,D,X
+   1,R,D
+  10,R,D
+  11,R,J
+   9,R,K,G
+   9,R,J,G
+  11,L,K
+   7,L,J
+   6,R,K
+   6,L,J
+   6,R,K
+   6,L,J
+   4,R,X
+   1,R
+   1,R,J,G
+  45,D
+   4,L,X
+   1,L
+   6,L
+  14,R,J
+  13,R,K,G
+  13,R,J,G
+   8,L,K
+   4
+   4,R,X
+   1,R
+   4
+   1,R,J,G
+   8,R
+   3
+  10,R
+  14,R,D
+   4,R,Z
+   1,R
+   9
+   1,R,J
+   4,R,D,X
+   1,R,D
+   6,R,D
+  40
+
+#lvl_0c_04
+   3,R,D
+   1,R,J
 
  100
