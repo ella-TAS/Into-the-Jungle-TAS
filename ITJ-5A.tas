@@ -632,7 +632,7 @@ console, load, Into The Jungle/ch5
   11,R,J
    3,R,K,G
    1,R,D,G
-   7,R
+   6,R
    5,L,Z
    8,R,J
    4,R
@@ -652,11 +652,48 @@ console, load, Into The Jungle/ch5
    1,K
   13,R,K
   18,U,X
-  11,R,J
+  12,R,J
+#107.015(6295)
+
+#different strat
+#but might be faster
+#if optimised
+#  11,R
+#   5,R,J,G
+#   5,R,X
+#   8,R,J
+#   4,R
+#   1,R,K,G
+#   6,R
+#   1,R,G
+#   3,R
+#  11,R,J
+#   1,R,D,J,G
+#   5,R,K,G
+#   5,R,J,G
+#  14,R,Z
+#   1,R,J
+#   2,L,J
+#  14,R,D,X
+#   2,R,D
+#   4,R
+#   6,R,J
+#  13,R,Z
+#   4,R,J
+#   4,R,K,G
+#   1,R
+#  13,R,J
+#  15,R,Z
+#  19,R,D
+#  14,R,J
+#   1,K
+#  13,R,K
+#  18,U,X
+#  12,R,J
   40
 
 #lvl_c_05
-  11,R
+  10,R
    1,K
    6,R,K
    7,R,Z
@@ -1616,4 +1653,5 @@ console, load, Into The Jungle/ch5
    1,S
    1,D,J
   18
-#4:01.026
+
+#4:01.009
