@@ -626,19 +626,18 @@ console, load, Into The Jungle/ch5
    8,R,J
    4,R
    1,R,K,G
-  10,R
-   5,L,X
-   1,R,J,G
-  11,R,J
-   3,R,K,G
-   1,R,D,G
    6,R
+   1,R,G
+   3,R
+  11,R,J
+   1,R,D,J,G
+   7,R,K,G
    5,L,Z
    8,R,J
    4,R
-  12,R,J
+  11,R,J
   15,R,D,X
-   8,R,D
+   8,R
    1,R,J
    1,R
    5,R,J
@@ -653,43 +652,6 @@ console, load, Into The Jungle/ch5
   13,R,K
   18,U,X
   12,R,J
-#107.015(6295)
-
-#different strat
-#but might be faster
-#if optimised
-#  11,R
-#   5,R,J,G
-#   5,R,X
-#   8,R,J
-#   4,R
-#   1,R,K,G
-#   6,R
-#   1,R,G
-#   3,R
-#  11,R,J
-#   1,R,D,J,G
-#   5,R,K,G
-#   5,R,J,G
-#  14,R,Z
-#   1,R,J
-#   2,L,J
-#  14,R,D,X
-#   2,R,D
-#   4,R
-#   6,R,J
-#  13,R,Z
-#   4,R,J
-#   4,R,K,G
-#   1,R
-#  13,R,J
-#  15,R,Z
-#  19,R,D
-#  14,R,J
-#   1,K
-#  13,R,K
-#  18,U,X
-#  12,R,J
   40
 
 #lvl_c_05
@@ -1571,87 +1533,83 @@ console, load, Into The Jungle/ch5
    9,R,J,G
    6,R,K,G
   11,R
-   7,R,J
+   2,R
+   5,R,J
   40
 
 #lvl_d_14b
-   2,R,J
-   4,R
+   4,R,J
+   2,R
    1
   14,R,D,X
    1,R,J,G
-   5
-   6,R
-   1,R,J
+   6
    1,R
-   1,R,K,G
-  12,R
    1,R,J
+   3,R
+   2,R,D,J
+   2,R,K,G
+  10,R,J,G
   40
 
 #lvl_d_15
-   9,R,J
-   6,R,K,G
+   1,J
+   1,R
+   8,R
+   3,R,J
   15,R,D,X
-   4,R,J
+   5,R,J
   40
 
 #lvl_d_16
-  14,R,D,X
-   5,R,K,G
+   2,R,J
+  15,R,D,X
+  10,R,U,Z
    3,R,J,G
-   7,R,U,X
-  11,R,J,G
+   8,R,K,G
    3,R
   40
 
-#lvl_d_17
-   8,R
+#lvl_d_16
+   2,R
+   2,R,J
+   1
+   4,R
    1,R,J
-   1,R
   15,R,D,X
-   6,R
-   1,R,J
-   2,R,K,G
-   1,R,K
-   5,R
+   1,R,D
+   3,D
+   2,R,J
+   6,R,K,G
+   1,R
   40
 
 #lvl_d_18
-   2,R
-   2
-   4,R
-   1,J,G
-   5,R,J
-   4,R
    1
-   1,R,J,G
-   2,R
+  11,R
+   4,R,J
    7
-   6,J
-   1,R,J
    2,J
+   9
    5,R,U,Z
   40
 
 #lvl_d_19
    9,R,U,Z
    1,L,J,G
-   1,R,J
-  15,R,D,X
-   7,R,D
    1,R
+  15,R,D,X
+   8,R,D
    9,R,U,X
    5,R,J,G
   40
 
 #lvl_d_20
-   7,R,J
-   2,R,K,G
-   2,R
+   1,J
+   6,R,J
+   4,R,K,G
   14,R,D,X
    1,S
    1,D,J
   18
-
-#4:01.009
+#240.720(14160)
