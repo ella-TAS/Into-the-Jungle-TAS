@@ -197,30 +197,21 @@ console, load, Into The Jungle/ch3
   40
 
 #lvl_a_12
-   8,R
-   3,L
-   9
-   1,G
-  12,J,G
-   8,G
-   3,K,G
-   9,R,K
-  12,J,G
-   5,K,G
-   8,J,G
-   1,R
-  21,R,J
-  14,R,Z
-  12,R,J
-  21,L,D
-  11,R,D
-   1,R,G
-   2,R,J,G
-  18,R
+  19,R
+  16,U,X
+  11,L,J
+  11,L
+  10,L,Z
+  23,R,J
+  14,R,D,X
+   5,R,J
+  18,R,D
+   5,L,D
+  10,R,D
   14,R,X
   10,R,J
    1,R
-   8,R,J
+   3,R,J
   14,R,X
    1,R,J
    7,R
@@ -230,11 +221,11 @@ console, load, Into The Jungle/ch3
    4,R,D,X
    1,R,J
    7,R
-   1,R,J
+   2,R,J
   40
 
 #lvl_a_14
-   8,R
+   7,R
   14,R,D,X
   12,R,D
    7,R,J
@@ -243,17 +234,16 @@ console, load, Into The Jungle/ch3
   18,R,J,G
   14,R,Z
    1,R,J
-  28,L,D
-   6,D
-   4,R,D
-  10,L,D,X
-  33,R,J
-  14,R,U,X
-   4,R
-   1,R,J,G
-   7,R
-   6,L,D,X
-   4,R,J
+  32,L,D
+  12,L,D,X
+  30,R,J
+  14,R,X
+   6,R
+   1,R,G
+   8,R,J,G
+   9,R
+   5,L,Z
+   3,R,J
    3,R,K,G
    3,R
    1,R,K,G
@@ -326,20 +316,20 @@ console, load, Into The Jungle/ch3
   15,R,U,X
   40,R,D
    7,R,J
-   9,R,Z
+   9,R,X
+   8,R,J
+  40
+   3,R,J
+  11,U,X
+  50
    1,R,J
-  46,R
-
-#lvl_b_03
-   1,R
-  23,R,J,G
-   1,L,K
-  10,R,X
- 197,L,J
+  14,R
+   9,J
+ 107
    1,R,K
   17,R
    6,R,D
-  13,R,Z
+  14,R,Z
   11,R,J
    1,R
   21,R,J
@@ -352,9 +342,11 @@ console, load, Into The Jungle/ch3
    1,R
    7,R,K,G
    3,R,J,G
-  48,R
+   4,R
+  40
 
 #lvl_b_04
+   4,R
   15,R,U,X
   10,R
    4,D,X
@@ -427,29 +419,31 @@ console, load, Into The Jungle/ch3
    1
    1,R
    1,R,G
-  22,J,G
-  22,K,G
-  45,L,J
-   1,L,G
-  29,L,J,G
-  14,L,U,X
-  10,R
-   3,R,G
-   2,L,J
-   5,L,K
-   4,L,J
-  11,L,K
-   1,L,J,G
+   9,L,J
+   5,L
+   1,R
+  15,L,J
+  17,L,K
+   9,R,K
+   1,R,G
+  16,L,J
+  22,L,U,X
+   5,U,C
+   6,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R,J,G
   43
 
 #lvl_b_11
-   4,R,J
-   8,R
+   4,R,J,G
+   5,L
+   3,R
    5,R,Z
    1,R,J
    7,R
-  15,R,J
-   1,R,J
+  16,R,J
    3,R
    1,R,G
   12,J,G
@@ -521,25 +515,28 @@ console, load, Into The Jungle/ch3
   14,R,D,X
    1,R,J
   13,R,U,X
-  23
-  29,R,J
+  27
+  25,R,J
+   4,L,J
   15
   12,R,X
    5,R,J
   14,U,X
   28
-  19,R,J
-  26
+  15,R,J
+   4,L,J
+   7,L
+  18
   12,R,X
    1,R,J
   26,L,J
-  35
+  24
   14,U,X
    3
   15,R,J
   14,R,U,X
   39,R,J
-  59
+  60
   18,R,J
   14,R,Z
   11,R,J
@@ -738,6 +735,7 @@ console, load, Into The Jungle/ch3
   11,L,J,G
    1
 # d aad a wdas 
+# true
   15,U,X
   11,L,G
    1,J,G
