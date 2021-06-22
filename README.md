@@ -1,8 +1,9 @@
 # Into-the-Jungle-TAS
 Most up-to-date TAS files for Into the Jungle.
 
-Work in progress.
+Draft of any% finished.
 
+Current sum of times (NOT actual time): 14:42.793
 
 Any% times:
 
