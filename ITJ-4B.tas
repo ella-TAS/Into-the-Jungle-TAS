@@ -568,13 +568,11 @@ console, hard, Into The Jungle/ch4
    5,L,D
    3,L
    3,L,D
-
    1,L,G
    1,L,J,G
    4,L,J
    6,L,D
   12,R,D
-
    4,R,D,X
    1,R,D
   10,D
@@ -1075,7 +1073,6 @@ console, hard, Into The Jungle/ch4
   29,R,D
    7,L,D
   10,L
-   0
    4,L,D,X
    1,L,D
    9
@@ -1248,92 +1245,44 @@ console, hard, Into The Jungle/ch4
    4,R,D,X
    1,R,D
    4,R,J,G
+***
    8,R
-   1,R,J
-   1,L,J
-   4,R,D,X
-   1,R,D
-###
-# Best attempt to skip waiting for the boulder
-# Doesn't quite reach ledge
-#   1
-#   1,L,J,G
-#  14,R,D
-#   2,R,J
-#   4,R,D,X
-#   1,R,D
-#   7
-#   1,R,J
-#   7,R
-#   1,R,J
-#   3
-#   4,D,X
-#   1,D
-#  10
-#   1,R
-#   1
-#   9,R,J
-#   9,R
-#   4,R,D,X
-#  14,R,U,X
-#   1,L
-#   1,J,G
-#   4,R,J,G
-#   2
-#   3,R
-# 100,R,J
-###
-
-   4
-   3,R,J,G
-  14,R,D
-   2,R,J
-   4,R,D,X
-   1,R,D
-  10
-   4,L,D,X
-   1,L,D
-   9
-   1,R,J
-   7
-  12,R,J
-#Wait for the boulder
-  14,L,D,X
-   1,J
+   6,R,J
+   3,R
   14,R,D,X
-   1,L,J
-  14,L,D,X
-   1,R,J
-  14,R,D,X
-   1,L,J
-  14,L,D,X
-   1,R,J
-  14,R,D,X
-   1,L,J
-  14,L,D,X
-   1,R,J
-  14,R,D,X
-   1,L,J
+   3,R,J
   15,D,X
-  12
-  20,R,J
-   4,R
-  14,U,X
-  42,R,J
-   2,R,G
-   1,K,G
-  10,R
+   5,R
    1,L
+   1
+   4,Z
+   1,R,J
+   3,R
+   1,R,J
+   3,R
+  17,R,J
+  15,R,U,X
+  11,L
    1,G
+   1,R,J
+  16,R,K
+   2,G
+   1,J,G
+   5,R,J
+   1
+   2,L
+   3,L,G
+   3,G
    1,R,J,G
   20,R,J
-  22,R
+  18,R
+   4,R,D
   15,R,X
    5,R
   14,R,D,X
    1,R,J
    9,R,D,X
-  40
+  43
 
 #lvl_0c_07
    5,R,D,X
