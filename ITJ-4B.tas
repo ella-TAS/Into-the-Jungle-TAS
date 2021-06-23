@@ -1143,60 +1143,49 @@ console, hard, Into The Jungle/ch4
    6,R,J
    8,R
 #dance while we wait
-   3,L,D
+   4,L,D
    3
-   3,R,D
+   4,R,D
+   4
+   4,L,D
+   4
+   4,R,D
    3
-   3,L,D
+   4,L,D
    3
-   3,R,D
+   4,R,D
+   4
+   4,L,D
+   4
+   4,R,D
    3
-   3,L,D
+   4,L,D
    3
-   3,R,D
+   4,R,D
+   4
+   4,L,D
+   4
+   4,R,D
    3
-   3,L,D
+   4,L,D
    3
-   3,R,D
+   4,R,D
+   4
+   4,L,D
+   4
+   4,R,D
    3
-   3,L,D
+   4,L,D
    3
-   3,R,D
+   4,R,D
+   4
+   4,L,D
+   4
+   4,R,D
    3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
-   3,R,D
-   3
-   3,L,D
-   3
+   4,L,D
+   4
+   4,R,D
    4,L,D,X
    1,L,D
    1,R,J
@@ -1245,7 +1234,6 @@ console, hard, Into The Jungle/ch4
    4,R,D,X
    1,R,D
    4,R,J,G
-***
    8,R
    6,R,J
    3,R
@@ -1283,8 +1271,89 @@ console, hard, Into The Jungle/ch4
    1,R,J
    9,R,D,X
   43
-
 #lvl_0c_07
-   5,R,D,X
+   4,R,D,X
+   4,L,J
+   8,L,K,G
+   8,L,J,G
+   4,R,K
    1,R,J
- 100
+   1,R
+   5,R,J
+   2,R,K
+   1,R
+   3,R,K
+   2,R,J
+  15,U,X
+  12,R
+   4,D,G
+   2
+   5,R
+  20,R,J
+  18,R,U,X
+  18,R,U,C
+  15,U,X
+   4
+   3,R,J,G
+   7,R
+   1
+   9,L
+  26,L,J
+  15,U,X
+   8,L
+   4,L,J,G
+  10,K,G
+   1
+  10,J,G
+   6,L
+   4
+  12,L,D,X
+  12,R,J
+  15,R,D,X
+   2,R
+  17,R,J
+   1,R,K,G
+  10,R
+   1,R,J,G
+  15,R,D,X
+  14,R
+   6,R,J
+  14,U,X
+   4,R,J
+   3
+  12,G
+   4
+  10,L,D,X
+  16,R,J
+  15,R,D,X
+   1,R,J
+   3,R
+  10,U,X
+   1,R,J
+   2
+   1,R,J,G
+   2,R
+  10,L
+   1,R,D
+   3,D
+  12,R,D
+   2,R,J
+  14,R,U,Z
+   2,R,J,G
+   5,R
+   2
+   2,L
+  10,R,D,X
+   1,R,J
+   1,R
+   2,L
+  15,R,D,X
+  11,L,D
+  15,R,D,X
+  41,R
+  11,R,J,G
+  11,R,K,G
+  11,R,J,G
+  11,R,K,G
+  39
+#131.495(7735)
