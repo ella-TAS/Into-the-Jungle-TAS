@@ -3,13 +3,13 @@ Most up-to-date TAS files for Into the Jungle.
 
 Draft of any% finished.
 
-Current sum of times (NOT actual time): 14:42.793
+Current sum of times (NOT actual time): 14:42.011
 
 Any% times:
 
 0:  0:47.872
 
-1A: 1:45.689
+1A: 1:45.587
 
 2A: 2:23.378
 
@@ -17,7 +17,7 @@ Any% times:
 
 4A: 2:31.011
 
-5A: 3:57.983
+5A: 3:57.303
 
 
 B-Sides:
@@ -32,4 +32,4 @@ B-Sides:
 
 4AC: 1:05.501
 
-4B: WIP
+4B: 2:11.495
