@@ -3,45 +3,56 @@ console, load, Into The Jungle/ch5
 
 #Start
 #lvl_a_01
+
+#Intro
   36
   22,R,J
-  11,U,X
-  24,L,J
-   8,L,D
-  10,L,X
-  21,R,J
-  14,R,U,X
-   7,R,J,G
-   7,R
-  10,R,D,X
-   2,L,J
-  20,L
-  14,L,U,X
-   1,J,G
-   7,L
+   7,U,X
+  30,L,J
+   1,K,G
+   6
+   2,L
+   1,R
+  20,R,K
+  20,R,U,X
+   2,J,G
+   9,R
+   8,L,Z
+  22,L,J
+   1,K,G
+   7
+   2,L
    1,R
   13,R,J
-   4,D,X
-  17,R,U,X
-   3,L
+  21,R,U,Z
+   2,R
+   1,L
    1,L,J,G
-   2,R,J
+   1,R,J
    3,L,J
-   7,L
+   8,L,D
+
+#Holes
    9,J
    5,L,J
   17,U,X
-  12,L,J,G
-  14,L,K,G
-  18,L,J,G
+  14,L,J,G
+   1,L,K,G
+   3,R,K
+   1,L,K
+   1,R,K
+   8,L,K
+  17,L,J,G
   10,K,G
    2,R,K
   32,R,J
   10,K,G
-   2,L,K,G
-  25,L,J
+   2,L,K
+  17,L,J
+   7,L
    2,K
-  10,L,K
+   9,L,K
+   1,L
   16,U,X
    3,R,J,G
    7,R
@@ -50,237 +61,289 @@ console, load, Into The Jungle/ch5
   16,U,X
   19,L,J
    7,L,K,G
-   8,L
-  11,L,Z
-   6,L,J
-  14,L,D
-   9,R,J
-  15,U,X
-   4,R
-  18,J
-   3,R,K,G
-  13,R
-   1,J
-  11,L,J
-  16,U,X
-  11,L,J,G
-  10,L,D
-  10,L,D,X
-  25,R,J
+   8,L,D
+  10,L,Z
+  23,L,J
+  20,U,X
+   5,R,J,G
+   1,R,K,G
+   7,R,D
+
+#Pillars 1
+   2,R,J
+  14,U,X
+  10,L,J
+   7,R,J
+  12,R,K,G
+  11,R,J,G
+   1
+   1,R,K,G
+   7,R,D
+  14,R,Z
+  17,R,J
   20,U,X
   15,J
   13,R,J
-   4,R,K,G
-   8,R,D
+   5,R,K,G
+   1,J,G
+   7,R
   10,R,X
-  24,L,J
+  21,L,J
+   3,L
   14,L,U,X
   16,L,J,G
-   8,J
-   5,R,K,G
-  11,R,D
+   9,J
+   6,R,K,G
+   7,R,D
+
+#Stacks
+
+#When TASing this
+#section, keep in
+#mind that the stacks
+#of three falling
+#blocks will break
+#if a savestate is
+#used before this
+#section, as they
+#will run into each
+#other as the state
+#loads in (certified
+#bruh moment).
+
   10,R,Z
   16,R,J
   16,U,X
-   1,R,J,G
-  10,R
-  17,L,J
-  16,U,X
-   1,L,J,G
-   1,L,K,G
+   2,R,J,G
+   8,R,D
+  11,L,J
+  14,U,X
+  15,L,D
+   4,L
+   9,L,U,X
    2,L,J,G
-  11,L
-   1,L,J,G
-  16,L
-  10,L,X
-  25,R,J
-  16,U,X
-  12,L,K,G
+  13,L
+  20,R,J
+  14,U,X
+   6,R
+   1,J,G
+   3,R,J
+   7,J
+   1,L,J
+  14,R,K,G
+  12,R,J,G
+  12,R,K,G
+   5,R,J,G
+   7,R,D
+   3,L,J
+   9,R,J
+  10,K,G
+   2,L,K
+  17,L,J
+  20,L,U,X
   12,L,J,G
   12,L,K,G
+   2,L,J,G
+   4,L
    1,J,G
-   3,L,J
-   5,J
-   1,L,J
-   1,R,J
-   1,L,J
-   6,L,K,G
-   8,L,D
-   3,D
-   1,R,J
-  16,U,X
-  38,R,J
-  12,R,K,G
-  12,R,J,G
-  10,R,K,G
-  11,R,D
-  10,R,D,X
-  15,L,J
-  14,U,X
-   9,L,J
-  26,L,D
-  11,L
-   1,L,J
+   4
+   2,L
+   1,R
+   9,R,J
   15,U,X
-   1,L,J,G
+  12,R,J,G
+   5,R,K,G
+   7,R,D
+   1,R,J
+  15,U,X
+   2,L,J,G
    9,L,D
   20,L,J
   13,U,X
-  17,L,J
-   1,R,K,G
-   9,R,D
-  12,R,Z
-  20,R,J
-  17,U,X
-  12,R,J,G
-  12,R,K,G
-  12,R,J,G
-   2,R,K,G
-  12,R,D
-  10,R,D,X
-  25,L,J
-  16,U,X
-  12,L,K,G
-  12,L,J,G
-   2,L,K,G
-   9,L,D
-  28,L,J
-  15,U,X
-   3,L
-  12,L,J,G
-   1,L,K,G
-   8,L
-  10,L,X
-  28,R,J
-  16,U,X
-  12,R,J,G
-  12,R,K,G
-  11,R,J,G
-   1,R,K,G
-  11,R,D
-  10,R,D,X
   12,L,J
+   1,R,J
+   7,R,K,G
+   7,R,D
+
+#Pillars 2
+  10,R,Z
+  22,R,J
   16,U,X
-   2,L,J,G
-   9,L,D
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+   4,K,G
+   5
+   2,R
+   1,L
+  24,L,J
+  26,L,U,X
+  12,L,J,G
+   8,L,K,G
+   8,L,D
+   3,J
+   7,L,J
+   4,J
+  21,L,K
+  15,U,X
+   5,L,J,G
+   8,L,D
+  10,L,D,X
+  19,R,J
+  15,U,X
+   5,R,J
+  12,R,K,G
+  12,R,J,G
+  12,R,K,G
+   7,R,J,G
+   7,R,D
+   8,L,J
+  15,L,U,X
+   6,L,J,G
+   1,L,K,G
+  10,L
+
+#Verticals
   12,J
   16,U,X
   10,L,J,G
    7,L,D
   12,J
   16,U,X
-   8,L,J,G
-  13,L
-  10,L,D,X
-  17,R,J
-  14,R,U,X
-   7,R,J,G
+  10,L,J,G
+   8,L
+   9,R,X
+  20,R,J
+   4,L,J
+   8,R,K,G
+   2,R
+   1,R,J,G
    7,R,D
   12,J
   16,U,X
-   8,R,J,G
-  10,R,D
+  10,R,J,G
+   7,R,D
   16,J
    5,L,J
-  25,U,X
-  10,R,J,G
-  12,R
+  24,U,X
+   1,L
+  11,R,J,G
+   1,R,K,G
+   7,R
   12,J
   16,U,X
   10,L,J,G
    8,L,D
+
+#Pillars 3
   10,L,Z
-#Pillars
   11,L,J
-  16,U,X
+  13,U,X
+   3,U,X
   22,L,J
   12,L,K,G
   12,L,J,G
-  12,L,K,G
-  11,L
-   4,R,J
-   8,J
+  11,L,K,G
+   2,L
+   1,L,J,G
+   7,L,D
+   5,R,J
+   1,J
   16,U,X
   22,R,J
   12,R,K,G
   12,R,J,G
-   5,R,K,G
-   9,R
-   1,J
+  10,R,K,G
+   2,R
+   1,R,J,G
+   7,R,D
+   1,L,J
   15,U,X
-  26,L,J
+   2,L
+  24,L,J
   12,L,K,G
-  10,J,G
-   2,R,J
-  20,R,K
-  12,R,D
-  12,L,J
+   7,J,G
+   2
+   2,R
+  26,R,K
+   3,R
+   3,L
+   6,L,J
+   5,J
+   1,L,J
   16,U,X
   22,L,J
-  10,K,G
-   2,R,K
-  36,R,J
-  12,L,K
+  12,L,K,G
+   1,R,J
+  26,R,K
+   6,R,D
+  12,L,J
   16,U,X
   22,L,J
   12,L,K,G
   12,L,J,G
    4,L,K,G
-   9,L
-   1,L,J
+   7,L,D
+
 #Debris
-  15,U,X
-   3,J,G
-  10,L,J
-   5,L,K,G
+   2,L,J
+  14,U,X
+  11,R,J
+   1,K
+   2,R,K
+  14,L,K
+   7,L,J,G
+   6,K,G
+   8,L,K
+   4,J,G
+   6,L
+   1,R
+   2,R,J
+  10,U,X
+  11,R,J
+   1,R
+  10,K,G
+   1,L,K,G
+   5,R,K
+   2,L,K
+   3,L,J,G
    8,L,D
-   8,L,J
+   1,J
+  11,L,J
+   4,K,G
+   3,R,K
   16,U,X
-  20,R,J
-  12,L,J
-   8,L,K,G
-  19,L,J,G
-   8,R,K,G
-   7,J,G
-   6,L,J
-   4,R,K,G
+  10,J
+   1,L,K,G
+   8,L,D
+   2,L,J
+  14,U,X
+  17,R,J
+   1,L,K
+   9,L,D
+  16,L,J
+  12,U,X
+   4,R,J
   11,R,D
   10,R,X
-   7,R,J
-  16,U,X
-  13,L,J
-   5,R,J
-   1,L,K
-  17,L,J
-   3,K,G
-   1,R,K
-   1,L,K
-   7,R,J
-  12,R,K
-   9,J,G
-   2,L,J
-   5,R,K,G
-   8,L,K
-   7,R,J,G
-   8,R
-  10,R,X
-   7,R,J
-  16,U,X
-   6,R,J,G
-  10,R,D
-  10,R,X
+   6,R,J
+  15,U,X
+  10,R,J,G
+   7,R,D
    2,R,J
-   1,L,K,G
-  11,R,K
+  13,R,D
+   2,R,J
   16,U,X
-  18,L,J
-   1,K,G
-   1,R,J
-  12,R,K
-  10,R
+  18,R,J
+  12,R,K,G
+  12,R,J,G
+   1,R
+   3,R,K,G
+   7,R,D
   14,U,X
-#Escape
-#47.294(2782)
+
+#"Escape" Time:
+#45.067(2651)
 
 #lvl_b_01
   15,L,U,C
@@ -1684,4 +1747,4 @@ console, load, Into The Jungle/ch5
    1,S
    1,D,J
   18
-#237.303(13959)
+#235.076(13828)
