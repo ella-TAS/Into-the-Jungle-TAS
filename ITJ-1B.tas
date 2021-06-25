@@ -14,7 +14,6 @@ console, hard, Into The Jungle/ch1
 #   3,R,J
 #   5,R,D,X
 
-
    7,R,Z
    1,R,J
    7,R
@@ -37,7 +36,6 @@ console, hard, Into The Jungle/ch1
    1,R,J,G
    7,R
 
-
 #   7,R,Z
 #   1,R,J
 #   8,R
@@ -58,6 +56,7 @@ console, hard, Into The Jungle/ch1
 #   2,R
 #   1,R,K,G
 #   7,R
+
    8,R,Z
    1,R,J
    2,R
@@ -131,9 +130,6 @@ console, hard, Into The Jungle/ch1
    2
    1,R
    3,R,J
-#8.959(527)
-#656.24 253.24
-
   16,U,X
   13,R,J
    2,R
@@ -526,7 +522,6 @@ console, hard, Into The Jungle/ch1
   14,L,K,G
   12,R,J
    8,R,G
-
    1,K,G
   10,R,K
    1,L,K
