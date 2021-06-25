@@ -398,12 +398,10 @@ console, hard, Into The Jungle/ch4
 #lvl_0b_04_n
   13,D
   10,L,D
-
    4,L,D,X
    1,L,D
    8,L,D
    6,L,J
-   0,L
    4,L,Z
    1,L
    9
@@ -626,7 +624,6 @@ console, hard, Into The Jungle/ch4
    1,L,J,G
    2,R,J
    8,R
-
   10,R,D,X
   11,R,D,J
    4,U,X
@@ -1240,6 +1237,7 @@ console, hard, Into The Jungle/ch4
    1,R,J
    9,R,D,X
   43
+
 #lvl_0c_07
    4,R,D,X
    4,L,J
