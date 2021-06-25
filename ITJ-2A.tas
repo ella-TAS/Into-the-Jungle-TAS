@@ -238,21 +238,22 @@ console, load, Into The Jungle/ch2
   15,R,X
   15,R,U,C
   20,R,G
-  10,J,G
+#was 10
+   8,J,G
    8,G
   33,L,J
   15,L,U,X
-  11,L
-   2,R
+  11,L,K
+   2,R,K
    9,R,J
   14,R,X
    4,R,J,G
-   3,R,K,G
-   7,R
+   4,R,K,G
    2,R
-   1,R,J
-   4,D,X
-  10,L,X
+   1
+   7,L
+#   1,R,J
+  14,L,Z
    1,R,J
    5,R,D,X
    1,R,K,G
@@ -275,8 +276,7 @@ console, load, Into The Jungle/ch2
    3,R,J
    1,R,K,G
   20,R
-   4,D,X
-  15,R,U,X
+  19,R,U,Z
   55,R
   13,R,X
    9,R,J
@@ -345,6 +345,8 @@ console, load, Into The Jungle/ch2
    2,R,K,G
   16,R
   40
+
+#lvl_b_14
    1,R,J
    1,J
    6,R,J
@@ -353,8 +355,7 @@ console, load, Into The Jungle/ch2
   14,R,U,X
    1,R,J,G
    7,R
-   4,D,X
-  10,R,X
+  14,R,Z
   18,R,J
    3,R
    1,R,J
@@ -419,9 +420,7 @@ console, load, Into The Jungle/ch2
   11,R,J
    4,D,X
   10,U,X
-
    3,R
-
    5,K,G
    4,L,K
    1,R,K
@@ -1158,4 +1157,4 @@ console, load, Into The Jungle/ch2
    1,S
    1,D,J
  108
-#143.378(8434)
+#143.361(8433)
