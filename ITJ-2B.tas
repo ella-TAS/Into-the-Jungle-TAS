@@ -192,22 +192,14 @@ console, hard, Into The Jungle/ch2
   17,R
   10
   15,D,X
-  10,R
-  15,D,X
-  10
-  15,D,X
-   2,R
-  15,R,D,C
-   2,R
-  15,R,U,X
-  27,R
-  11,D
-   2,R,D
-   8,D
-  17,R
-  15,R,U,X
-   5,R
-  15,R,U,X
+  43,D
+   1,R,D
+   6,R
+   4,D,X
+   4,R,X
+  46,R,J
+  27,R,X
+  15,R,U,C
   16,R
    6,R,Z
    1,R,J
@@ -286,46 +278,42 @@ console, hard, Into The Jungle/ch2
    1,R,J
    2,R
   14,R,D,X
-   2,R,J
-   4,R
-  11,R,D,X
-   7,R,J
-  15,R,U,X
-   1,R
-  28
-  15,D,X
-   2,D
-  14,R,D
-  15,R,U,X
-  40,R
-  15,U,X
-   5
-   6,R
+   1,R,J
+   9,R
    6
-  63
+  21,R,J
+   1,J
+   2
+  10,L,D
+   9,D
+   7,R,D
+  15,R,U,X
+   4,R
+   4,D,X
+  11,R,U,X
+  15,R,U,C
+  16,R,D
+  16,D
+   3
+  15,J
   15,U,X
-  20,R
-  21,D
-   3,L
-   2,R
-  15,R
    5
-  15,U,X
-   5,L
   15,R,X
-  24,D
+  23,D
+   1
   12,R,D
-  18,R,X
+   4,D,X
+  14,R,X
   18,U,C
-   1,R
   18,R,X
-  14,R,Z
+   4,D,C
+  10,R,C
    1,R,J
    7,R
    1,R,J
   40
 
-#lvl_b_05
+#lvl_b_05(1)
   11,R,J
   14,R,Z
    5,R,J
@@ -335,22 +323,19 @@ console, hard, Into The Jungle/ch2
    6,R
    8,R,J,G
    7,R
-  11,L,J
-  15,U,X
+  10,L,J
+   2
+   4,D,X
+  11,U,X
    4,L
   31,R,J
-   2,R,K,G
-   7,R
-  14,R,Z
-   1,L,J
-  10,L,Z
-   1,L,J
-   1,R
-  23,L
-  15,U,X
-   3,L
-  26,R,J
-  11,R
+   4,L,K
+  10,R,X
+  16,L,J
+  15,L,U,X
+   1,L,J,G
+  12,L
+   6,R
   10,R,X
   15,L,J
   14,U,X
@@ -362,13 +347,12 @@ console, hard, Into The Jungle/ch2
    1,L,J
    1,R,J
   40
-
 #lvl_b_07
    3,R,J
    9,R,U,Z
   40
 
-#lvl_b_05
+#lvl_b_05(2)
   11,R
    1,L
    1,J,G
@@ -390,7 +374,304 @@ console, hard, Into The Jungle/ch2
    6,R
   18,R,K
   15,R,U,Z
+   5,R
+   2,L
+   6,L,J,G
+  12,R,K
+  40
+
+#lvl_c_01b
    7,R
+   4
+  10,R,D,X
+   6,R,J
+   5,R,D,X
+   3,R,J,G
+  17,R
+   1,R,J
+  15,R,X
+  21,R
+  18,R,X
+  15,R,C
+  49,R
+  15,R,U,X
+  14,R
+  15,R,X
+  72,R
+  15,R,U,Z
+  12,R
+   8,R,J,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  13,R,D,X
+  40
+
+#lvl_c_02
+   1,R,J
+   7,R
+   8,R,J
+  15,R,U,X
+  16,L,D
+  26,D
+  31,R,J
+  15,R,U,X
+   8,R
+  11,J,G
+   1,L,J
+   1,K
+   2,L,K
+   3,R,K
+  33,R,D
+   1,R,J,G
+   1,R,J
+  18,R
+  15,U,X
+  36,L,J
+   1,R
+   1,L
+   4,K,G
+   1,R,K
+  66,R,J
+  13,R,D
+   1,R,J,G
+   4,R,K,G
+  28,R,J,G
+   8,U,X
+  13,R,J
+  27,R
+  15,R,X
+  20,R
+   6,R,Z
+   1,R,J
+   6,R
+  40
+
+#lvl_c_03
+   1,R
+  20,R,J
+  15,R,X
+  20,R,C
+  20,R,X
+  15,R,U,C
+  35,R
+  12,R,J,G
+   8,R,K,G
+   2
+   1,R,J,G
+   7,R
+  10,R,Z
+  27,L,J
+  15,L,X
+   9,L
+  15,U,X
+  11,L
+  15,L,U,X
+   6,L
+  15,L,X
+  20,L
+   1,R
+   1,L
   12,L,J,G
-   6,R,K
-#63.478(3734)
+  11,L,K,G
+   2
+   1,L,J,G
+   7,L
+   9,R,Z
+  20,R,J
+  11,R
+  15,U,C
+  17,L,J
+   1,L
+  15,U,X
+   3
+  27,R,J
+  15,R,U,X
+  20,R
+  11,D
+   3,R,D
+   7,R
+  13,R,U,X
+   7,R,J,G
+   7,R
+   6,R,Z
+   1,R,J
+   3,R
+  40
+
+#lvl_c_04
+   5,R
+   1,R,J
+  14,R,Z
+  13,R,J
+  15,R,Z
+  26,R
+  15,R,U,X
+  38,R
+  13,R,D
+   1,R,J,G
+  13,R,K,G
+   7,R
+   2,L
+   1,R
+   3,J
+  10
+  15,R,D,X
+  28,R
+  15,R,U,X
+  20,R
+  20
+   5,R
+   1,L,D
+   1,R,D
+   1,R,J,G
+  23,R,K,G
+   1,R
+   3,R,K
+   1,L,K
+   1,R,K
+   2,L,J
+   1,R,J
+  10,R
+  47,R,D
+   9,R,X
+  22,R,J,G
+   6,R,K,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   4,R,D,X
+   1,R,J
+   1,R
+  40
+
+#lvl_c_05
+   6,R
+  12,R,J
+  12,U,X
+  15,R,U,C
+  18,D
+   8,L,D
+  17,L
+  15,U,X
+   1
+  20,L
+   1
+   1,L,J,G
+  12,L,K,G
+   7,R
+   4,X
+  10,R,J
+   1
+  15,U,X
+  15,J
+   4,R,J
+  21,R,X
+  18,R,C
+  15,U,X
+   1,R
+  34,R,J
+  12,R,K
+   6,R,Z
+   8,R,J
+   3,R
+  40
+
+#lvl_c_06
+   1,R
+   1,R,J
+  14,R,D,X
+  28,R,J
+  18,R,U,X
+  15,U,C
+  15,R,U,X
+  44,R,D
+  15,R,X
+  33,R,D
+  11,R,D,X
+  10,L
+   3,R
+  15,R,U,X
+  13,R
+  35,D
+  15,R,D,X
+   9,R
+  15,R,X
+  44,R
+  15,R,X
+   3,R
+  15,R,U,X
+  35,R,G
+   1,K
+   4,R,K
+   6,R
+   2,L,G
+  36,R,J,G
+   1,K
+   4,R,K
+   6,R
+   2,L,G
+  35,R,J
+  19,R,D
+  10,L
+  30,D
+  11,R,D
+   5,R,Z
+   5,R,J,G
+   1,R
+   3,R,J
+   1,L,K,G
+  13,R,K
+   9,R,J,G
+   7,R
+  18,R,J
+   9,R,U,X
+  40
+
+#lvl_c_07
+   6,R,U,X
+   4,D,C
+  11,U,C
+   1,R
+  10,R,J
+   7,R
+  15,R,U,X
+  12,R,U,C
+  12,R,J,G
+  26,R
+   3,R
+  15,R,U,X
+   7
+   5,R
+   4,L,J
+   2,J
+   5,R,J
+  18,U,X
+  15,U,C
+  12,K,G
+   9,J,G
+   4,R,K,G
+   8,R
+  15,R,J
+   4,D,X
+  11,U,X
+   4,L
+  21,L,J
+   6,L
+   1
+   1,R,J
+   3,R
+  15,U,X
+  20,L
+  13,R,J
+  14,U,X
+   4
+  12,U,C
+ 135,L
+#115.362(6786)
+
+
