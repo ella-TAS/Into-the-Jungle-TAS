@@ -1,3 +1,5 @@
+#would be used to exit after casette if a B-side was faster than the A-side
+
 unsafe
   62
 #Exit
