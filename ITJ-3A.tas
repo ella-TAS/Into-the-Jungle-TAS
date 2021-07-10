@@ -250,14 +250,15 @@ console, load, Into The Jungle/ch3
   30,D
    3,R,D
   10,L,D,X
-  12,R,J
-   5,R
-   2,R,J
-  13,R
-  15,R,U,X
+  15,R,J
    2,R
-   1
-   6,R
+  14,R,U,X
+   2,L,J,G
+   3,R,J
+  10,R,D
+   3,D
+   2,R,D
+   1,D
    4,Z
    3,J
    1,R,K,G
@@ -1404,4 +1405,4 @@ console, load, Into The Jungle/ch3
    1,S
    1,D,J
   18
-#196.554(11562)
+#196.486(11558)
