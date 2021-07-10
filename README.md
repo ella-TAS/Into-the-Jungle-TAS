@@ -1,10 +1,10 @@
 # Into-the-Jungle-TAS
 Most up-to-date TAS files for Into the Jungle.
 
-Current sum of chapters:   14:33.069
-Current file time:         14:41.671*
+Current sum of chapters:   14:32.933
+Current file time:         14:41.535*
 (may be outdated)
-* currently chapter sum + 8.602
+* chapter sum + 8.602
 
 Any% times:
 
