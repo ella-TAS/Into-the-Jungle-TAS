@@ -75,7 +75,7 @@ console, hard, Into The Jungle/ch2
   11,R
    4,R,K,G
    4,J,G
-   9,L,J,G
+   8,L,J,G
   14,R,X
    6,R,J
   40
@@ -83,22 +83,21 @@ console, hard, Into The Jungle/ch2
 #lvl_a_05
    5,R,J
    8,U,X
-   9,R,J
-  14,R,X
+   8,R,J
+  15,R,X
   15,U,C
-  16,R,X
-  14,D,C
+  15,R,X
+  15,D,C
   15,U,X
-  28,L,D
+  27,L,D
    7,D
    1,L,D
    5,D
   23,R,D
-   4,D,X
-   4,R,X
-   6,R,J
-  13,U,X
-  18,U,C
+   8,R,Z
+   7,R,J
+  15,U,X
+  15,U,C
    1,L
    3,J,G
    9,L,J,G
@@ -129,10 +128,10 @@ console, hard, Into The Jungle/ch2
   19,R,U,C
    9,R,X
    7,R
-  22,R,X
+  21,R,X
   18,R,D,C
   11,R,U,X
-  15
+  16
   15,U,C
   30,R,D
    8,D
@@ -205,7 +204,7 @@ console, hard, Into The Jungle/ch2
   11,R,D,C
   39,R,D
   15,R,X
-   9,R
+   8,R
   15,R,U,C
   17,R
    6,R,Z
@@ -224,17 +223,16 @@ console, hard, Into The Jungle/ch2
    3,R,J
    6,R
   15,R,U,X
-  24,R,D
+  23,R,D
   15,R,D,X
   26,R,J
-  14,U,X
+  15,U,X
   15,R,U,C
-  32,R,D
+  31,R,D
   10,D
    8,R
   15,R,X
-   1,R
-  15,R,D,X
+  15,R,D,C
    8,R,J
    4,R
   14,R,Z
@@ -264,13 +262,13 @@ console, hard, Into The Jungle/ch2
   15,L,D,X
    4,L
   15,U,X
-  16,L,J
+  15,L,J
   15,R,X
   27,R
   15,R,U,X
   16,R
   15,U,X
-   6,R
+   5,R
   15,R,X
    2,R,G
    8,R,J,G
@@ -306,7 +304,7 @@ console, hard, Into The Jungle/ch2
    3
   15,J
   15,U,X
-   5
+   4
   15,R,X
   23,D
    1
@@ -465,8 +463,8 @@ console, hard, Into The Jungle/ch2
    1,R
   20,R,J
   15,R,X
-  20,R,C
-  20,R,X
+  19,R,C
+  19,R,X
   15,R,U,C
   35,R
   12,R,J,G
@@ -481,7 +479,7 @@ console, hard, Into The Jungle/ch2
   15,U,X
   11,L
   15,L,U,X
-   6,L
+   5,L
   15,L,X
   20,L
    1,R
@@ -493,7 +491,7 @@ console, hard, Into The Jungle/ch2
    7,L
    9,R,Z
   20,R,J
-  11,R
+  10,R
   15,U,C
   17,L,J
    1,L
@@ -551,9 +549,9 @@ console, hard, Into The Jungle/ch2
 #lvl_c_05
    6,R
   12,R,J
-  12,U,X
+  15,U,X
   15,R,U,C
-  18,D
+  15,D
    8,L,D
   17,L
   15,U,X
@@ -564,13 +562,12 @@ console, hard, Into The Jungle/ch2
   12,L,K,G
    7,R
    4,X
-  10,R,J
-   1
+  11,R,J
   15,U,X
-  15,J
+  14,J
    4,R,J
   21,R,X
-  18,R,C
+  17,R,C
   15,U,X
    1,R
   34,R,J
@@ -586,8 +583,7 @@ console, hard, Into The Jungle/ch2
   14,R,D,X
   28,R,J
   18,R,U,X
-  13,U,C
-   2
+  15,U,C
   15,R,U,X
   44,R,D
   15,R,X
@@ -639,7 +635,7 @@ console, hard, Into The Jungle/ch2
   11,U,C
    1,R
   10,R,J
-   7,R
+   6,R
   15,R,U,X
   12,R,U,C
   12,R,J,G
@@ -669,8 +665,8 @@ console, hard, Into The Jungle/ch2
    1,L,J,G
    9,L
   13,J
-  14,U,X
-   6
+  15,U,X
+   5
   12,U,C
  135,L
-#110.908(6524)
+#110.653(6509)
