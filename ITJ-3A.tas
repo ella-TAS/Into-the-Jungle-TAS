@@ -416,7 +416,7 @@ console, load, Into The Jungle/ch3
    9,R,J
    1,R
    1,L
-   8,G
+   6,G
   23,R,J
    3,R
   15,R,U,X
@@ -490,7 +490,7 @@ console, load, Into The Jungle/ch3
 #lvl_b_11
    4,R,J,G
    5,L
-   3,R
+   2,R
    5,R,Z
    1,R,J
    7,R
@@ -1222,11 +1222,12 @@ console, load, Into The Jungle/ch3
    1,R
    1,R,K,G
    9,R
-  12,R,J
-  18,R,U,X
-  14,L,U,C
-  92
-  16,U,X
+  11,R,J
+  15,R,U,X
+   6,R
+  13,L,U,C
+  91
+  15,U,X
    9,L
  114
   16,R,U,X
@@ -1405,4 +1406,4 @@ console, load, Into The Jungle/ch3
    1,S
    1,D,J
   18
-#196.486(11558)
+#196.418(11554)
