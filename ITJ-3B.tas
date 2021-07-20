@@ -263,6 +263,10 @@ console, hard, Into The Jungle/ch3
   15,L,U,Z
   30,L
   15,L,D
+#you can spinner hyper
+#from the right of here
+#but it requires re-doing
+#a terrible room so no
    6,L
   15,L,X
   13,L
@@ -534,39 +538,40 @@ console, hard, Into The Jungle/ch3
   32
   15,R,U,X
   26,R
-   1
-   8,L
-   3,L,D
-   9,R,Z
-  27,R,J
-  14,R,D,X
-  26,R,J
-  15,R,U,X
-   3,R
-  71,R,G
-  15
-  12,R
-  18,R,U,Z
-  15,U,X
-  70,L,G
+  12,L
+   4,R
+   4,J
    5
-  21,R,D
-   2
-  10,R,Z
-   6,R,J
-  13,R
-   9,L,D,X
-   1,L,J,G
-   1,R
-   8
-   2,L
-   1
-   1,R,J
-  20,J
-  13,U,X
-  85
+   7,J
+  15,U,Z
+  14,L
+  24,D
+  15,U,X
+  14,R
+  21,D
    1,J
-  27,R
+  14
+   2,J
+  15
+   3,J
+  16
+   4,J
+  17
+   7,J
+  18
+   1,R
+   9,R,Z
+  24,R,J
+  14,R
+   1,R,J
+  14,R,D,X
+  10,R,J
+  17,R
+  15,R,U,Z
+  15,R,U,X
+  97,R
+  15,R,X
+  30,R
   12,R,Z
   40
 
@@ -901,18 +906,15 @@ console, hard, Into The Jungle/ch3
   40
 
 #lvl_c_05
-   2,R,J
-  14,R,U,X
-  12,R,J,G
-  10,R,K,G
-   2,R
-   2,R,J,G
+   7,R,J
+   1,J
+  15,U,X
+   7,R
+   8,R,J,G
    7,R
    4,Z
    1,R,J
-   1,R
-   1,R,J
-   8,R
+  10,R
   15,D,X
   10,R,D
   14,R,Z
@@ -927,75 +929,76 @@ console, hard, Into The Jungle/ch3
    1,R,K,G
   20,R
   14,R,Z
-  92,R,J,G
-   1,R,K,G
-  18,R
-  14,R,Z
-  20,R,J
+  84,R,J,G
+  11,R,K,G
+  24,R
+  14,R,X
+  10,R,J
+  25,R
+   7
+   5,R
+  49
   15,R,X
-  10,R
-#might be possible to keep
-#a dash here but idgaf
-  95
-   1,J
-  17,R,D
-   4,Z
+  18,R
+   9,R,Z
    1,R,J
    7,R
-   4,R,J
+   1,R,J
   40
 
 #lvl_c_06
-   3,R,J
+   4,R,J
   14,R,D,X
-  30,R,J
+  27,R,J
   18,R,U,Z
+   3,R
   18,R,U,X
-   5,R
+   3,R
   15,R,X
-  24,R
-   1,R,J,G
-   7,R
+  22,R
+   2,R,D
   10,R,D,X
-   5,R,J
+   4,R,J
   15,R,U,X
-   2
+   3
    7,R,J,G
    7,R
    1,J
-   9
-  39,R
-  10,J,G
+  10
+  34,R
+   4,R,D
+   8,J,G
+   3
   15,R,U,X
-  16,R
    5
-   1,R
+  14,R
+   3
   14,R,D,X
   15,R,J
    9,R
   14,R,U,X
    1,R,J,G
    7,R
-   4,R,J
-   2,R
+  10,R,J
   15,R,U,X
-  50,R,D
-   1,L,D
-   1,J,G
-  10,L,J
-   2,J
-  13,R,D,X
-   1,R,J
-  14,R
-  15,U,X
-  19,R
+  41,R
+   3
+   6,D
+   4,R,D
   14,R,Z
-   2,R,J
-  19,R
+  17,J
+  15,R,U,X
+  20,L
+   1
+  14,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  12,R
   12,R,U,Z
    1,L,J,G
    4,R,J
-  28,R
+  27,R,D
    2,R,J
    5,R,Z
    1,R,J
@@ -1045,4 +1048,4 @@ console, hard, Into The Jungle/ch3
   15,R,U,X
    4,R
  135
-#171.938(10114)
+#170.850(10050)
