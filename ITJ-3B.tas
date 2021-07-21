@@ -5,26 +5,27 @@ console, hard, Into The Jungle/ch3
   69
 
 #lvl_a_01
-  12,R
-  10,L,D,X
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   3,R,K
-   5,K
-   5,R,J,G
-   9,R,K,G
-   3,R
-   1,R,J
-  14,U,X
-   1,J
-  11,L
    4,Z
    1,R,J
+  13,R
+   1,R,J
+   1,R,K
+   3,R,J
+   2,R,K,G
+   5,R,J,G
    7,R
    3,R,J
+  11,J
+  15,U,X
+   1,J,G
+   1,L,J
+   4,L
+   3
+   8,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   2,R
    5,R,D,X
    1,R,J,G
    8,R
@@ -34,11 +35,13 @@ console, hard, Into The Jungle/ch3
    3,R
    1,R,J
   14,R
-  15,R,J
-   8,R
-  20,R,J
+  11,R,J
+   5,R
+   1,R,J
+   5,R
+  19,R,J
   15,R,U,X
-   9,R
+  10,R
    1,R,J,G
   56,R,G
   15,R
@@ -1025,4 +1028,8 @@ console, hard, Into The Jungle/ch3
   15,R,U,X
    4,R
  135
+<<<<<<< Updated upstream
 #169.864(9992)
+=======
+#169.830(9990)
+>>>>>>> Stashed changes
