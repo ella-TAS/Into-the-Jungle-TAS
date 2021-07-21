@@ -138,7 +138,8 @@ console, hard, Into The Jungle/ch3
   21,L,J
   15,U,X
   10,L
-  19,L,G
+   1,L
+  18,L,G
   14,R
    1,R,J
    2,J
@@ -259,70 +260,47 @@ console, hard, Into The Jungle/ch3
   13,L,J
    4,L,K,G
    1,J
-  21,L,J
+  22,L,J
   15,L,U,Z
-  30,L
-  15,L,D
-#you can spinner hyper
-#from the right of here
-#but it requires re-doing
-#a terrible room so no
-   6,L
-  15,L,X
-  13,L
+  50,L
+  13,R,Z
+   2,L,J
+   3,L
+  15,L,D,X
+   5,L,D
    1,L,J
-   2,L
-  14,L,D,X
-   4,L,J
+  12,L,U,Z
   40
 
 #lvl_a_07
-   3,L,J
-   1,L,K,G
-  14,L,D,X
-  10,L,J
-   7,J
-  15,L,U,X
-  10,L,G
-   1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-  10,R,J
-   1,L,J
-   8,G
-  20,J,G
-   2,G
-   1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-  10,R,J
-   1,L,J
-   8,G
-  20,J,G
-   2,G
-   1,L,J,G
-   4,J
-   5,L,J
-   2,L
-   3
-   2,J
-   1,L,J
-  11,R,U,G
-  17,L,K
-   1,K
-   8
-  14,L,D,X
-   3,R,J
-   7,R
-   8,R,J
-  15,R,U,Z
-  14,R,G
+   2,L,U,Z
+   1,R,J,G
+  19,L,J
+  15,U,X
+  11,L,G
   12,J,G
    8,G
+   1,J
+   5,R,J
+  28,L,J
+   1,G
+   1,J,G
+  10,L,J
+   1,R,J
+   8,G
+  15,L,J
+  15,L,U,X
+  14,L,G
+  23,L,J,G
+  10,L
+   1
+  14,L,D,X
+   7,R,J
+   5,R
+   7,R,J
+  15,R,U,X
+  10,R
+   1,R,G
    1,J,G
   10,R,J
    1,L,J
@@ -335,13 +313,13 @@ console, hard, Into The Jungle/ch3
   10,R,J
    1,L,J
    8,G
+  12,R,J
+   1,L,J
+   1,K
+   2,J,G
    2,R,J
-   2,R,K
-   4,R
-   1,R,J
-   4,R,K
   20,R
-   6,R,Z
+   7,R,Z
    1,R,J
    7,R
    1,R,J
@@ -539,27 +517,26 @@ console, hard, Into The Jungle/ch3
   15,R,U,X
   26,R
   12,L
-   4,R
-   4,J
+   2,R
+   2,R,D
+   4,D,J
    5
    7,J
   15,U,Z
   14,L
-  24,D
+  25,D
   15,U,X
   14,R
-  21,D
-   1,J
-  14
-   2,J
-  15
-   3,J
-  16
-   4,J
-  17
-   7,J
-  18
-   1,R
+  23,D
+   1,D,J
+  16,D
+   2,D,J
+  17,D
+   3,D,J
+  19,D
+  21,D,J
+  13,D
+   3,R,D
    9,R,Z
   24,R,J
   14,R
@@ -1048,4 +1025,4 @@ console, hard, Into The Jungle/ch3
   15,R,U,X
    4,R
  135
-#170.850(10050)
+#169.864(9992)
