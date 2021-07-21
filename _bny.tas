@@ -1,0 +1,23 @@
+read _start
+read ITJ-0 Start
+read LoadA Prologue
+read ITJ-1AC Start
+read LoadBFromA
+read ITJ-1B Start
+read LoadAFromB
+read ITJ-2AC Start
+read LoadBFromA
+read ITJ-2B Start
+read LoadAFromB
+read ITJ-3AC Start
+read LoadBFromA
+read ITJ-3B Start
+read LoadAFromB
+read ITJ-4AC Start
+read LoadBFromA
+read ITJ-4B Start
+read LoadAFromB
+read ITJ-5AC Start
+read LoadBFromA
+  59
+   1,J
