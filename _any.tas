@@ -1,0 +1,12 @@
+read _start
+read ITJ-0 Start
+read LoadA Prologue
+read ITJ-1A Start
+read LoadACollects
+read ITJ-2A Start
+read LoadACollects
+read ITJ-3A Start
+read LoadA
+read ITJ-4A Start
+read LoadA
+read ITJ-5A Start
