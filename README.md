@@ -3,7 +3,7 @@ Most up-to-date TAS files for Into the Jungle.
 
 Sum of A-Sides:    14:32.236
 Any% file time:    14:41.025*
-Bny% file time:    17:48.977
+Bny% file time:    17:48.875
 * chapter sum + 8.602
 
 Any% times:
@@ -33,7 +33,7 @@ Bny% times:
 3B:  2:48.028
 
 4AC: 1:05.399
-4B:  2:08.571
+4B:  2:08.469
 
 5AC: 1:59.935
 5B:  2:40.531
