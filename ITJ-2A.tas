@@ -121,12 +121,14 @@ console, load, Into The Jungle/ch2
   40
 
 #lvl_a_08
-  17,R,J
-  14,R,U,X
+  15,R,J
+  15,R,U,X
   15,R,C
-  20,R,D
+  19,R,D
    5,D
-   3,R,D
+   1,R,D
+   1,R
+   1,D
    6,R,D,X
   13,R
   14,R,X
@@ -1124,4 +1126,4 @@ console, load, Into The Jungle/ch2
    1,S
    1,D,J
  108
-#141.729(8337)
+#141.695(8335)
