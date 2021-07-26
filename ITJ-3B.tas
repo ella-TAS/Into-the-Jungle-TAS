@@ -607,8 +607,10 @@ console, hard, Into The Jungle/ch3
   36
   20,R,U,X
   15,R,U,C
-  29,D
-  47
+  15,L
+   5,D
+   9,R,D
+  46
   16,R,X
   11,R,D
    4,Z
@@ -919,4 +921,4 @@ console, hard, Into The Jungle/ch3
   15,R,U,X
    4,R
  135
-#158.457(9321)
+#158.440(9320)
