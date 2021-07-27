@@ -111,8 +111,6 @@ console, load, Into The Jungle/ch4
   13,R,J
   43
 
-***s
-
 #lvl_a_07
    6
    5,L
@@ -151,8 +149,6 @@ console, load, Into The Jungle/ch4
    1,D
    1,L,D
   40
-
-***
 
 #lvl_a_10
    1,L,D
@@ -366,7 +362,6 @@ console, load, Into The Jungle/ch4
   11,R
   43
 
-***S
 
 #lvl_b_07
    4,R
@@ -419,7 +414,6 @@ console, load, Into The Jungle/ch4
   13,R,D,X
   43
 
-***
 
 #lvl_b_11
   12,R
