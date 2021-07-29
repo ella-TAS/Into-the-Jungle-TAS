@@ -656,7 +656,6 @@ console, load, Into The Jungle/ch3
   24,R,J,G
   15,R,U,X
   10,R
-
   10,R,X
   12,J,G
    8,G
@@ -953,7 +952,7 @@ console, load, Into The Jungle/ch3
   23,R,D
  123
    1,R,J
-  14,R,D
+  14,R
   10,R,X
    1,R,J
    5,K,G
@@ -1005,7 +1004,8 @@ console, load, Into The Jungle/ch3
    3,R,J
    1,R
    2,R,J
-  40,R,D
+   8,R
+  32,R,D
   71
   19,U,X
    8,R
@@ -1262,35 +1262,27 @@ console, load, Into The Jungle/ch3
    9,L,Z
   11,L,J
    5,L
-   6,L,J
-  15,L,X
-   3,L
-  15,L,U,Z
-  10,L
-  15,U,X
-   3,L
-   5,J,G
    2,L,J
-   1,L
-   1,L,J,G
-   1,J
-   7,L
-   1,L,J
    4,L
-   3
-  10,R,D,X
-  23,R,J
-   1,R
+  15,L,U,X
+  19,L,Z
+   2,L
+  15,U,X
+   2,L
+  12,L,J,G
+   1,L,K,G
    1
+   5,L
    1,R
-   1,G
+  10,L,D,X
+  33,R,K,G
    1,J,G
    4,R,J
    6,R
    1,L
    1,G
-   9,R,J
-  18,R
+  12,R,J
+  15,R
    1,R,G
    7,R,J,G
   15,R,X
@@ -1413,4 +1405,4 @@ console, load, Into The Jungle/ch3
    1,S
    1,D,J
   18
-#194.446(11438)
+#194.327(11431)
