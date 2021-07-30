@@ -63,6 +63,33 @@ read ITJ-3A Start lvl_b_09
   14,L,X
    1,L,J
   11,L,D,X
-#61.727(3631)
  257
    1,J
+#collection
+
+ 123
+  10,L,D,X
+   1,L,J
+   2,L
+  40
+
+#lvl_b_09
+   8,L,D
+   2,R,D
+  18,L,D
+   1,L
+   5
+  15,L,X
+   4,R
+  16,L,K
+  15,L,U,X
+   7,L
+  15,L,U,Z
+   3,L
+   1,J
+   6,L,J
+  12,R,K,G
+  40
+
+read ITJ-3A lvl_b_11
+#3:28.641

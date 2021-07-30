@@ -1,6 +1,7 @@
 console, load, Into The Jungle/ch2
    1
 
+unsafe
 #Start
 read ITJ-2A Start lvl_b_02
 
@@ -93,3 +94,40 @@ read ITJ-2A Start lvl_b_02
 #47.549(2797)
  257
    1,J
+#collection
+  62
+#Exit
+
+console, load, Into The Jungle/ch2, 3776, -1424
+   1
+
+#Continue
+  36
+   1,R
+   1,R,J
+  10,L,D,X
+   6,R,J
+   5,R,D,X
+   1,R,J,G
+  11,R
+   3,R,J
+   5,R,D,X
+   1,R,J,G
+  16,R
+   1,R,J
+   5,R
+   3,R,J
+   8,R
+   1,R,J,G
+  20,R
+  15,R,U,X
+  23,R,D
+   4,R
+  32,R
+  14,R,X
+   9,R,J
+   5,R,U,X
+  40
+
+read ITJ-2A lvl_b_02
+#1:49.616
