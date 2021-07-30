@@ -1,0 +1,41 @@
+unsafe
+read _start 0 switchToITJ
+read _start rename
+   1,S
+   1,D,J
+  32
+read LoadEnableCheatMode
+   1,X
+  42
+
+#configure the amount of
+#presses if you need to
+   1,U
+  60
+   1,U
+  26
+
+   1,L
+   8
+   1,L
+   8
+   1,L
+   8
+   1,L
+   8
+   1,J
+  21
+   1,R
+   1,J
+  30
+   1,J
+ 304
+read ITJ-1B Start
+read LoadBCheatMode
+read ITJ-2B Start
+read LoadBCheatMode
+read ITJ-3B Start
+read LoadBCheatMode
+read ITJ-4B Start
+read LoadBCheatMode
+read ITJ-5B Start
