@@ -6,7 +6,7 @@ console titlescreen
    1,J
   62
    1,D
-#break
+#switchToITJ
    1,F,180
    1,D
    1,F,180
@@ -14,7 +14,7 @@ console titlescreen
    1,U
    1,F,
    1,U
-#continue
+#rename
    1,J
   41
    1,D
