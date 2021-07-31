@@ -1,4 +1,7 @@
 unsafe
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
 console titlescreen
    2
    1,J
