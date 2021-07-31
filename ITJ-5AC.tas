@@ -1,4 +1,4 @@
-#ITJ-5AC.tas
+console clrsav
 console, load, Into The Jungle/ch5
    1
 
@@ -250,3 +250,12 @@ read ITJ-5A Start lvl_c_04
 #119.680(7040)
  257
    1,J
+#collection
+
+console, load, Into The Jungle/ch5, 4904, 3256
+   1
+
+#Continue
+  36
+   7,L,Z
+read ITJ-5A 5AC
