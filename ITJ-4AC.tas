@@ -2,7 +2,7 @@ console, load, Into The Jungle/ch4
    1
 
 #Start
-read ITJ-4A Start lvl_c_02
+read ITJ-4A Start lvl_c_02(1)
 
 #lvl_c_02
   15,D,X

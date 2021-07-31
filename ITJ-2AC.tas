@@ -1,7 +1,6 @@
 console, load, Into The Jungle/ch2
    1
 
-unsafe
 #Start
 read ITJ-2A Start lvl_b_02
 
@@ -18,80 +17,95 @@ read ITJ-2A Start lvl_b_02
   11,R,J
    8,R
    1,J
-  11,K,G
-   5,L,X
-  13
-  15,U,X
-   9,J,G
-   1
-   1,J,G
-   7,L
-   9,L
-   1,L,D,J
-   8,L
-  12,L,U,X
-  15,L,J,G
-   3,L,K,G
-   9,L
-   4,L,X
+   1,R,K,G
+   5,J,G
    1,L,J
+   4,J
+   5,L,X
+  18,L,J
+  17,U,X
+  16,J
+   1,L,K,G
+   2,R,K
+   7,L
+  11,L,J
+   1,L
+  10,L,Z
+   1,L,J
+   1,L
+   3,L,K,G
+   3
+   5,L,U,X
   40
 
 #lvl_b_04
-  10,L,J
-   3,L,K,G
+   7,L,U,X
+   2,L,J,G
+   2,L
+  12,L,D,X
+   5,L
+  10,L,D,X
+   5,L
   14,L,D,X
-  21,L,J
-  12,L,D
-  20,L,X
-  26,L,D,C
-  22,L,D,X
-  27,L,C
-   6,L,Z
-   1,L,J
-   1,L
+   9,L
+  10,L,D,X
+   5,L
+  14,L,D,X
+   6,L
+   1
+  11,L,D,X
+   3,L,J
+   3,L,K,G
+   7,L,D,X
   40
 
 #lvl_b_05
-   6,L
+   7,L,D,X
+   2,J
+   6,L,D,X
    1,L,J
-  14,L,D,X
-   4,L,J
-   1,L
+   3,L
+   1,L,J
+   3,L
+   3,L,D,J
    5,L,D,X
-   3,L,J,G
-   1,L
+   2,L,J,G
    5,L
-   2,R
-   1,L,K,G
-  12,L
    1,L,J
-   1,L
+   2,J
+   1,L,K,G
+  13,L
+   1,L,J
    6,L,D,X
    1,L,J,G
-  10,L
+  11,L
   40
 
 #lvl_b_06
-   3,L
-   5,L,J
-   6,L,X
-  17,L
-   8,L,D,X
+   2,L
+   4,L,J
+   8,L,Z
+  17,L,J
+   6,L,D,X
    1,L,J,G
-   9,L
-   1,L,J,G
-   5,L
+   1,J
+   1
+   4,L
+   3,L,J
+   4,L,K,G
+   1,L
   40
 
 #lvl_b_cassette
-   7,L
-  45,L,J
+   1,L,J
+   5,L
+  22,L,J
+  20,L,D
   12,L,U,Z
-   1,R,K,G
-  10,L,K
-  20,L
-#47.549(2797)
+   1,R,J,G
+   4,L,J
+  21,L
+#46.461(2733)
  257
    1,J
 #collection

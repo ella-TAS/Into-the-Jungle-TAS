@@ -20,12 +20,17 @@ read ITJ-3A Start lvl_b_09
    6,J,G
    6,R,J
    8,R,G
-   7,R,J,G
-   5,R,K,G
-   8,R
-  10,L,J
-  32,R,U,X
-  14,L,D,C
+   6,R,J,G
+   1,R
+   5,K,G
+   6,R
+   1,L
+   8,L,J
+  10,R,U,X
+   7,J
+   6
+   7,R,D
+  14,L,D,X
    1,R,J
    5,R,D,X
    1,R,J,G
@@ -66,7 +71,6 @@ read ITJ-3A Start lvl_b_09
  257
    1,J
 #collection
-
  123
   10,L,D,X
    1,L,J
