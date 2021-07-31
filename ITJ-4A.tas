@@ -510,7 +510,7 @@ console, load, Into The Jungle/ch4
    5
   40
 
-#lvl_c_02 (1)
+#lvl_c_02(1)
    1
   15,D,X
    5,R,D,C
@@ -1423,7 +1423,7 @@ console, load, Into The Jungle/ch4
   43
 
 #lvl_d_13_outro
-   3
+   1
    1,S
    1,D,J
   18

@@ -575,10 +575,11 @@ console, load, Into The Jungle/ch0
   40
 
 #lvl_a_07
-  13,R,J
+  11,R,J
 #It's faster to wait
 #for the timer to stop so
 #it negates fadeout.
+#(issue fixed)
    1,S
    1,D,J
   18
