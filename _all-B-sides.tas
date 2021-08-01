@@ -11,10 +11,7 @@ read LoadEnableCheatMode
 #configure the amount of
 #presses if you need to
    1,U
-  60
-   1,U
-  26
-
+  48
    1,L
    8
    1,L
