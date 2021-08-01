@@ -733,6 +733,7 @@ console, load, Into The Jungle/ch1
    4,R
   40
 
+
 #lvl_d_09
    3,R
    7,R,J
@@ -773,6 +774,7 @@ console, load, Into The Jungle/ch1
   12,L,D
    1,L,J,G
   20,L,D
+
    4,Z
    2,L,J
    1,L
@@ -784,23 +786,24 @@ console, load, Into The Jungle/ch1
   15,D,X
    5,L,Z
    1,L,J
-   5,L
+   1,L
    1,L,J
-  22,L,D
-  15,L,Z
-  25,L,D
-   7,L
-   2
-   3,D
+   3,L
+   5,L,J
+  23,L,D
+   1,R,D
+   1,L,D
+  13,R,D
+  12,R
   14,R,Z
    1,R,J
-  15,R,D,X
-   8,R,D
-  26,R,D,J
+  23,R,D,X
+  25,R,D,J
+   1,J
   15,R,U,X
   29,R
-   1,R,J
-   9,R
+   2,R,J
+   8,R
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -899,7 +902,7 @@ console, load, Into The Jungle/ch1
    1,R,J
   14,R,D,X
    1,R,J
-#104.941(6173)
+#104.652(6156)
    1,S
    1,D,J
   18
