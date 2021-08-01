@@ -10,3 +10,10 @@ read LoadA
 read ITJ-4A Start
 read LoadA
 read ITJ-5A Start
+#let the music play out
+# 164
+ 420
+   1,J
+  83
+   1,S
+read journal

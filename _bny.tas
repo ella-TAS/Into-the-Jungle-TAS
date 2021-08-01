@@ -20,5 +20,12 @@ read LoadAFromB
 read ITJ-5AC Start collection
 read LoadBFromA
 read ITJ-5B Start
+***
   59
    1,J
+ 196
+ 164
+   1,J
+  83
+   1,S
+read journal
