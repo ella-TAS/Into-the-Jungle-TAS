@@ -578,7 +578,9 @@ console, load, Into The Jungle/ch0
 #It's faster to wait
 #for the timer to stop so
 #it negates fadeout.
-#(issue fixed)
+
+#No longer true,
+#but keeping the haiku
    1,S
    1,D,J
   18
