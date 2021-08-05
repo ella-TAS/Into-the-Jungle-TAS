@@ -1,13 +1,13 @@
 # Into-the-Jungle-TAS
 Most up-to-date TAS files for Into the Jungle.
 
-Any% file time:    14:34.667
-Bny% file time:    17:07.242
-All chapters file time: 26:50.206
+Any% file time:    14:34.616
+Bny% file time:    17:07.038
+All chapters file time: 26:48.115
 
 A-Side times:
 
-0:  0:47.838
+0:  0:47.787
 
 1A: 1:44.652
 
