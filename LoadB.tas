@@ -1,20 +1,16 @@
 unsafe
-#Start
    1,S
    1,U,J
    1,O
   31
-Add 58
   51
    1,S
    1,X
-  42
+  20
    1,R
-   9
-#Core
+   8
    1,J
-  43
+  21
    1,R
    1,J
  304
-Add 1
