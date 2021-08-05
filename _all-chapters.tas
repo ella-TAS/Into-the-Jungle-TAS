@@ -3,7 +3,7 @@ read ITJ-0 Start
 read LoadA Prologue
 read ITJ-1AC Start
 read LoadACollects
-read ITJ-2AC Start Exit
+read ITJ-2AC Start collection
 read CassetteRTM
 read ITJ-2AC Continue
 read LoadACollects
@@ -11,7 +11,7 @@ read ITJ-3AC Start
 read LoadACollects
 read ITJ-4AC2 Start
 read LoadACollects
-read ITJ-5AC Start Exit
+read ITJ-5AC Start collection
 read CassetteRTM
 read ITJ-5AC Continue
 

@@ -108,8 +108,6 @@ read ITJ-2A Start lvl_b_02
  257
    1,J
 #collection
-  62
-#Exit
 
 console, load, Into The Jungle/ch2, 3776, -1424
    1

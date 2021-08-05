@@ -250,8 +250,6 @@ read ITJ-5A Start lvl_c_04
  257
    1,J
 #collection
-  62
-#Exit
 
 console, load, Into The Jungle/ch5, 4904, 3256
    1
