@@ -46,3 +46,13 @@ read LoadB
 read ITJ-5B Start
   59
    1,J
+ 196
+#let the music play out
+# 164
+ 400
+   1,J
+ 337
+   1,J
+ 188
+   1,S
+read journal
