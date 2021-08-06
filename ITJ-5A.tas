@@ -1,13 +1,11 @@
 #console, load, Into The Jungle/ch5, 8580.54166871309, -6153.91675508022, 32.50006, -105
-#Play,Section Awake,37
-
+#play awake 37
 
 console, load, Into The Jungle/ch5
    1
 
 #Start
 #lvl_a_01
-
 #Intro
   36
    6,L,Z
@@ -40,7 +38,6 @@ console, load, Into The Jungle/ch5
    1,R,J
    3,L,J
    8,L,D
-
 #Holes
    9,J
    5,L,J
@@ -80,7 +77,6 @@ console, load, Into The Jungle/ch5
    2
    1,R,K,G
    7,R,D
-
 #Pillars 1
    2,R,J
   14,U,X
@@ -108,9 +104,7 @@ console, load, Into The Jungle/ch5
    9,J
    6,R,K,G
    7,R,D
-
 #Stacks
-
 #When TASing this
 #section, keep in
 #mind that the stacks
@@ -121,9 +115,7 @@ console, load, Into The Jungle/ch5
 #section, as they
 #will run into each
 #other as the state
-#loads in (certified
-#bruh moment).
-
+#loads in
   10,R,Z
   16,R,J
   16,U,X
@@ -181,7 +173,6 @@ console, load, Into The Jungle/ch5
    4,R,J
    3,R,K,G
    7,R,D
-
 #Pillars 2
   10,R,Z
   21,R,J
@@ -221,7 +212,6 @@ console, load, Into The Jungle/ch5
    7,L,J,G
    1,L,K,G
    8,L,D
-
 #Verticals
   11,J
   16,U,X
@@ -255,7 +245,6 @@ console, load, Into The Jungle/ch5
   16,U,X
   10,L,J,G
    8,L,D
-
 #Pillars 3
   10,L,Z
   11,L,J
@@ -305,7 +294,6 @@ console, load, Into The Jungle/ch5
   12,L,J,G
    4,L,K,G
    7,L,D
-
 #Debris
    2,L,J
   14,U,X
@@ -363,7 +351,6 @@ console, load, Into The Jungle/ch5
    3,R,K,G
    7,R,D
   14,U,X
-
 #"Escape" Time:
 #44.557(2621)
 
@@ -512,7 +499,6 @@ console, load, Into The Jungle/ch5
   12,J
   40
 
-
 #lvl_b_06
    3
   16,L,J
@@ -590,7 +576,6 @@ console, load, Into The Jungle/ch5
   16,L,K,G
    1,L,J,G
   40
-
 
 #lvl_b_11
    1
@@ -715,7 +700,6 @@ console, load, Into The Jungle/ch5
   12,L,D,X
   40
 
-
 #lvl_c_01
    2,L
    1,L,J
@@ -835,7 +819,6 @@ console, load, Into The Jungle/ch5
    1,R,J
    5,R
   40
-
 
 #lvl_c_07
    1,R
@@ -1510,7 +1493,6 @@ console, load, Into The Jungle/ch5
   15,L,J
   12,L,K,G
    9,L,J,G
-#185.980(10940)
   40
 
 #lvl_d_12
@@ -1738,8 +1720,7 @@ console, load, Into The Jungle/ch5
 #lvl_d_14
   11,R
   12,R,J,G
-
-#Section Awake
+#awake
    8,L,Z
    1,R,J
   14,R,U
@@ -1808,7 +1789,6 @@ console, load, Into The Jungle/ch5
    2,R,K
    1,R
   40
-
 
 #lvl_d_18
   11,R
