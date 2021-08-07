@@ -1108,6 +1108,7 @@ console, load, Into The Jungle/ch3
   40
 
 #lvl_d_06
+***S
    9,R,U,Z
   14,U,X
   10,R,J
@@ -1132,11 +1133,16 @@ console, load, Into The Jungle/ch3
   11,U,X
   38,L,J
   14,U,X
-  10,R,J
-  25,R
-  61
-   1,R,J
-  19,R,D
+   1,U,X
+   2,L,K,G
+   1,J
+   5,L,J
+   8,L,K,G
+   4,L,J,G
+   7,L
+   9,R,Z
+  18,R,J
+  33,R,D
    4,R,X
   10,R,J
   40
@@ -1405,4 +1411,4 @@ console, load, Into The Jungle/ch3
    1,S
    1,D,J
   18
-#194.327(11431)
+#193.800(11400)
