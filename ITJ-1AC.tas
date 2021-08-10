@@ -54,7 +54,7 @@ read ITJ-1A Start lvl_a_04
    8,R,J
   40
 
-#lvl_cassette
+#lvl_a_07cassette
   11,R
   15,L,X
   10
@@ -122,5 +122,5 @@ read ITJ-1A Start lvl_a_04
    7,R
   40
 
+#SHC
 read ITJ-1A lvl_a_08
-#121.601(7153)
