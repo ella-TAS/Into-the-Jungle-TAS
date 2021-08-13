@@ -1,7 +1,6 @@
 console, load, Into The Jungle/ch3
    1
 
-
 #lvl_a_01
   69
    2,R,J
@@ -120,6 +119,9 @@ read,ITJ-3A.tas,Start,lvl_a_03
 
 read,ITJ-3A.tas,SHC1,lvl_a_06
 
+#didn't try intended route
+#but i don't like waiting
+
 #lvl_a_06
    1,R,J
    6,R
@@ -132,36 +134,140 @@ read,ITJ-3A.tas,SHC1,lvl_a_06
   10,U,X
   20,R,J
   15
-  15,R
+  14,R
    2,R,D
+   1,R
    1,R,J,G
-   4
-   3,R
-  13,D
-   3
-   3,D
-   3
-   3,D
-   3
+   1,J
+   1,R
+   1
+   1,R
+   4,R
+  12,D
+   1,R
+   1
+   2
    2,D
    2
    2,D
-   2,R
-  10,J
-   4,R
+   2
+   2,D
    1
-   1,R,J
-  14,U,X
+   1,D
+   1,R
+   1,D
+   1
+   1,D
+   2,R
+   9,J
+   1
+   4,R
+   2,J
+  15,U,X
   15,R,J
    6,R
    2
+   1,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   2,J
+   3,R,J
+   1
+   1,R,K,G
+   4,R,J,G
+   7,R
+   1,R,J
+  11,R,D,X
+   7,R,J
+  15,R,D,X
+   5,R
+   4,R,D
    2,R,J
    1,R,K,G
-   3,R,J,G
-   2,J
-   1,R
+  48,R
+   5,R,Z
+   1,L,J
    1
+  40
+   6,L
+   8,L,J
+   5,L
+   1,L,J
+   1,L,J
+   9,L
+  14,L,U,X
+   3,L,J,G
+  19,R
+   4,R,X
+   3,R,J
+   6,R
+   1
+   5,R
+  53,R,D
+   3
+  14,L,X
+   1,R,J
+  14,R,Z
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   5,R
+   2,R,J
+   4,R
+  40
+   2,R
+   7,R,J
+   5,R
+   2,R
+   3,R
+   1,R,D
+   4,R
+  11,R,J
+   5,R
+   3,R,J
+  11,R,J
+  15,U,X
+   5,L
+   8,L,J,G
    1,K,G
-   7,R
+   1,L,K
+   2,K
+   5
+   1,L
+   1,R
+   2,R,J
+  15,U,X
+  40
+
+#lvl_a_08
+   1,R
+   1,L,J,G
+   7,L,K,G
+   2,L
+  11,L,X
+   1,L,J
+   3,L,K
+  12,L,J,G
+   8,L,G
+   1,J,G
+  10,L,J
+   1,R,J
+   8,G
+  12,J,G
+   8,G
+   2,K,G
+   8,G
+   1,J
+  10,R,J
+   1,L,J
+   8,G
+   1,J,G
+   7,J
+  10,R,J
+  40
+
+read,ITJ-3A.tas,lvl_a_09,lvl_a_11
+
 
 10000
