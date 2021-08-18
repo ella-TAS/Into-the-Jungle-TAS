@@ -3,7 +3,6 @@ console, load, Into The Jungle/ch5
 
 read ITJ-5A Start lvl_b_05
 
-***S
 #lvl_b_05
    2,R
    1,R,J
@@ -669,17 +668,20 @@ Read ITJ-5A lvl_c_07 lvl_c_08
 
 Read ITJ-5A lvl_c_08 lvl_c_11
 
-***
 #lvl_c_11
    4,L
    1,L,J
    6,L,D,X
    8,L,G
-  19,L,J
-  21,L
+   8,L,J
+  23,L,D
    1,L,D,G
-  12,R,D,X
-  22,L,J
+   9,R,D
+   6,L,D
+  15,R,U,X
+   9,L
+  10,L,Z
+  10,L,J
    4,L
   15,U,X
   10,L
@@ -689,6 +691,353 @@ Read ITJ-5A lvl_c_08 lvl_c_11
   12,L,J
   40
 
+Read ITJ-5A lvl_c_12 lvl_c_13
 
+#lvl_c_13
+   2,R,U,Z
+   1,L
+  12,J,G
+  14,R,U,X
+   1,R,J,G
+   2,L,J
+   1,R,K,G
+   8,R
+  23,R,J
+  15,U,Z
+  14,R,J
+   4,L,J
+   9,L,G
+  12,J,G
+   8,G
+   6,J,G
+   3,R,J
+   1,L,J
+   1,K,G
+   2,R,K
+   2,L,K
+   1,L,J,G
+  12,L,K,G
+   3,J,G
+   6,L
+   3,R
+  21,R,J
+  15,U,X
+   6,R,J
+   1,K,G
+   1,R,K
+   8,R
+  18,L,D
+   1,L,J
+   9,L
+  15,U,X
+  12,L,J
+  13,L
+  10,L,Z
+   4,L,J
+   1,J
+  13,L,U,X
+   1,L,J,G
+   1,L,J
+  14,L,J,G
+  12,L,K,G
+   5,J,G
+   2,R,J
+   7,K
+   3,L,K
+  12,L,J,G
+   5,L,K,G
+   1,R,J
+  29,R,K
+  12,R,J
+   1,R,D,J,G
+  15,U,X
+   2,R
+  40
 
+Read ITJ-5A lvl_d_01 lvl_d_02
 
+#lvl_d_02
+   1,R,J
+   7,R
+   1,R,J
+   4,R
+  14,R,D,X
+   1,R,J
+   7,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+   1,R,J
+  40
+
+#lvl_d_03
+  20,L,D
+  18,R,D
+   6,R,Z
+   1,R,J
+   4,R
+   1,R,G
+   2,R
+   1,R,J
+   1,R,K,G
+   9,R
+   1,R,J
+   1,R,D,G
+   6,R,D,X
+   1,R,J
+   3,R
+   1,L
+   3,R
+   1,R,J
+  11,R
+  15,L,X
+   8,L
+   6,L,Z
+   1,L,J
+   4,L
+   1,L,G
+   1,L
+  20,L,J
+   2,R,J
+  12,R,K
+  11,R,J,G
+   4,R
+   1,R,D,G
+  14,R,Z
+   1,L,J
+   8,L,Z
+   1,L,J,G
+   3,L,J
+   2,L
+   1,L,K,G
+   4,L
+   1,L,J,G
+  10,L
+  40
+
+#lvl_d_02
+   1,L,J
+  12,L
+   1,L,D,G
+  15,D,X
+   1,L
+   6,J
+  14,R,Z
+   1,R,J
+   3,R,K,G
+   3,R
+   6,R,D,X
+  40
+
+Read ITJ-5A lvl_d_04 lvl_d_05
+
+#lvl_d_05
+  11,R,J
+   5,R,Z
+   1,R,J
+   7,R
+   3,R,J
+   1,R,K,G
+   1,R
+  11,R,D,X
+   3,R,J
+   2,R,K,G
+   7,R
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J
+   2,R
+  40
+
+#lvl_d_06
+   5,R
+   9,R,J
+   2,K,G
+   6,R
+   1,L
+   5,L,Z
+   1,R,J
+   7,R
+   1,R,J,G
+  18,R,J
+  12,K,G
+  12,J,G
+   6,K,G
+   4,L,J
+   1,L,D,J,G
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   1,L
+  41,L,D,X
+   2,L,J
+   6,L,Z
+   1,L,J
+   3,L
+  40
+
+#lvl_d_05
+   4,L
+   9,L,J
+  14,L,X
+   5,R,J
+   5,L,K
+   7,U,X
+   5,L,J
+   9,L
+   1,L,J
+   4,L
+   8,L,J
+   6,R,J
+  18,U,X
+   1,J,G
+   6,R,J
+   1,L
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,K,G
+   1,R,J,G
+  10,R
+   8,R,Z
+   4,R,Z,G
+   1,L,J
+   7,L
+  19,L,J
+   1,L,D,J,G
+  16,U,X
+   9,L,J,G
+   2
+   1,J,G
+   5
+   2,L
+  15,R,J
+  15,U,X
+   3,L
+  12,L,J,G
+  12,L,K,G
+   1,L,J,G
+   4
+   3,L
+   4,J
+   5,L,J
+  15,U,X
+  12,R,J
+   6,L,J
+   8,L,K,G
+  12,R,J
+  40
+
+Read ITJ-5A lvl_d_07 lvl_d_10
+
+#lvl_d_10
+   2,R
+   7,R,D,X
+   1,R,J,G
+   1,L
+   6,R
+   1,R,J
+   4,R
+   2,R,J
+   5,R
+   4
+   6,R
+  12,R,J
+   3,R
+  13,R,U,G
+   3,R,G
+   1,R,U,G
+  20,R,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R
+   7,R,J
+  26,L,D
+  13,R
+  14,U,X
+  51,L,J
+  11,R,D
+  52,G
+   1,L,J
+  20,J
+   1,L,J
+  13,L,K
+  15,L,X
+  12,L,G
+  43,U,G
+  34,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  25,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   1,L
+  40
+
+#lvl_d_11
+   1,L
+   1,L,J,G
+  16,L
+   7,L,J
+  15,L,U,X
+   9
+   2,L,J
+   5,J
+  11,L
+  19,U,X
+  17,L,J
+  22,R,K
+   9,L,J
+  13,L
+  22,R,K
+   7,L
+   1,J
+   1
+   1,J
+   1
+   1,L,J
+   1,L
+   1,L,J
+   1,L,K
+  11,L,J
+  14,L
+   2,R
+  15,R,J
+  15,U,X
+  16,L,G
+  12,L,J,G
+   8,K,G
+   9
+   2,L
+  30,J
+  10,L,K
+   7
+   3,J
+   1,R,J
+  15,R
+  24,R,K
+  12,L,J
+   1,R,J
+   3
+  11,R,Z
+  17,L,J
+   4,L,J
+  15,U,X
+   4,R
+   6,J
+  15,L,J
+  12,L,K,G
+   9,L,J,G
+  40
+
+Read ITJ-5A lvl_d_12
