@@ -59,16 +59,14 @@ console, hard, Into The Jungle/ch3
   21,R,J
   18,R,U,X
   15,L,U,C
-   9,L
-   1,G
+   7,L
+   4,L,J,G
+   1,K,G
+   5,L
    1
-   1,J
-   2,K,G
-   8,R,J
-   5,R
-   2,R,J
    1,R
-   6,R,J
+   3,R,J
+  14,R,X
   11,R,K
   10,R,J,G
    1,K
@@ -83,13 +81,13 @@ console, hard, Into The Jungle/ch3
    1,R,G
    1,K,G
   12,L,K
-  14,R,J,G
-  18,R,G
-   1
-  19,L,J
-   7,J
-   7
-   2,R
+   5,R,J,G
+   1,R,K,G
+   1,L,J
+  10,L,J
+   5,L
+   3,L,J
+   3,L
   10,R,X
   11,R,J
   15,U,X
@@ -944,4 +942,4 @@ console, hard, Into The Jungle/ch3
   15,R,U,X
    4,R
  135
-#158.049(9297)
+#157.318(9254)
