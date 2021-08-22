@@ -7,7 +7,7 @@ All chapters file time: 26:47.418
 
 A-Side times:
 
-0:  0:47.770
+0:  0:47.685
 
 1A: 1:44.652
 
