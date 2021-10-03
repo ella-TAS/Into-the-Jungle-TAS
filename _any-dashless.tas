@@ -1,0 +1,19 @@
+read _start
+read ITJ-0
+read LoadA Prologue
+read ITJ-1AD
+read LoadACollects
+read ITJ-2AD
+read LoadA
+read ITJ-3AD
+read LoadACollects
+read ITJ-4AD
+read LoadACollects
+read ITJ-5AD
+#let the music play out
+# 164
+ 450
+   1,J
+  83
+   1,S
+read journal
