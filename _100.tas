@@ -1,0 +1,54 @@
+read _start
+read ITJ-0 Start
+read LoadANo Prologue
+read ITJ-1SHC Start
+read LoadA
+read ITJ-2SHC Start
+read LoadA
+read ITJ-3SHC Start
+read LoadA
+read ITJ-4SHC Start
+read LoadA
+read ITJ-5SHC Start
+
+#5A to 1B
+ 164
+   1,J
+  36
+   1,X
+  20
+   1,L
+   8
+   1,L
+   8
+   1,L
+   8
+   1,L
+   8
+   1,J
+  21
+   1,R
+   1,J
+ 304
+
+read ITJ-1B Start
+read LoadB
+read ITJ-2B Start
+read LoadB
+read ITJ-3B Start
+read LoadB
+read ITJ-4B Start
+read LoadB
+read ITJ-5B Start
+  59
+   1,J
+ 196
+#let the music play out
+# 164
+ 400
+   1,J
+ 337
+   1,J
+ 188
+   1,S
+read journal
