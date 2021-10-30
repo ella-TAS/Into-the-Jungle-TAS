@@ -1,6 +1,6 @@
 read _start
 read ITJ-0 Start
-read LoadA Prologue
+read LoadANo Prologue
 read ITJ-1AC Start collection
 read LoadBFromA
 read ITJ-1B Start

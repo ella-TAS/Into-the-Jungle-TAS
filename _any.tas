@@ -1,14 +1,14 @@
 read _start
 read ITJ-0 Start
-read LoadA Prologue
+read LoadANo Prologue
 read ITJ-1A Start
-read LoadACollects
+read LoadA
 read ITJ-2A Start
-read LoadACollects
+read LoadA
 read ITJ-3A Start
-read LoadA
+read LoadANo
 read ITJ-4A Start
-read LoadA
+read LoadANo
 read ITJ-5A Start
 #let the music play out
 # 164
