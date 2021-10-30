@@ -1,6 +1,7 @@
 console, load, Into The Jungle/ch5
    1
 
+#Start
 read ITJ-5A Start lvl_b_05
 
 #lvl_b_05
@@ -225,7 +226,7 @@ read ITJ-5A Start lvl_b_05
    1,L,J,G
   40
 
-Read ITJ-5A lvl_b_11 lvl_b_12(2)
+Read, ITJ-5A, lvl_b_11, lvl_b_12 (2)
 
 #lvl_b_12
    4,D
