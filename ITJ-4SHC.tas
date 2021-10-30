@@ -213,7 +213,6 @@ console, load, Into The Jungle/ch4
   43
 
 #lvl_a_06
-***s
    7,R,D,X
    1,R,J
    5,R,D,X
@@ -237,7 +236,6 @@ console, load, Into The Jungle/ch4
   43
 
 read,ITJ-4A,lvl_a_07,lvl_a_13
-***s
 
 #lvl_a_13
    2,R,X
@@ -250,7 +248,6 @@ read,ITJ-4A,lvl_a_07,lvl_a_13
   40
 
 #lvl_a_15
-***
    4
    3,J,G
    4,L,J
