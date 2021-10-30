@@ -55,4 +55,4 @@ read ITJ-5B Start
    1,J
  188
    1,S
-read journal
+read LoadJournal

@@ -16,4 +16,4 @@ read ITJ-5A Start
    1,J
   83
    1,S
-read journal
+read LoadJournal
