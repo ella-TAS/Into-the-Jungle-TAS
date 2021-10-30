@@ -9,7 +9,9 @@ read ITJ-3SHC Start
 read LoadA
 read ITJ-4SHC Start
 read LoadA
-read ITJ-5SHC Start
+read ITJ-5SHC Start collection
+read CassetteRTM
+read ITJ-5SHC Continue
 
 #5A to 1B
  164
