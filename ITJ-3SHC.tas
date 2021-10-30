@@ -785,20 +785,19 @@ read,ITJ-3A,SHC3,SHC4
    6,J,G
    6,R,J
    8,R,G
-   7,R,J,G
+   6,R,J,G
+   1,R
    5,K,G
    6,R
    1,L
    8,L,J
-  10,R,U,X
-   7,J
-   6
-   7,R,D
-  14,L,D,X
-   1,R,J
-   5,R,D,X
-   1,R,J,G
-   5,R
+   9,R,U,X
+   2,L
+   3
+   1,J
+   2,K,G
+   3
+   8,R,D
   40
 
 read,ITJ-3AC,lvl_b_08,lvl_b_09 (2)
@@ -1277,7 +1276,6 @@ read,ITJ-3A,lvl_c_09,lvl_c_10
   21,U,X
   40
 
-
 #lvl_c_11
    3,L
    3,J,G
@@ -1378,7 +1376,6 @@ read,ITJ-3A,SHC9,SHC10
    1,K
   40
 
-
 #lvl_d_051
    1,L,J,G
    1,L,K,G
@@ -1407,7 +1404,6 @@ read,ITJ-3A,SHC9,SHC10
    5,L,J
    4,L
   27,L,D,X
-
    4,R,Z
    1,R,J
    7,R
@@ -1469,8 +1465,6 @@ read,ITJ-3A,SHC9,SHC10
   40
 
 read,ITJ-3A,lvl_d_07,SHC11
-
-
 
    9,L,Z
   11,L,J
@@ -1591,4 +1585,4 @@ read,ITJ-3A,lvl_d_12,lvl_d_15
    1,S
    1,D,J
   18
-#5:11.032 (post restart chapter)
+#5:10.573(18269)
