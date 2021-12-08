@@ -614,12 +614,9 @@ Read ITJ-5A 5AC lvl_c_07
   15,R,U,X
    6,R
  135
-  60
-   1,J
-  30
-   1,S
-   1,D,J
-  69,O
+
+Read LoadSQ
+
    8,R,Z
    1,R,J
   22,R,D
