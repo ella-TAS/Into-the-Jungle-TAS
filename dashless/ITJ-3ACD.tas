@@ -1,0 +1,106 @@
+console, load, Into The Jungle/ch3
+   1
+
+#Start
+read ITJ-3AD Start lvl_b_06
+
+#lvl_b_06
+   3
+   7,R
+   1,R,J
+  21,R
+   1,R,J
+   5,R
+  86
+  15,U,X
+   4,R
+   3
+  15,U,X
+  12,R,G
+   1,J,G
+  10,R,J
+   1,L,J
+   8,G
+  12,J,G
+   8,G
+   2,J,G
+   8,R,J,G
+   3,R,K
+   8,R
+   8,L,J
+   7,R,U,X
+   3
+  19,R
+   1,R,J,G
+   1,R,K,G
+  12,R
+  40
+
+#lvl_b_08
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  21,R
+   2
+   2,R
+   1,R,J
+   1,R,K,G
+   5,R,J,G
+   1,R,K,G
+  19,R
+   1,R,J
+  14,R
+   1,R,J
+  17,R
+  66
+  57,L,J
+   1,G
+  10,L,J,G
+  79,L
+  26,J
+  27,G
+   7,L,J,G
+  10,L
+   7,L,D,J
+   1,L,K,G
+  12,L
+   1,L,J
+  27,L
+ 257
+   1,J
+ 123
+  11,L
+  10,L,J
+  40
+
+#lvl_b_09
+  24,L
+   4,L,D
+   9,L,G
+   8,L,J,G
+  33,L
+   6,L,J
+   8,L,G
+   6,L,J
+  16,R,J,G
+  33,L,K
+   1,G
+   1,J,G
+  10,L,J
+   1,R,J
+   8,G
+   1,J
+   2,L,J
+   1,K
+   8,R,K
+   4,R,J,G
+   1,K
+   7,J,G
+  40
+
+read ITJ-3AD lvl_b_11
+ChapterTime: 5:15.809(18577)
