@@ -2,9 +2,9 @@ console, load, Into The Jungle/ch4
    1
 
 #Start
-read, ITJ-4AD, Start, lvl_c_02 (1)
+read, ITJ-4AD, Start, lvl_c_02 (2)
 
-#lvl_c_02 (1)
+#lvl_c_02 (2)
   12,L,J,G
    1,K,G
    9
@@ -182,4 +182,4 @@ read, ITJ-4AD, Start, lvl_c_02 (1)
   40
 
 read ITJ-4AD lvl_c_04
-ChapterTime: 3:58.799(14047)
+ChapterTime: 4:20.967(15351)
