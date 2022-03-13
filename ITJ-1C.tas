@@ -1,4 +1,4 @@
-RecordCount: 1272
+RecordCount: 1304
 
 console, rmx2, Into The Jungle/ch1
    1
@@ -156,7 +156,9 @@ console, rmx2, Into The Jungle/ch1
   18,R
   13,R,D
   12,D
-  20,R,J
+   1,R,J
+   7,R,K
+  11,R
    4,Z
    1,R,J
    7,R
@@ -261,4 +263,4 @@ console, rmx2, Into The Jungle/ch1
    4,X
  135,D
 
-ChapterTime: 0:39.236(2308)
+ChapterTime: 0:39.219(2307)
