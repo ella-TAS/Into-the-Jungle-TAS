@@ -699,36 +699,10 @@ console, load, Into The Jungle/ch4
    5,L,C
   12,L,J
    5,L,K,G
+Repeat 15
    1,G
    1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
+EndRepeat
    1,G
   23,D
   40
@@ -747,32 +721,10 @@ console, load, Into The Jungle/ch4
    1,R,J
    5
   15,L,X
+Repeat 13
    2,R
    2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
-   2,R
-   2,L,D
+EndRepeat
    2,R
    2,L
    2,R,D
@@ -1287,7 +1239,6 @@ console, load, Into The Jungle/ch4
   10,L,J
    1,K
    8,R,K
-***
 Repeat 28
    2,J
    2,K
