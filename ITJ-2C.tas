@@ -1,10 +1,10 @@
-RecordCount: 1336
+RecordCount: 1521
 
 console, rmx2, Into The Jungle/ch2
    1
 
 #Start
-#lvl_a_02
+#lvl_a_01
   84
   13,R,J
   15,U,X
@@ -14,13 +14,10 @@ console, rmx2, Into The Jungle/ch2
    1
    1,D
   18,R,X
-  12,R,J,G
-   2,J
-  10,K,G
-   1,R,K
+  14,R,J,G
+  11,K,G
    1,L,K
-   1,J
-  12,R,J
+  13,J
   15,R,X
   27,D
   15,R,U,X
@@ -64,9 +61,8 @@ console, rmx2, Into The Jungle/ch2
   40
 
 #lvl_a_02
-   1,R
-   7,R,D,J
-   6,R
+   2,R
+  10,R,D,J
   15,D,X
   15,R,C
    4,R,X
@@ -77,8 +73,8 @@ console, rmx2, Into The Jungle/ch2
    4,R,C
   10,R,D,C
   32,R,J
-   5,R,D
-   1,D
+   3,R,D
+   3,D
   11,R,U,Z
    1,J
    5,L,K,G
@@ -89,7 +85,7 @@ console, rmx2, Into The Jungle/ch2
    2,L,J
   12,L,K,G
    2,L,J,G
-  12,K
+  11,K
   15,R,X
   15,R,C
   11,U,X
@@ -342,4 +338,5 @@ console, rmx2, Into The Jungle/ch2
   22,R,J
   34,R,D,X
  121,R,G
-ChapterTime: 0:55.437(3261)
+
+ChapterTime: 0:55.386(3258)
