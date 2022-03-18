@@ -2,7 +2,6 @@ console,load,Into The Jungle/ch4
    1
 
 #Start
-
 read,ITJ-4A,Start,lvl_c_02 (2)
 
 #lvl_c_02 (1)
@@ -18,8 +17,31 @@ read,ITJ-4A,Start,lvl_c_02 (2)
    3,L
   40
 
-read ITJ-4AC lvl_c_Cassette
-
+#lvl_c_Cassette
+   5,L,J
+   5,L
+  15,L,D,X
+   3,L,J
+   2,L,K,G
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+  15,D,X
+  10,L,Z
+   1,L,J
+  24,L
+  21,L,X
+  15,R,U,C
+   7,R
+  16,L
+   4,L,Z
+   1,L,J
+   7,L
+   3,L,J
+  13,L,U,X
+ 257
+   1,J
  123
   10,R,D,X
    2,R,J
