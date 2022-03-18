@@ -1,4 +1,4 @@
-RecordCount: 1521
+RecordCount: 1662
 
 console, rmx2, Into The Jungle/ch2
    1
@@ -62,26 +62,27 @@ console, rmx2, Into The Jungle/ch2
 
 #lvl_a_02
    2,R
-  10,R,D,J
-  15,D,X
-  15,R,C
-   4,R,X
-   6,U,X
+   7,R,D,J
+   1,J
+   1,R,J
+   2,R
+  15,R,D,C
+  10,U,X
    5,R,J
-   8,R
+   9,R
   20,R,X
    4,R,C
   10,R,D,C
   32,R,J
-   3,R,D
-   3,D
+   4,R,D
+   2,D
   11,R,U,Z
    1,J
    5,L,K,G
    2,R,K
    1,L,J,G
-   1,R,J
-   8,J
+   2,R,J
+   7,J
    2,L,J
   12,L,K,G
    2,L,J,G
@@ -243,10 +244,16 @@ console, rmx2, Into The Jungle/ch2
   15,R,U,X
   15,R,C
   16,L,D
-  23,R,D
-   1,D
-   1
-  15,R,C
+  15,R,D
+   2,R
+   2,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   2,D
+   4,R,D,C
+  11,R,C
   15,R,X
   15,R,C
   15,U,X
@@ -261,20 +268,13 @@ console, rmx2, Into The Jungle/ch2
   22,R,C
    4,R,X
   12,D,X
-  12,D
-   1
-#entering in the
-#bottom 0.05 of
-#a pixel would
-#save 1f after
-#getting the 
-#first coin
+  13,D
   15,R,C
   15,U,X
   15,R,C
   15,R,X
   15,U,C
-  44,D
+  43,D
    4,D,X
   11,R,X
   15,R,C
@@ -319,24 +319,17 @@ console, rmx2, Into The Jungle/ch2
   19,R,X
   18,R,U,C
   23,R,D,X
-   1,L,D
-   1,D
-   3,L,D
-   1,D
-  15,R,U,Z
-   1,L,J,G
-   1,L,K,G
-   3,L
-   1,J
-   5,K,G
-   2,R,K
-   4,R
-   1,R,J,G
-  10,R,K,G
-  15,R
-   6,R,D,X
-  22,R,J
-  34,R,D,X
- 121,R,G
+   9,R,D
+  15,R,Z
+   9,R,D
+  12,R,J
+   9,R,X
+   7,R,K,G
+  10,R
+  11,R,J
+  15,R,X
+  13,R,D
+   4,L,U,X
+ 135
 
-ChapterTime: 0:55.386(3258)
+ChapterTime: 0:55.182(3246)
