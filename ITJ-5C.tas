@@ -1,10 +1,12 @@
-RecordCount: 3545
+RecordCount: 3901
 console, rmx2, Into The Jungle/ch5
+Set,CheatMode,true
    1
 
 #Start
-#lvl_a-01
   33
+
+#lvl_a-01
   11,D
   25,R,D
   18,R,Z
@@ -344,45 +346,64 @@ console, rmx2, Into The Jungle/ch5
   14,R,J
    9,R
    1,R,K
-  36,R,D
+  32,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
   15,R,X
-  22,R,D
+  13,R,D
   15,R,X
-  13,D
-  23,R,D
-  14,R,D,X
-   5,R,J
-  12,R,D,X
-  10,R,J,G
-  13,R
-  19,R,J
-   1,R,K,G
-  15,R,Z
+  11,R,D
   15,D,X
+  13,R,D
+   1,R
+   1,R,D
+   1,R
+   2,R,D
    5,R,Z
    1,R,J
-   7,R
+   6,R
+   4,R,J
+  13,R,D,X
+   9,R,J,G
+  12,R
+  18,R,D,J
+   1,R,K,G
+  10,R,X
+   5,R,J
+  15,D,C
+   4,R,Z
    1,R,J
-   1
-   4,R
-   2,R,K
-   4,R
-  14,R,U,Z
-   1,R,J,G
-  10,R,D
-   4,L,D
-  12,R,D
-  14,R,U,Z
-   2,K
+   7,R
+   2,R,J
+   5,R
+   1,R,J
+   1,R
+   2
+   1,R
+   2
+  14,R,U,X
+   1,J,G
+  10,R
+  15,D,X
+  15,R,U,Z
    3,R,J
+   1,R,K,G
    7,R
   12,R,D,X
    3,R,J
    9,R,D,X
-   1,R,J,G
+   2,R,J,G
    5,R
-   7,R,K
-   4,R
+   2,R,K
+   8,R
    9,R,D,J
   16,R,D,X
    2,R,D,J
@@ -416,6 +437,7 @@ console, rmx2, Into The Jungle/ch5
   15,U,X
    5,R
    6,L,G
+#1:10.550(4150)
   11,K,G
    1,R,K
    1,L,K
@@ -907,4 +929,4 @@ console, rmx2, Into The Jungle/ch5
   16,U,X
  135,D
 
-ChapterTime: 2:45.410(9730)
+ChapterTime: 2:45.308(9724)
