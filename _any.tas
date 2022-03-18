@@ -9,7 +9,9 @@ read ITJ-3A Start
 read LoadANo
 read ITJ-4A Start
 read LoadANo
-read ITJ-5A Start
+read ITJ-5A Start exit
+read CassetteRTM depths
+read ITJ-5A reenter
 #let the music play out
 # 164
  450
