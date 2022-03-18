@@ -1,4 +1,4 @@
-RecordCount: 3218
+RecordCount: 3545
 console, rmx2, Into The Jungle/ch5
    1
 
@@ -35,44 +35,58 @@ console, rmx2, Into The Jungle/ch5
    1,R,J
    1,R,K
    6,R
-   5,R,J
-   4,R
+   6,R,J
+   3,R
   15,R,D,X
-   5,R,J
-   4,J
-   2
-   1,R,K,G
-   4,K
-   9
-  32,R
-   1,K
-  24,R,K
-  21,L,J
-  14,U,X
-  19,L,J
-  18,R,K
-  30,R,D
-   2,R,J
-  25,R,D
-  11,L,D
-  65,R,J
-  18,L,K
-   3,L
-  14,U,X
-  33,L,J
-  19,R,K
-  16,R
-   5,R,D
-  23,R,X
-   4,Z
    1,R,J
-   4,R,K,G
-   6,R
+  12,R,J
+   5,K,G
+   2,R
+   1
+  22,R,D,X
+   4,R,D,J
+   8,J
+  16,U,X
+  18,L,J
+  12,R,K
+  20,R,D
+   7,D
+   5,R,D
+   2,D
+   1,R,D
+   2,R,J
+   5,R
+   1,R,J
+  21,R,D
+   1,L,D
+   4,R,D
+   2,D
+   2,R,D
+   9,R,J
+  22,R
+   6
+  10,J
+   8,L,J
+   3,J
+   1,K
+  15,U,X
+   4,L
+   1
+  31,L,J
+   9,K
+   2,R,K
+   3
+  22,R,K
+  29,R,X
+   4,R,Z
+   1,R,J
+   5,R,K,G
+   4,R
+   1,R,J
   40
 
 #lvl_a-02
-   1,R
-   3,R,K
+   4,R,K
   17,R,D
    7,L,D
    8,L
@@ -893,4 +907,4 @@ console, rmx2, Into The Jungle/ch5
   16,U,X
  135,D
 
-ChapterTime: 2:46.634(9802)
+ChapterTime: 2:45.410(9730)
