@@ -229,7 +229,7 @@ console, load, Into The Jungle/ch4
   13,J
   43
 
-read,ITJ-4A,lvl_a_07,lvl_a_13
+read ITJ-4A lvl_a_07 lvl_a_13
 
 #lvl_a_13
    2,R,X
@@ -428,8 +428,165 @@ read,ITJ-4A,lvl_a_07,lvl_a_13
    6,R,D
   40
 
-#incomplete from here
+read ITJ-4A lvl_b_04 lvl_b_06
 
-read,ITJ-4A,lvl_b_04,lvl_c_02 (2)
+#lvl_b_06
+   4,L,D
+   3,L,D,J
+   2,L
+   1,J
+   1
+  15,L,D,X
+   6,D
+  43
 
-read,ITJ-4AC,lvl_c_02 (1)
+#lvl_b_07
+  12,J
+  11,L,X
+   1,L,J
+   6,L
+   7,L,D,C
+   1,L,J
+   7,L
+   1,L,J
+  10,L,D,X
+   1,L,J
+   3,L
+  43
+
+#lvl_b_08
+  14,L,D
+   9,R,D
+  10,R,D,X
+   1,L,J
+   4,L
+  19,L,D,X
+   4,L,J
+  15,U,X
+  20,L
+  13,U,G
+   8,J,G
+   1,K
+   3,R,J
+  13,R
+   2,R,K
+   3
+  54,R,D
+   3,R,J
+  16,U,Z
+  13,R,J
+   1,R,K,G
+   1,L
+   6,R
+   6,R,Z
+   1,R,J
+   1,R
+   1
+  40
+
+#lvl_b_07
+   5,R
+   1,R,J
+  14,R,Z
+   1,R,J
+   1,R,J
+   1,R
+   1
+   1
+   2,R,K
+   1,R
+   1,R
+  15,D,X
+   1,L,D
+   1,D
+   3,L,D
+   4,R,D
+   1,R
+   3,R,D
+   6,R
+   3
+  18,L,X
+  15,R,U,Z
+   1,L,J,G
+   3,L,K,G
+   4,L
+   3
+   1,R,J
+  14,U,X
+   9,R,J
+   1,R,K,G
+   7,R
+   5,R,Z
+   1,R,J
+   8
+  30,D
+   6,L
+   1,L,D
+   1,L
+  15,U,X
+  18,R,J
+   1,R,K,G
+   2
+   1,J,G
+   7,R
+  11,L,J
+   5,L,Z
+   1,L,J
+   7,L
+  12,L,D
+  16,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  18,L,X
+  15,L,D,C
+  26,R,D
+  14,R,X
+   4,L,J
+   9,L
+   5
+   7,R,Z
+   1,L,J
+   7
+   5,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   1,R
+   5,R,D,X
+   1,L,J,G
+  11,R
+  40
+
+read ITJ-4A lvl_b_09 lvl_b_11
+
+#lvl_b_09
+  12,R
+  15,D,X
+   3,R
+   1,R,J
+   9,R
+   1,R,J
+   5,R,D
+  10,D
+  15,R,X
+   6,L,J
+  14,R,U,X
+  35,R,J,G
+  11,R,K,G
+   5
+   2,R
+   1,L,J
+   9,J
+   2,R,J
+   4,R,K,G
+   5,R,Z
+   6,R,J
+   1,L,J
+   1,L
+  40
+
+read ITJ-4A lvl_b_12
