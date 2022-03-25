@@ -1,4 +1,4 @@
-RecordCount: 4606
+RecordCount: 4883
 console, rmx2, Into The Jungle/ch5
 Set,CheatMode,true
    1
@@ -117,11 +117,14 @@ Set,CheatMode,true
    7,R
    3,R,K
    9,R
-  11,R,J
+   8,R,J
+   3,R
   15,R,X
-  22,R
-   7,D
-   1
+  17,R,D
+   6,R
+   3
+   1,R
+   2,D
   14,L,D,X
    1,R,J
   21,R,D,X
@@ -143,7 +146,8 @@ Set,CheatMode,true
   17,R,X
    1
    1,R,J,G
-   7,R
+   1,L
+   6,R
    4,R,Z
    1,R,J
    6,R
@@ -785,26 +789,25 @@ Set,CheatMode,true
    1,G
    3,L,J,G
    7,L
-   2,L,K
-  19,L,D
-   4,L
-  15,L,Z
+   2,L,J
+  21,L,D
+   2,L
+   1,L,D
+   7,L
+  14,L,U,X
    3,L,J,G
-   1,R
-   1,L,J,G
-   8,L,K,G
-   5,L
-   2,L,K
-  13,L,D
-   8,L,J
-  33,L,D
+   1,L,K,G
+   1,K
+  22,L,K
+   3,K
+  29,L
    4,Z
    1,L,J
   20,L
   20,L,X
   18,L,U,Z
-  55,L,U,X
-   1,L,D
+  51,L,U,X
+   5,L,D
   18,L,U,Z
   18,U,X
    6,L,J
@@ -816,9 +819,11 @@ Set,CheatMode,true
   19,L,X
   19,L,C
   23,L,X
-   8,D
+   7
+   1,D
    1,J
-  12,K
+  11,K
+   1,L,K
    1,R
    1,J
    3,K,G
@@ -950,4 +955,4 @@ Set,CheatMode,true
   16,U,X
  135,D
 
-ChapterTime: 2:44.713(9689)
+ChapterTime: 2:44.560(9680)
