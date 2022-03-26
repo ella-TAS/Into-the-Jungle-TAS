@@ -207,7 +207,7 @@ console, rmx2, Into The Jungle/ch3
   10,L,G
    3,R,J
   17,R,G
-  24,R,J
+  21,R,J
   15,R,X
   13,R
    1,L,G
@@ -358,4 +358,4 @@ endrepeat
    4,X
  135,L,D,X
 
-ChapterTime: 1:16.636(4508)
+ChapterTime: 1:16.585(4505)
