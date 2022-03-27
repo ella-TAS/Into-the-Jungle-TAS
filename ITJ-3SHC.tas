@@ -12,7 +12,7 @@ console, load, Into The Jungle/ch3
    1
 
 #Start
-#lvl_a_01 (1)
+#lvl_a_01
   69
    2,R,J
   15,R,D,X
@@ -27,7 +27,7 @@ console, load, Into The Jungle/ch3
   15,R,D,C
   15,R,X
   15,R,C
-   4,F,120
+   4,F,180
   14,R,Z
    1,R,J
    7,R
@@ -38,11 +38,9 @@ console, load, Into The Jungle/ch3
 
 read ITJ-3A Start lvl_a_03
 
-#lvl_a_03 (1)
+#lvl_a_03
    5,R,J
-   5,R
-   1,R,J
-   1,R
+   7,R
   15,R,U,X
    1,J,G
    2,R,J
@@ -50,19 +48,21 @@ read ITJ-3A Start lvl_a_03
    1,R
    3
    1,R
-   1,L
-   1,L,J
-   1,L
+   4,L
   15,U,X
-   1,L,J,G
-   2,L,K,G
-   7,L
-   2,L,J
-#this seems slow
-  15,U,X
-  18,L
-   2,L,J
-   1,L
+   1,J,G
+   5,L
+   1
+   1,R
+   1,J
+   6,R,J
+   1,R
+  14,L,U,X
+   5,L,J,G
+   3,L
+   4
+   2,R,J
+   1,R
   14,L,U,X
    2,L,J,G
   11,L
@@ -108,7 +108,7 @@ read ITJ-3A Start lvl_a_03
   15,R,D,X
   40
 
-#lvl_a_03 (2)
+#lvl_a_03
    2,R
    1,R,D
   46,R,J
@@ -124,10 +124,9 @@ read ITJ-3A Start lvl_a_03
 
 read ITJ-3A SHC1 lvl_a_06
 
-#didn't try intended route
-#but i don't like waiting
+#didn't try intended
 
-#lvl_a_06 (1)
+#lvl_a_06
    1,R,J
    6,R
    3,R,J
@@ -193,13 +192,13 @@ read ITJ-3A SHC1 lvl_a_06
    8,R
   40
 
-#lvl_a_08 (1)
+#lvl_a_08
    5,R,Z
    1,L,J
    1
   40
 
-#lvl_a_06 (2)
+#lvl_a_06
    6,L
    8,L,J
    5,L
@@ -214,16 +213,15 @@ read ITJ-3A SHC1 lvl_a_06
    6,R
    1
    5,R
-  53,R,D
-   3
-  14,L,X
-   1,R,J
+  30,R,D
+  25,D
+   1,L,D
   14,R,Z
    1,R,J
    6,R,D,X
    1,R,J,G
    5,R
-   2,R,J
+   2,R,K
    4,R
   40
 
@@ -252,7 +250,7 @@ read ITJ-3A SHC1 lvl_a_06
   15,U,X
   40
 
-#lvl_a_08 (2)
+#lvl_a_08
    1,R
    1,L,J,G
    7,L,K,G
@@ -262,21 +260,15 @@ read ITJ-3A SHC1 lvl_a_06
    3,L,K
   12,L,J,G
    8,L,G
-   1,J,G
-  10,L,J
-   1,R,J
-   8,G
   12,J,G
    8,G
-   2,K,G
-   8,G
-   1,J
-  10,R,J
-   1,L,J
-   8,G
+   7,R,K
+  15,U,X
+  13,L,G
    1,J,G
    7,J
-  10,R,J
+   8,R,J
+   2,J
   40
 
 read ITJ-3A lvl_a_09 SHC2
@@ -324,7 +316,7 @@ read ITJ-3A lvl_a_09 SHC2
    3,J,G
   40
 
-#lvl_a_12 (1)
+#lvl_a_12
    1,R
   10,L
   15,U,X
@@ -337,7 +329,7 @@ read ITJ-3A lvl_a_09 SHC2
   10,L
   40
 
-#lvl_a_13 (1)
+#lvl_a_13
    1,L
    9,L,J
    1,L
@@ -465,7 +457,6 @@ read ITJ-3A lvl_a_09 SHC2
   22,R
   10
   69,D
-
   59
    1,J
   30
@@ -476,7 +467,7 @@ read ITJ-3A lvl_a_09 SHC2
    8,D,X
   40
 
-#lvl_a_13 (2)
+#lvl_a_13
    1,S
    1,D,J
   69,O
@@ -490,7 +481,7 @@ read ITJ-3A lvl_a_09 SHC2
    4,R
   40
 
-#lvl_a_12 (2)
+#lvl_a_12
    4,R
   13,R,J
   15,R,D,X
@@ -518,7 +509,7 @@ read ITJ-3A SHC3 SHC4
   13,U,X
   40
 
-#lvl_b_05 (1)
+#lvl_b_05
    1,L
    2
    1,R
@@ -599,7 +590,7 @@ read ITJ-3A SHC3 SHC4
   11,L,D,X
   40
 
-#lvl_b_05 (2)
+#lvl_b_05
    3,L,D,X
    4,L,J
   17,L,D,X
@@ -680,7 +671,7 @@ read ITJ-3A SHC3 SHC4
    5,R,D,X
   40
 
-#lvl_b_05 (3)
+#lvl_b_05
    2,R,D,X
    1,R,J
    7,R
@@ -748,7 +739,7 @@ read ITJ-3A SHC3 SHC4
    9,D,X
   40
 
-#lvl_b_05 (4)
+#lvl_b_05
    1,L,D
    7,R,D
    3,R,D
@@ -769,7 +760,7 @@ read ITJ-3A SHC3 SHC4
    4,R
   40
 
-#lvl_b_09 (1)
+#lvl_b_09
    2,R
   15,R,D,X
    1,R,D
@@ -804,7 +795,7 @@ read ITJ-3A SHC3 SHC4
 
 read,ITJ-3AC,lvl_b_08,lvl_b_09 (2)
 
-#lvl_b_09 (2)
+#lvl_b_09
    8,L,D
    2,R,D
    8,L,D
@@ -838,7 +829,7 @@ read,ITJ-3AC,lvl_b_08,lvl_b_09 (2)
   13,U,X
   40
 
-#lvl_b_11 (1)
+#lvl_b_11
    3,R
    4
   16,R,J
@@ -924,7 +915,7 @@ read,ITJ-3AC,lvl_b_08,lvl_b_09 (2)
    2,R,J
   40
 
-#lvl_b_11 (2)
+#lvl_b_11
   18,R,J
   15,R,U,Z
   10,L,J,G
@@ -982,7 +973,7 @@ read,ITJ-3A,lvl_b_14,Section Elevation
    4,R
   40
 
-#lvl_c_01 (1)
+#lvl_c_01
    2
    3,R
    1,R,J
@@ -1042,7 +1033,7 @@ read,ITJ-3A,lvl_b_14,Section Elevation
   10,R,D,X
   40
 
-#lvl_c_01 (2)
+#lvl_c_01
    5,D
    2,L,D
    5,R,D
@@ -1057,7 +1048,7 @@ read ITJ-3A SHC5 SHC6
   12,R,U,Z
   40
 
-#lvl_c_04 (1)
+#lvl_c_04
    2,R,U,Z
    1,L
    1,K,G
@@ -1171,7 +1162,7 @@ read ITJ-3A SHC5 SHC6
    9,R
   40
 
-#lvl_c_04 (2)
+#lvl_c_04
    1,R
    1,R,J
   14,R
@@ -1250,7 +1241,7 @@ read ITJ-3A SHC7 SHC8
 
 read ITJ-3A lvl_c_09 lvl_c_10
 
-#lvl_c_10 (1)
+#lvl_c_10
    2
    6,R
   12,R,J,G
@@ -1337,7 +1328,7 @@ read ITJ-3A lvl_c_09 lvl_c_10
   22,L,D
   40
 
-#lvl_c_10 (2)
+#lvl_c_10
    7,L,D
   18,R,D
   31,R,X
@@ -1528,7 +1519,7 @@ read ITJ-3A lvl_d_07 SHC11
    1,R,J
   40
 
-#lvl_d_11 (2)
+#lvl_d_11
    3,R
    1,R,J
    4,R
@@ -1592,4 +1583,4 @@ read ITJ-3A lvl_d_12 lvl_d_15
    1,D,J
   18
 
-ChapterTime: 5:10.573(18269)
+ChapterTime: 5:10.029(18237)
