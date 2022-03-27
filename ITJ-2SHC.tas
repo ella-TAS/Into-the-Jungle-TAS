@@ -879,16 +879,7 @@ read ITJ-2A lvl_b_15 lvl_c_02
    5,R
   40
 
-read ITJ-2A lvl_c_05 lvl_c_08
-
-#lvl_c_08
-  16,U,X
-   2,L
-  40
-
-#lvl_c_07
-   5,R,U,X
-  40
+read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
 
 #lvl_c_08
   26,R
