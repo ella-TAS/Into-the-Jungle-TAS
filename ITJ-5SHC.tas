@@ -240,7 +240,7 @@ read ITJ-5A Start lvl_b_05
    1,L,J,G
   40
 
-Read, ITJ-5A, lvl_b_11, lvl_b_12 (2)
+read,ITJ-5A,lvl_b_11,lvl_b_12 (2)
 
 #lvl_b_12
    4,D
@@ -398,7 +398,7 @@ Read, ITJ-5A, lvl_b_11, lvl_b_12 (2)
    6,L
   40
 
-Read ITJ-5AC lvl_c_cassette collection
+read ITJ-5AC lvl_c_cassette collection
 #collection
 
 console, load, Into The Jungle/ch5, 4904, 3256
@@ -408,7 +408,7 @@ console, load, Into The Jungle/ch5, 4904, 3256
   36
    7,L,Z
 
-Read ITJ-5A 5AC lvl_c_07
+read ITJ-5A 5AC lvl_c_07
 
 #lvl_c_07
    1,R
@@ -620,8 +620,6 @@ Read ITJ-5A 5AC lvl_c_07
    1,S
    1,D,J
   69,O
-
-
    8,R,Z
    1,R,J
   22,R,D
@@ -660,7 +658,7 @@ Read ITJ-5A 5AC lvl_c_07
    5,R
   40
 
-Read ITJ-5A lvl_c_07 lvl_c_08
+read ITJ-5A lvl_c_07 lvl_c_08
 
 #lvl_c_08
    3
@@ -688,7 +686,7 @@ Read ITJ-5A lvl_c_07 lvl_c_08
   13,L,J
   40
 
-Read ITJ-5A lvl_c_08 lvl_c_11
+read ITJ-5A lvl_c_08 lvl_c_11
 
 #lvl_c_11
    4,L
@@ -713,7 +711,7 @@ Read ITJ-5A lvl_c_08 lvl_c_11
   12,L,J
   40
 
-Read ITJ-5A lvl_c_12 lvl_c_13
+read ITJ-5A lvl_c_12 lvl_c_13
 
 #lvl_c_13
    2,R,U,Z
@@ -776,7 +774,7 @@ Read ITJ-5A lvl_c_12 lvl_c_13
    2,R
   40
 
-Read ITJ-5A lvl_d_01 lvl_d_02
+read ITJ-5A lvl_d_01 lvl_d_02
 
 #lvl_d_02
    1,R,J
@@ -854,7 +852,7 @@ Read ITJ-5A lvl_d_01 lvl_d_02
    6,R,D,X
   40
 
-Read ITJ-5A lvl_d_04 lvl_d_05
+read ITJ-5A lvl_d_04 lvl_d_05
 
 #lvl_d_05
   11,R,J
@@ -955,7 +953,7 @@ Read ITJ-5A lvl_d_04 lvl_d_05
   12,R,J
   40
 
-Read ITJ-5A lvl_d_07 lvl_d_10
+read ITJ-5A lvl_d_07 lvl_d_10
 
 #lvl_d_10
    2,R
@@ -1170,4 +1168,4 @@ Read ITJ-5A lvl_d_07 lvl_d_10
   10,U,X
   40
 
-Read ITJ-5A lvl_d_13
+read ITJ-5A lvl_d_13

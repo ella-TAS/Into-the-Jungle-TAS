@@ -2,7 +2,6 @@ console, load, Into The Jungle/ch2
    1
 
 #Start
-
 read ITJ-2A Start lvl_a_03
 
 #lvl_a_03
@@ -167,8 +166,6 @@ read ITJ-2A lvl_a_06 lvl_a_09
    1
   15,R,U,X
   23,R,D
-#36.567(2151)
-
   16,R,U,X
    4,R,D
    1,D
@@ -575,10 +572,11 @@ read ITJ-2A lvl_a_06 lvl_a_09
   11,L
   40
 
-#lvl_b_06
 read ITJ-2AC lvl_b_06 collection
 
- 137,R
+#lvl_b_cassette
+ 123
+  14,R
    4,Z
    1,R,J
    4,R
@@ -941,7 +939,7 @@ read ITJ-2A lvl_c_05 lvl_c_08
 #  15,L,X
 #   1,L
 #  15,L,X
-
+#-----
    1,R,J
    1,J
    4,R,J
@@ -1553,4 +1551,5 @@ read ITJ-2A lvl_d_06 lvl_d_08
   40
 
 read ITJ-2A lvl_d_13
-#268.549(15797)
+
+ChapterTime: 4:28.549(15797)

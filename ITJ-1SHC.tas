@@ -516,7 +516,7 @@ read ITJ-1AC collection SHC
    9,R,D,X
   40
 
-lvl_b_04
+#lvl_b_04
    7,R,D,X
    4,R,D,J
    1,R,K,G
@@ -573,7 +573,7 @@ lvl_b_04
    1,K
   40
 
-Read ITJ-1A lvl_b_05 lvl_b_08
+read ITJ-1A lvl_b_05 lvl_b_08
 
 #lvl_b_08
   15,R
@@ -657,7 +657,7 @@ Read ITJ-1A lvl_b_05 lvl_b_08
   12,U,X
   40
 
-Read ITJ-1A lvl_b_11 lvl_c_01
+read ITJ-1A lvl_b_11 lvl_c_01
 
 #lvl_c_01
    3,R
@@ -688,7 +688,7 @@ Read ITJ-1A lvl_b_11 lvl_c_01
   12,R,U,Z
   40
 
-Read ITJ-1A lvl_c_02 lvl_c_03
+read ITJ-1A lvl_c_02 lvl_c_03
 
 #lvl_c_03
    7,L,D,X
@@ -1192,7 +1192,7 @@ Read ITJ-1A lvl_c_02 lvl_c_03
   10,D,X
   40
 
-Read ITJ-1A lvl_d_03(2) lvl_d_10
+read ITJ-1A lvl_d_03(2) lvl_d_10
 
 #lvl_d_10
   13,L,D
@@ -1227,7 +1227,7 @@ Read ITJ-1A lvl_d_03(2) lvl_d_10
    6,R
   40
 
-Read ITJ-1A lvl_d_11 lvl_d_12
+read ITJ-1A lvl_d_11 lvl_d_12
 
 #lvl_d_12
    6,R,Z
@@ -1302,7 +1302,8 @@ Read ITJ-1A lvl_d_11 lvl_d_12
    1,R,J
   14,R,D,X
    1,R,J
-#3:16.758(11574)
    1,S
    1,D,J
   18
+
+ChapterTime: 3:16.758(11574)

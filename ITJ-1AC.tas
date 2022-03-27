@@ -90,6 +90,7 @@ read ITJ-1A Start lvl_a_04
   10,L,X
   19,L,J
   13,U,X
+#0:15.045(885)
  257
    1,J
 
@@ -124,3 +125,5 @@ read ITJ-1A Start lvl_a_04
 
 #SHC
 read ITJ-1A lvl_a_08
+
+ChapterTime: 2:00.972(7116)

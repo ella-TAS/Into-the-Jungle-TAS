@@ -32,12 +32,11 @@ console, load, Into The Jungle/ch3
    1,R,J
    7,R
   26
-#maybe retry instead?
    1,Q
    1,J
   31
 
-read,ITJ-3A.tas,Start,lvl_a_03
+read ITJ-3A Start lvl_a_03
 
 #lvl_a_03 (1)
    5,R,J
@@ -123,7 +122,7 @@ read,ITJ-3A.tas,Start,lvl_a_03
    1,R,J
    5,R,D,X
 
-read,ITJ-3A,SHC1,lvl_a_06
+read ITJ-3A SHC1 lvl_a_06
 
 #didn't try intended route
 #but i don't like waiting
@@ -280,7 +279,9 @@ read,ITJ-3A,SHC1,lvl_a_06
   10,R,J
   40
 
-read,ITJ-3A,lvl_a_09,SHC2
+read ITJ-3A lvl_a_09 SHC2
+
+#lvl_a_10
    5,R,Z
    2,R,J
    9,R,K,G
@@ -507,8 +508,9 @@ read,ITJ-3A,lvl_a_09,SHC2
    5,J,G
    7,R
 
-read,ITJ-3A,SHC3,SHC4
+read ITJ-3A SHC3 SHC4
 
+#lvl_b_04
    1,J,G
    4,R
    3
@@ -966,6 +968,7 @@ read,ITJ-3AC,lvl_b_08,lvl_b_09 (2)
 
 read,ITJ-3A,lvl_b_14,Section Elevation
 
+#lvl_b_14
 #Section Elevation
    5,R,D,X
    2,R,J
@@ -978,7 +981,6 @@ read,ITJ-3A,lvl_b_14,Section Elevation
    1,R,J
    4,R
   40
-
 
 #lvl_c_01 (1)
    2
@@ -1048,10 +1050,9 @@ read,ITJ-3A,lvl_b_14,Section Elevation
   15,R,X,G
   16,L,D
 
+read ITJ-3A SHC5 SHC6
 
-read,ITJ-3A,SHC5,SHC6
-
-
+#lvl_c_03
   12,R,J
   12,R,U,Z
   40
@@ -1206,7 +1207,9 @@ read,ITJ-3A,SHC5,SHC6
   12,R,K
   47,R
 
-read,ITJ-3A,SHC7,SHC8
+read ITJ-3A SHC7 SHC8
+
+#lvl_c_08
    4,L,J
    1,R,J
    7,J
@@ -1245,7 +1248,7 @@ read,ITJ-3A,SHC7,SHC8
    1,L,J
   40
 
-read,ITJ-3A,lvl_c_09,lvl_c_10
+read ITJ-3A lvl_c_09 lvl_c_10
 
 #lvl_c_10 (1)
    2
@@ -1350,8 +1353,10 @@ read,ITJ-3A,lvl_c_09,lvl_c_10
    6,R
    1,R,J
   13,R
-read,ITJ-3A,SHC9,SHC10
 
+read ITJ-3A SHC9 SHC10
+
+#lvl_d_04
 #Section Remnants
    9,R,Z
    1,R,J
@@ -1464,8 +1469,9 @@ read,ITJ-3A,SHC9,SHC10
   10,R,J
   40
 
-read,ITJ-3A,lvl_d_07,SHC11
+read ITJ-3A lvl_d_07 SHC11
 
+#lvl_d_11
    9,L,Z
   11,L,J
    5,L
@@ -1535,7 +1541,7 @@ read,ITJ-3A,lvl_d_07,SHC11
    1,R
   40
 
-read,ITJ-3A,lvl_d_12,lvl_d_15
+read ITJ-3A lvl_d_12 lvl_d_15
 
 #lvl_d_15
   14,R,D,X
@@ -1585,4 +1591,5 @@ read,ITJ-3A,lvl_d_12,lvl_d_15
    1,S
    1,D,J
   18
-#5:10.573(18269)
+
+ChapterTime: 5:10.573(18269)

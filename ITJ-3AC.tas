@@ -35,7 +35,6 @@ read ITJ-3A Start lvl_b_09
    7,R,D
   40
 
-
 #lvl_b_08
    1,R,D
    6,R,Z
@@ -80,6 +79,7 @@ read ITJ-3A Start lvl_b_09
   14,L,C
    1,L,J
   11,L,D,X
+#1:00.979(3587)
  257
    1,J
 #collection
@@ -117,4 +117,5 @@ read ITJ-3A Start lvl_b_09
   40
 
 read ITJ-3A lvl_b_11
-#3:28.641
+
+ChapterTime: 3:25.734(12102)
