@@ -1,5 +1,5 @@
 console, rmx2, Into The Jungle/ch4
-ChapterTime: 0:47.736(2808)
+ChapterTime: 0:47.702(2806)
    1
 
 #Start
@@ -23,18 +23,21 @@ ChapterTime: 0:47.736(2808)
   11,R,J
    7,R
    1,K,G
-   7,R,D
-   3,L,D
-   6,R,D
-  15,D
-   1,R,D
-   1,R,K
-   4,R,J
-  12,R,D
+   7,R
+   3,L
+   4,D
+  15,R,D
+   1,D
+   1,R,G
+   4,R,J,G
+  11,R,D
    1,R
-  16,R,D
-   2,L,D
-   5,L
+   3,R,D
+   1,R
+  15,R,D
+   1,L,D
+   3,L
+   1,L,D
   13,L,X
    2,L,K,G
   15,L
@@ -42,8 +45,7 @@ ChapterTime: 0:47.736(2808)
    1,R,D
    4,K,G
    3
-   2,L
-   7,L
+   9,L
    1,L,K,G
    2,L,J,G
    5,L
@@ -52,8 +54,8 @@ ChapterTime: 0:47.736(2808)
    1,L,K
   20,L,D
    1,D
-   1,L
-   1,D
+   1,L,D
+   1
    1,L
    3
   15,U,X
@@ -62,8 +64,7 @@ ChapterTime: 0:47.736(2808)
    4,R
    7
    1,G
-   2
-   1,R
+   3
    1,R,G
    2,R,J,G
   14,R
@@ -403,4 +404,4 @@ ChapterTime: 0:47.736(2808)
    2,R,D
   99,D
 
-ChapterTime: 0:47.736(2808)
+ChapterTime: 0:47.702(2806)
