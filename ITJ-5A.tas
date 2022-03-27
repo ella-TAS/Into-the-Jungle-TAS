@@ -1,8 +1,8 @@
-#console, load, Into The Jungle/ch5, 8580.54166871309, -6153.91675508022, 32.50006, -105
-#play awake 37
-
 #console, load, Into The Jungle/ch5, b_01
 #play reenter 1
+
+#console, load, Into The Jungle/ch5, 8580.54166871309, -6153.91675508022, 32.50006, -105
+#play awake 37
 
 console, load, Into The Jungle/ch5
    1
