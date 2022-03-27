@@ -113,14 +113,13 @@ console, load, Into The Jungle/ch4
   25,R,D,X
    3,R
    1,R,D
-   6,R,Z
+   7,R,Z
    1,R,J
    6,R
-   1,R,J
   43
 
 #lvl_a_03
-   1,R
+   1,R,J
   14,R,D,X
    1,R,J
    4,R
@@ -167,7 +166,6 @@ console, load, Into The Jungle/ch4
    1,L,J
    6
   12,L
-
   23,R
    5,R,Z
   10,L,J
@@ -372,9 +370,7 @@ read ITJ-4A lvl_a_07 lvl_a_13
   13,R,D
    3,R
   10,R,X
-  16,R,J
-
-   2,R,J
+  18,R,J
   15,U,X
    1,L,J,G
    1,R,J
@@ -563,7 +559,7 @@ read ITJ-4A lvl_b_04 lvl_b_06
 
 read ITJ-4A lvl_b_09 lvl_b_11
 
-#lvl_b_09
+#lvl_b_11
   12,R
   15,D,X
    3,R
@@ -583,10 +579,414 @@ read ITJ-4A lvl_b_09 lvl_b_11
    9,J
    2,R,J
    4,R,K,G
+   6,R,Z
+   1,J
+   7
+  40
+
+#lvl_b_12
+   1,L,J
+   5,L,Z
+  40
+
+#lvl_b_11
+   1,L,J
+  16,L,D
+  14,L
+  15,U,X
+  12,L,G
+  10,J,G
+   5
+  28,R,D
+   1,R
+   8
+   5,U,X
+   1,J
+  20
+   4,L,D
+   1
+   5,L
+   1,L,J,G
+  15,L,D
+  11,D
+   9,R,D
+   4,Z
+   1,R,J
+   7,R
+  12,L,J
+  15,U,X
+  10,R,J,G
+   2
+   4,R,K,G
+   5
+   2,R
+   1,L,J
+   9,J
+   2,R,J
+   4,R,K,G
    5,R,Z
    6,R,J
    1,L,J
    1,L
   40
 
-read ITJ-4A lvl_b_12
+read ITJ-4A lvl_b_12 4SHC1
+
+#lvl_c_02
+   4,Z
+   1,L,J
+   6,L
+   1,J
+   7,L,J
+   1,R,K,G
+   9,L,K
+  12,R,J
+  12,L,K
+   1,L,J,G
+  12,R,U,X
+   1,R,J,G
+  19,R
+   4,X
+   7,L,J
+  16,L,D
+  11,R,D
+  12,D
+  19,L,D
+   1,D
+   4,Z
+   1,L,J
+   5,L
+  17,D
+  22
+   5,J
+   2
+  15,D,X
+  40
+
+read,ITJ-4A,lvl_c_06,lvl_c_02 (2)
+
+#lvl_c_02
+  17,R,J
+  14,L,U,X
+  14,L,J,G
+   3,L,K,G
+   7,L
+   4,Z
+   1,L,J
+   7,L,D
+   2,L,D,J
+   3,L
+  40
+
+#lvl_c_Cassette
+   5,L,J
+   5,L
+  15,L,D,X
+   3,L,J
+   2,L,K,G
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+  15,D,X
+  11,L,Z
+   6,L,J
+  16,L,D
+  13,L
+  14,L,X
+   1,L,J,G
+  10,L
+   5
+   5,L,X
+   5,L,J,G
+   5,L
+   2,L,K
+   3,L
+   1,L,K
+  17,L,D
+  40
+
+#lvl_c_casetteHeartRoom
+   8,D
+  16,R,D
+   1,R,D,J
+  23,D,X
+   3,R,D
+   1,L,D
+   1,L
+  13,L,D
+  13,L,D,X
+   2,L,J
+  14,L,D,X
+   1,L,J
+   6,L,D,X
+  13,G
+   9
+   5,J
+   1,S
+   1,D,J
+  69,O
+   4,Z
+   1,L,J
+   7
+Repeat 43
+   1,L,D
+   1,R
+Endrepeat
+   4,Z
+   1,L,J
+   7
+   1,R,J
+  14,J
+  37,U,Z
+  52,J,G
+  50,K,G
+  60
+   1,O
+  30
+   1,K,G
+  40
+
+#lvl_c_Cassette
+  11
+  13,U,X
+   7,J
+ 257
+   1,J
+ 123
+  10,R,D,X
+   2,R,J
+   4,R,K,G
+  11,R,D,X
+  40
+
+#lvl_c_02
+   3,R,D,X
+   2,R,J
+   1,J
+   1,R,J
+   1,J
+  15,D,X
+   5,R,C
+   4,L,J
+  14,R,K
+   1,R,J,G
+   2,L,J
+   2,R,J
+   7,R
+
+read,ITJ-4A,4AC2,lvl_c_02 (3)
+
+#lvl_c_02
+   8,R
+   2,R,J
+  15,D,X
+   4,Z
+   1,R,J
+  10
+   1,D
+  14,R,D,X
+   6,R,J
+   1,K
+   6,L,J,G
+   4,R,J
+  14,R,U,X
+   5,R,J,G
+   6,R
+   4,Z
+   1,R,J
+   7,R
+   3,R,J
+  14,U,Z
+   1,J
+  40
+
+#lvl_c_07
+  11,L
+   2,L,J,G
+   9,L,D,X
+  10,L,J
+   4,L
+   1,G
+  22,R
+   1,R,J
+   8,R
+   2,R,K
+   5,R
+   9,R,Z
+   1,L,J
+   2
+   4,L
+   1,L,J
+  10,L,U,Z
+   3,L,J,G
+   3
+   8,L
+   1,L,J,G
+  10,L
+   3,L,J
+   8,L
+   1,L,K
+   1,L
+  26,R,X
+   4,Z
+   1,R,J
+  10,R,D
+   1,R,J
+   3,R,K,G
+   3,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  18,U,X
+  16,J
+  12,K
+  30,D
+  11,R,D
+   1,R
+   3,R,J
+   3,R
+  12,D,X
+  40
+
+#lvl_c_02
+   7,D
+   9,L,D,X
+   1,L,J
+   5,L
+   2,L,K
+   2,L,J
+   1,J
+   2
+   1,K
+   1
+  15,D,X
+  12,R,D
+   1,R
+   2,R,D
+   1,R
+   4,Z
+   1,R,J
+   6,R
+   2,R,J
+   8,R
+   1,R,K
+   3,R
+  24,R,U,X
+   5,R,J
+  16,U,X
+  17,J
+   1,K
+  40
+
+read ITJ-4A lvl_c_03 lvl_c_08
+
+#lvl_c_08
+   1
+   1,L,J
+  15,D
+   1,J
+   8
+   2,J
+   2
+   3,R
+  12,L,Z
+   1,R,J
+   6,R
+   1,R,J
+   4,R
+   1
+  18,R,U,Z
+   2,R,J
+  14,U,X
+   9,J
+  40
+
+#lvl_c_09
+   1,L,J
+   1,L,K
+   5,L
+   1,L,J,G
+   3,L,K,G
+   6,L,Z
+   1,L,J
+  17,L
+   9,U,X
+   1,J
+  13,D
+  76,L,Z
+  14,L,V
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   4,Z
+   1,L,J
+  10,L
+   9,D,X
+  40
+
+#lvl_c_08
+  23,D
+   4,L,D
+  10,R,D,X
+   1,R,J
+   9,R
+  13,R,U,X
+   1,R,J,G
+  10,R
+  40
+
+#lvl_c_10
+   3,R
+  10,R,J
+   8,R
+  15,U,X
+   1,R
+   9,L
+   5,R,X
+  13,L,J
+   5,L,K,G
+   1,L
+   1,L,J,G
+   7
+  10,J
+   4,R,J
+  21,U,X
+  18,R,U,C
+  14,R,Z
+   1,R,J
+  12,R,D,X
+   3,R,J
+   5,R,U,X
+  40
+
+#lvl_c_11
+   9,R,U,X
+   1,R,J,G
+   8,R,D,X
+   1,R,J
+   7,R
+   5,R,J
+  15,R,U,X
+  11,R,J
+   1,K,G
+   6,R
+   1,L
+  13,D
+  15,R,Z
+  23,D
+  15,U,X
+  38
+   4,R,J
+  12,L,K
+   9,R,Z
+   5,R,K,G
+   2,R,J
+  11,R,D,X
+  40
+
+read ITJ-4A lvl_c_12
+
+ChapterTime: 3:52.934(13702)
