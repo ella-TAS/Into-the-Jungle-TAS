@@ -1,4 +1,6 @@
 read _start
+
+#A-sides
 read ITJ-0 Start
 read LoadANo Prologue
 read ITJ-1SHC Start
@@ -9,30 +11,19 @@ read ITJ-3SHC Start
 read LoadA
 read ITJ-4SHC Start
 read LoadA
-read ITJ-5SHC Start collection
+read ITJ-5A Start exit
+read CassetteRTM depths
+read ITJ-5A reenter lvl_b_05
+read ITJ-5SHC lvl_b_05 collection
 read CassetteRTM
 read ITJ-5SHC Continue
-
-#5A to 1B
  164
    1,J
-  36
-   1,X
-  20
-   1,L
-   8
-   1,L
-   8
-   1,L
-   8
-   1,L
-   8
-   1,J
-  21
-   1,R
-   1,J
- 304
+  83
+   1,S
+read Load1B hundo
 
+#B-sides
 read ITJ-1B Start
 read LoadB
 read ITJ-2B Start
@@ -42,6 +33,18 @@ read LoadB
 read ITJ-4B Start
 read LoadB
 read ITJ-5B Start
+read Load1C
+
+#C-sides
+read ITJ-1C Start
+read LoadC
+read ITJ-2C Start
+read LoadC
+read ITJ-3C Start
+read LoadC
+read ITJ-4C Start
+read LoadC
+read ITJ-5C Start
   59
    1,J
  196
@@ -49,8 +52,6 @@ read ITJ-5B Start
 # 164
  400
    1,J
- 337
-   1,J
- 188
+  83
    1,S
 read LoadJournal
