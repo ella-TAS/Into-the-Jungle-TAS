@@ -22,4 +22,14 @@ read ITJ-5AC Continue
 read Load1B
 
 #B-sides
-read _100 B-sides
+read _100 B-sides AC
+  59
+   1,J
+ 196
+#let the music play out
+# 164
+ 400
+   1,J
+  83
+   1,S
+read LoadJournal

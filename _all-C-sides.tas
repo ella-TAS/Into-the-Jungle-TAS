@@ -1,0 +1,49 @@
+unsafe
+read _start 0 switchToITJ
+read _start rename
+   1,S
+   1,D,J
+  32
+read LoadEnableCheatMode
+   1,X
+  42
+
+#configure the amount of
+#presses if you need to
+   1,U
+  48
+   1,L
+   8
+   1,L
+   8
+   1,L
+   8
+   1,L
+   8
+   1,J
+  21
+   1,R
+   1,F,90
+   1,J
+  30
+   1,J
+  15
+read ITJ-1C Start
+read LoadCCheatMode
+read ITJ-2C Start
+read LoadCCheatMode
+read ITJ-3C Start
+read LoadCCheatMode
+read ITJ-4C Start
+read LoadCCheatMode
+read ITJ-5C Start
+  59
+   1,J
+ 196
+#let the music play out
+# 164
+ 400
+   1,J
+ 194
+   1,S
+read LoadJournal
