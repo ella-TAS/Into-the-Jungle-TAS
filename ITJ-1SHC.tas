@@ -1134,7 +1134,7 @@ endrepeat
 
 #lvl_d_03
    8,R,D,X
-  22,R,J
+  21,R,J
    1,J
    2,R,J
   15,R,X
@@ -1143,7 +1143,7 @@ endrepeat
   15,U,Z
    1,R
    1,R,J
-  14,L,G
+  13,L,G
    1,R,G
    1,L,J
    8,L
@@ -1286,4 +1286,4 @@ read ITJ-1A lvl_d_11 lvl_d_12
    1,D,J
   18
 
-ChapterTime: 3:16.588(11564)
+ChapterTime: 3:16.554(11562)
