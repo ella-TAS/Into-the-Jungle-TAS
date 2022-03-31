@@ -591,39 +591,44 @@ read ITJ-4A lvl_b_09 lvl_b_11
 
 #lvl_b_11
    1,L,J
-  16,L,D
-  14,L
-  15,U,X
-  12,L,G
-  10,J,G
+  14,L,D
+  13,R,D
+   3,R
+  15,U,Z
+   1,L
+   8,J
+   8,R
+   2,R,J
    5
-  28,R,D
+  23,R,D
    1,R
-   8
+   7,L
    5,U,X
    1,J
   20
    4,L,D
+   4,L
    1
-   5,L
+   1,L
    1,L,J,G
   15,L,D
   11,D
    9,R,D
    4,Z
    1,R,J
-   7,R
+   3,R
+   1,R,J
+   3,R
   12,L,J
-  15,U,X
+  16,U,X
   10,R,J,G
-   2
    4,R,K,G
    5
    2,R
    1,L,J
    9,J
    2,R,J
-   4,R,K,G
+   5,R,K,G
    5,R,Z
    6,R,J
    1,L,J
@@ -989,4 +994,4 @@ read ITJ-4A lvl_c_03 lvl_c_08
 
 read ITJ-4A lvl_c_12
 
-ChapterTime: 3:52.934(13702)
+ChapterTime: 3:52.781(13693)
