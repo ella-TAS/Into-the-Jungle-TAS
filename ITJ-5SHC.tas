@@ -1,5 +1,5 @@
-console, load, Into The Jungle/ch5, 4108, 4775, 303, 23
-play lvl_b_05 37
+#console, load, Into The Jungle/ch5, 4108, 4775, 303, 23
+#play lvl_b_05 37
 
 #console, load, Into The Jungle/ch5, 5588, 2423, 303, 23
 #play lvl_c_07 37
@@ -24,12 +24,12 @@ read ITJ-5A Start lvl_b_05
    1,K
   13,L,K
   15,U,X
-  24,R,J
-   2,J
-   1,K
-  26,R,K
+  15,L,J
+  12,L,G
+  12,R,J
+   7,R
   15,U,X
-  14,R
+  15,R
    4,Z
    1,R,J
    7,R
@@ -227,7 +227,7 @@ read ITJ-5A Start lvl_b_05
   14,U,X
   14,L,J
    5,L
-  16,J,G
+  15,J,G
    1,K
   16,L,J,G
    1,L,K,G
@@ -377,7 +377,7 @@ read,ITJ-5A,lvl_b_11,lvl_b_12 (2)
    7,L,Z
    1,L,J
    1,L
-#0:59.279(3487)
+#0:59.160(3480)
   40
 
 read ITJ-5AC lvl_c_cassette collection
@@ -525,13 +525,15 @@ read ITJ-5A 5AC lvl_c_07
   25,L,D
    4,L,X
    9,L,J
-  19,L,D
-  29,D
+  18,L
+   4
+  21,D
+   5,L,D
   15,U,X,G
    8,R
    1,J,G
    4,R,J
-   4,J
+   1,J
    1,R,J
    1,L,J
    1,R
@@ -540,9 +542,9 @@ read ITJ-5A 5AC lvl_c_07
    3,R
    1,R,K,G
    4,R,J,G
-   8,R
+   9,R
    1,R,K
-   7,R,D
+   6,R,D
    1,R,D,G
    5,R,D
   14,L,Z
@@ -596,14 +598,17 @@ Endrepeat
    1,S
    1,D,J
   69,O
-   8,R,Z
+   4,Z
+   2,R,J
+   8,R
    1,R,J
-  22,R,D
+  13,D,X
   40
 
 #lvl_c_05
   28,R,D
-   4,D
+   3,D
+   2,R,D
    4,R,Z
    1,R,J
    7,R
@@ -829,32 +834,29 @@ read ITJ-5A lvl_d_01 lvl_d_02
 read ITJ-5A lvl_d_04 lvl_d_05
 
 #lvl_d_05
-  11,R,J
-   5,R,Z
+   6,R,J
+   5,J
+   4,R,Z
    1,R,J
-   7,R
+   2
+   5,R
    3,R,J
-   1,R,K,G
-   1,R
-  11,R,D,X
-   3,R,J
-   2,R,K,G
-   7,R
-  14,R,D,X
-   1,R,J
    5,R,D,X
+   1,R,J,G
+  11,R
    1,R,J
    2,R
+   1,R,K,G
+  19,R
   40
 
 #lvl_d_06
-   5,R
-   9,R,J
-   6,R,K,G
-   5,L,Z
+  11,R,J
+   4,R,K,G
+   4,Z
    1,R,J
-   7,R
-  19,R,J,G
+   7,R,G
+  18,R,J
   12,K,G
   12,J,G
    6,K,G
@@ -874,15 +876,12 @@ read ITJ-5A lvl_d_04 lvl_d_05
 
 #lvl_d_05
    4,L
-   9,L,J
+   8,L,J
   14,L,X
-   5,R,J
-   5,L,K
-   7,U,X
-   5,L,J
-   9,L
    1,L,J
-   4,L
+  11,U,X
+   5,L,J
+  12,L
    8,L,J
    6,R,J
   18,U,X
@@ -927,31 +926,25 @@ read ITJ-5A lvl_d_04 lvl_d_05
 read ITJ-5A lvl_d_07 lvl_d_10
 
 #lvl_d_10
-   2,R
-   7,R,D,X
-   1,R,J,G
-   1,L
-   6,R
-   1,R,J
-   4,R
+   4,Z
    2,R,J
-   5,R
-   4
-   6,R
+   8,R
   12,R,J
    3,R
   13,R,U,G
    3,R,G
-   1,R,U,G
-  20,R,G
+   2,R,U,G
+  41,R,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
    1,R,K,G
    9,R
    7,R,J
-  26,L,D
+  23,L,D
+   1,R,D
   13,R
+   2
   14,U,X
   51,L,J
   11,R,D
@@ -971,12 +964,12 @@ read ITJ-5A lvl_d_07 lvl_d_10
   15,L,X
   12,L,G
   43,U,G
-  34,G
+  28,G
    1,L,J,G
    1,L,K,G
-   1,L,J,G
-  25,L
-   6,L,Z
+   4,L,J,G
+  27,L
+   5,L,Z
    1,L,J
    7,L
    1,L,J
@@ -1043,7 +1036,7 @@ read ITJ-5A lvl_d_07 lvl_d_10
    3,R,K
    8,R
   10,R,X
-  17,R,J
+  15,R,J
   14,U,X
   12,R,G
   24,L,J
@@ -1061,19 +1054,17 @@ read ITJ-5A lvl_d_07 lvl_d_10
    1,R,J
    9,L,J
    9,R,J
-   1,J
   15,U,X
   20,U,C
   15
-   7,L
-   5
+   6,L
+   6
   15,L,U,X
-   9,R
-   6,R
+  15,R
   15,U,X
    2,R,J,G
    7,R
-  18,R,J
+  19,R,J
   15,U,X
   11,R,G
    1,J,G
@@ -1159,7 +1150,7 @@ read ITJ-5A lvl_d_07 lvl_d_10
   18,U,X
   18,U,C
   10,U,X
-#2:22.749(8397)
+#2:22.188(8364)
   40
 
 read ITJ-5A lvl_d_13
