@@ -1066,12 +1066,10 @@ console, load, Into The Jungle/ch3
    7,R
   14,R,D,X
    8,R,J
-  43,R
-  15,R,U,X
-   6,R
-   3
-  10,R,U,X
-  52
+  33,R
+  26,R,X
+  12,U,C
+  55
   15,R,U,X
    3,R
    2,J,G
@@ -1496,4 +1494,4 @@ console, load, Into The Jungle/ch3
    1,D,J
   18
 
-ChapterTime: 3:11.981(11293)
+ChapterTime: 3:11.930(11290)
