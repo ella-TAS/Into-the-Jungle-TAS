@@ -30,7 +30,7 @@ C-Side times:
 
 # Contributors
 TASers:  
-cake, Cuberstache, Hane, mikachelya, tntfalle, Firethief, TheRoboMan, abiteofdata, gnommis, Flinchless, Wakey, gameprofi, Gowgon, nebs, Kirbz, Lost in Nowhere, Teo, cake, squeal, med, Vasher, Kataiser
+abiteofdata, cake, Cuberstache, Firethief, Flinchless, gameprofi, gnommis, Gowgon, Hane, Kataiser, Kirbz, Lost in Nowhere, med, mikachelya, nebs, squeal, Teo, TheRoboMan, tntfalle, Vasher, Wakey
 
 Special Thanks:  
 Benjamanian, caeyo, Lmjacks, max480, New Game Plus, Thegur90, Vamp
