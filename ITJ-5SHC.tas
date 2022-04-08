@@ -380,17 +380,9 @@ read,ITJ-5A,lvl_b_11,lvl_b_12 (2)
 #0:59.160(3480)
   40
 
-read ITJ-5AC lvl_c_cassette collection
-#collection
+read ITJ-5AC lvl_c_cassette 5SHC
 
-console, load, Into The Jungle/ch5, 4904, 3256
-   1
-
-#Continue
-  36
-   7,L,Z
-
-read ITJ-5A 5AC lvl_c_07
+read ITJ-5A lvl_c_04 lvl_c_07
 
 #lvl_c_07
    1,R
@@ -1150,7 +1142,7 @@ read ITJ-5A lvl_d_07 lvl_d_10
   18,U,X
   18,U,C
   10,U,X
-#2:22.188(8364)
+#3:55.722(13866)
   40
 
 read ITJ-5A lvl_d_13
