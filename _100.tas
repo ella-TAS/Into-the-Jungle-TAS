@@ -14,14 +14,8 @@ read LoadA
 read ITJ-5A Start exit
 read CassetteRTM depths
 read ITJ-5A reenter lvl_b_05
-read ITJ-5SHC lvl_b_05 collection
-read CassetteRTM
-read ITJ-5SHC Continue
- 164
-   1,J
-  83
-   1,S
-read Load1B hundo
+read ITJ-5SHC lvl_b_05
+read Load1B
 
 #B-sides
 read ITJ-1B Start

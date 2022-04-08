@@ -16,9 +16,7 @@ read LoadA
 read ITJ-5A Start exit
 read CassetteRTM depths
 read ITJ-5A reenter lvl_c_04
-read ITJ-5AC lvl_c_04 collection
-read CassetteRTM
-read ITJ-5AC Continue
+read ITJ-5AC lvl_c_04
 read Load1B
 
 #B-sides
@@ -28,8 +26,10 @@ read _100 B-sides AC
  196
 #let the music play out
 # 164
-# 400
-#   1,J
-#  83
-#   1,S
-#read LoadJournal
+ 400
+   1,J
+ 337
+   1,J
+ 186
+   1,S
+read LoadJournal
