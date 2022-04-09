@@ -1,8 +1,20 @@
+#v1.4 by tntfalle
+
+#may delete files
+#create backups
 unsafe
-Set,DisableScreenShake,true
-Set,DisableFlashes,true
+
+#-----
+#1 - IL timer
+#2 - file timer
 Set,SpeedrunClock,2
-console titlescreen
+#-----
+
+Set,Everest.UseKeyboardForTextInput,False
+Set,ScreenShake,Off
+Set,DisableFlashes,true
+
+console overworld
    2
    1,J
   94
@@ -39,12 +51,7 @@ console titlescreen
    1,D
    1,F,180
    1,J
-   3,L
-   3,R
-   3,L
-   2,R
-   2,L
-   1,U
+  14,L
    1,D
 #switchToITJ
    1,F,180
@@ -57,55 +64,70 @@ console titlescreen
 #rename
    1,J
   41
+
+#choose the file name
+#and input S
+#-----
+   1,L
+   1,F,270
+   1,J
+   1,L
    1,D
+   1,L
+   1,D
+   1,L
+   1,F,270
+   1,L
+   1,J
+   1,R
+   1,U
+   1,R
+   1,J
+   1,L
+   1,U
+   1,J
    1,R
    1,D
+   1,R
+   1,J
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,L
+   1,F,270
    1,J
    1,R
    1,F,90
-   1,R
-   1,F,90
-   1,R
-   1,F,90
-   1,R
    1,U
    1,F,
    1,U
+   1,F,
+   1,U
+   1,L
    1,J
    1,R
    1,D
    1,R
    1,F,90
-   1,R
-   1,F,90
-   1,R
-   1,F,90
-   1,R
    1,J
-   1,L
-   1,D
-   1,J
-   1,L
-   1,U
-   1,L
-   1,U
-   1,L
-   1,F,270
    1,L
    1,F,270
    1,L
    1,J
-   1,R
-   1,D
-   1,R
-   1,F,90
+   1,U
    1,R
    1,J
-   1,D
-   1,F,180
-   1,D
-   1,F,180
+   1,L
+   1,F,270
    1,J
+   1,L
+   1,D
+   1,L
+   1,J
+   1,S
+#-----
+
   48
    1,U
    1,J

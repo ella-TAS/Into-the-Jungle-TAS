@@ -1,6 +1,6 @@
 unsafe
-read _start 0 switchToITJ
-read _start rename
+read LoadStart 0 switchToITJ
+read LoadStart rename
    1,S
    1,D,J
   32

@@ -1,4 +1,4 @@
-read _start
+read LoadStart
 read ITJ-0 Start
 read LoadANo Prologue
 read ITJ-1A Start

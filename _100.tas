@@ -1,4 +1,4 @@
-read _start
+read LoadStart
 
 #A-sides
 read ITJ-0 Start
