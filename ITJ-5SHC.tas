@@ -1,5 +1,5 @@
-console, load, Into The Jungle/ch5, 4108, 4775, 303, 23
-play lvl_b_05 37
+#console, load, Into The Jungle/ch5, 4108, 4775, 303, 23
+#play lvl_b_05 37
 
 #console, load, Into The Jungle/ch5, 5588, 2423, 303, 23
 #play lvl_c_07 37
@@ -1147,7 +1147,7 @@ read ITJ-5A lvl_d_07 lvl_d_10
   18,U,X
   18,U,C
   10,U,X
-#3:55.229(13837)
+#2:21.899(8347)
   40
 
 read ITJ-5A lvl_d_13
