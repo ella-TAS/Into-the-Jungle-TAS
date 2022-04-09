@@ -1,5 +1,5 @@
-#console, load, Into The Jungle/ch5, 4108, 4775, 303, 23
-#play lvl_b_05 37
+console, load, Into The Jungle/ch5, 4108, 4775, 303, 23
+play lvl_b_05 37
 
 #console, load, Into The Jungle/ch5, 5588, 2423, 303, 23
 #play lvl_c_07 37
@@ -500,38 +500,45 @@ read ITJ-5A lvl_c_04 lvl_c_07
    9,R
   12,R,J
   12,K,G
-   6,J,G
-   1,L,K
-   2,L,J
-   2,L,K,G
+   1,R,J,G
+   6,L,J
+   4,J
    1,L,D,G
-   5,R,Z
+   4,Z
    1,L,J
-   7,L
+   5,L
+   2,L,K
    1,L,J
-   1,L
-   2,L,J,G
-  10,L
+   1,L,K,G
+   9,L
+   1,L,J
   14,L,U,X
    1,R,J,G
-  25,L,D
-   4,L,X
-   9,L,J
-  18,L
    4
-  21,D
+  15,L
    5,L,D
+   1,L
+   4,L,X
+   8,L,J
+   5,L
+   2,L,K
+   6,L
+   7,D
+   3,L,D
+  18,D
+   6
+   1,L
   15,U,X,G
-   8,R
+   1,R
    1,J,G
-   4,R,J
+   8,R,J
    1,J
    1,R,J
    1,L,J
    1,R
   15,R,K,G
-  11,R,J,G
-   3,R
+  10,R,J,G
+   4,R
    1,R,K,G
    4,R,J,G
    9,R
@@ -564,11 +571,11 @@ read ITJ-5A lvl_c_04 lvl_c_07
    1,L,J
    7,L
    1,L,J
-   7,L,D,X
-   1,R,J,G
+   6,L,D,X,G
+   1,R,J
    7,R
-   3,R,J
-  27,R
+   2,R,J
+  26,R
    1,R,D,G
    6,R,J
    1,L,K
@@ -1142,7 +1149,7 @@ read ITJ-5A lvl_d_07 lvl_d_10
   18,U,X
   18,U,C
   10,U,X
-#3:55.722(13866)
+#3:55.399(13847)
   40
 
 read ITJ-5A lvl_d_13
