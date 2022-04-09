@@ -474,24 +474,19 @@ console, load, Into The Jungle/ch4
   40
 
 #lvl_c_01
-   5,R,Z
-   1,R,J
-  12,R
-   5,R,Z
-   1,R,J
-   7,R
-   9,R,J
-  15,U,X
-  13,R,D
-   6,R,Z
-   1,R,J
-   7,R
-   1,R,J
-  14,R,D,X
+  10,R,Z
    1,L,J
    4,L
-  19,R
-  27,D
+  10,R,Z
+   7,J
+   5,K,G
+   5,U,X
+   1,J
+  15,L
+   6,R,Z
+   1,R,J
+  62,R
+   8
    6,R,Z
    1,R,J
    2,R
@@ -1321,4 +1316,4 @@ Endrepeat
    1,D,J
   18
 
-ChapterTime: 2:30.535(8855)
+ChapterTime: 2:30.365(8845)
