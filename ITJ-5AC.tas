@@ -1,4 +1,4 @@
-console, load, Into The Jungle/ch5, 4150, 2752, -325, -52.5
+console, load, Into The Jungle/ch5, 4145, 2751, -320.6667, -37.5
 Play Cassette 37
 
 console, load, Into The Jungle/ch5
@@ -68,8 +68,8 @@ read ITJ-5A Start lvl_c_04
   11,L,J
    7,L,Z
    1,L,J
-#Cassette
    1,L
+#Cassette
   40
 
 #lvl_c_cassette
@@ -166,7 +166,7 @@ read ITJ-5A Start lvl_c_04
   12,R,J
   15,U,X
   18,L,J
-#0:14.246(838)
+#0:14.229(837)
  257
    1,J
  123
