@@ -3,8 +3,21 @@ read LoadStart
 #A-sides
 read ITJ-0 Start
 read LoadANo Prologue
-read ITJ-1SHC Start
-read LoadA
+read ITJ-1SHC0 Start
+read LoadA 0 control
+   1,L
+   8
+   1,J
+  21
+   1,J
+  30
+   1,R
+   1,F,90
+   1,R
+   1,J
+  46
+read ITJ-1SHC1 Start
+read LoadC hundo
 read ITJ-2SHC Start
 read LoadA
 read ITJ-3SHC Start
@@ -50,3 +63,5 @@ read ITJ-5C Start
   83
    1,S
 read LoadJournal
+
+FileTime: 39:50.795(140635)
