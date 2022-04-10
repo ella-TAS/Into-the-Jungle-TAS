@@ -1,4 +1,3 @@
-unsafe
 read LoadStart 0 switchToITJ
 read LoadStart rename
    1,S
