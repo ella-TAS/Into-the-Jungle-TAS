@@ -151,9 +151,8 @@ console, load, Into The Jungle/ch1
    5
    4,L
    2,L,G
-#for berry collection
+#+1f berry collect
    1
-#---
    1,J
    4,R,J
    1,K
@@ -181,22 +180,10 @@ console, load, Into The Jungle/ch1
    9,J
    1,L,J
    1,R,K,G
+Repeat 8
    1,L,K
    1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
+Endrepeat
   19,L,J
   10,L,X
   20,L,J
@@ -247,12 +234,11 @@ read ITJ-1AC collection SHC
    2,L,J
    2,L,D
   15,L,Z
-   4,L,D
-  11,R,D
-   4,L,Z
-   1,L,J
-  10
-   7,D,X
+   9,L,D
+   6,R,D
+#+1f berry collect
+  15,L,Z
+   8,D,X
   40
 
 #lvl_a_08
@@ -344,27 +330,13 @@ read ITJ-1AC collection SHC
    1,K
    1,J
    4,L
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
+   3,J
+   3,K
+   3,J
+   3,K
+   3,J
+   3,K
+   3,J
   40
 
 #lvl_b_01
@@ -773,14 +745,17 @@ read ITJ-1A lvl_c_02 lvl_c_03
   19,R
   15,R,U,Z
   18,L,D
-  12,D
-  33,R,D,J
+  10,D
+   1,R,D
+   1,D
+  14,R,D
+  19,R,J
   15,R,X
   21,R,D
    4,D,X
    2,R,J
-   8,R
-   1,R,D,J
+#+1f berry collect
+   9,R
   40
 
 #lvl_c_06
@@ -788,10 +763,13 @@ read ITJ-1A lvl_c_02 lvl_c_03
    1,R,J
    7,R
   11,R,J
-  10,R
+   5,R
+   1,R,K
+   5,R
+   8
+   2,R
   10
-   1,D
-  11
+   2,R
   10,R,X
   20,R,J
    2,J
@@ -957,16 +935,15 @@ endrepeat
 
 #lvl_c_08
    2,L,D
-  25,R,D
-   5,R,Z
-   2,R,J
-   5,R
+  19,R,D
+  13,R,D,X
+   1,R,J
+   3,R
   40
 
 #lvl_c_11
-   2,R
-   1,R,J
-  12,R,D,X
+   1,R
+  14,R,D,X
    3,R,J
    2,R,D
    3,R,J
@@ -978,8 +955,9 @@ endrepeat
    1,L,J
    6,L
    2,L,J
-   8,L,D
-  25,R,D
+   7,L,D
+   9,D
+  17,R,D
   22,R
   14,R,Z
    4,R,J
@@ -990,7 +968,7 @@ endrepeat
   40
 
 #lvl_c_12
-   5,R,D,X
+   5,R
    1,R,J
    7,R
    2,R,J
@@ -1014,8 +992,8 @@ endrepeat
   12,D
    2
    1,D
-#+1f berry spot
-  10,L,D,X
+#+1f berry collect
+  11,L,D,X
   10,R,J
    2,R
    1,R,J
@@ -1032,126 +1010,19 @@ endrepeat
    1
   15,R,D,X
   15,R,D,C
-   8,R,D
-   1,R
-   4,Z
+   9,R,D
    1,R,J
-   6,R
-   6,R,J
-  40
-
-#lvl_d_01
-   4,R,J
-  15,U,X
-  17,R,J
-   1,K
-   7,R,K
-   1,J
-   5,R,J
-   1,R
-   3,R,J
-   1,K
-   1,J
-   4,R
-   1,J
-   1,R,J
-   4,R
-   8,L,J,G
-  40
-
-#lvl_d_02
-  11,L
-  15,U,X
-   1,L,J,G
-   3,R,J
-   3,L,J
-   1,L,K,G
-  18,L,J,G
-   7,R,J
-  14,U,X
-   8,R,J
-  40
-
-#lvl_d_04
-   8
-   3,R
-   7,J,G
-  14,R,U,X
-  14,R,J
-  18,R
-  15,R,U,Z
-   1,L,J,G
-   1,L,K,G
-   3,R,K
-   4,L,J
-   7,L
-   4,X
-   3,L,J
-  99,L,D
-   1,L,J
-  15,R,D,X
-  10,D,C
-  40
-
-#lvl_d_02
-  16,L,D
-   2,L
-  16,L,J
-  32,L,D
-   5,L,X
-  40,L,J
-  12,L,U,X
-   1,R,J,G
-   2,L,J
-   2,L
-   1,K
-   7,L
-   5,R,D
-  91,L,D
-   1,R,J
+   2,J
   14,L,D,X
    1,R,J
-   8,D,C
-  40
-
-#lvl_d_01
-  28,R,D
-   4,R
-   1,R,D
-   5,R
-   4,Z
-   1,R,J
-   6,R
-  12,R,J
-   7,R,D,X
-  40
-
-#lvl_d_03
-   8,R,D
-  24,R,J
-  16,R,X
-  13,R,U,Z
-   1,L,J,G
-   8,L,K,G
-   5,L
-   1,L,K
-   2,L
-   2
-   6,J
-   6,R,J
-   1,J
-   1,R,J
-  18,U,X
-   1,R
-  28,R,J
-  15,U,X
-   3,R
-   1
+   5,R,D,X
    1,R,J,G
-   1,J
-   3,R,K,G
-   1,J
+   7,R
+   3,R,J
+   3,R
   40
+
+read ITJ-1A lvl_d_01 lvl_d_06
 
 #lvl_d_06
    1,R,J,G
@@ -1280,4 +1151,4 @@ read ITJ-1A lvl_d_11 lvl_d_12
    1,D,J
   18
 
-ChapterTime: 3:15.636(11508)
+ChapterTime: 3:02.699(10747)
