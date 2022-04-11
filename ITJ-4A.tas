@@ -1,6 +1,9 @@
 #console, load, Into The Jungle/ch4, 4292, 1806, 316, -22
 #Play Maze 37
 
+#console, load, Into The Jungle/ch4,6380, 1443.75, 0, -105
+#Play Collapse 37
+
 console, load, Into The Jungle/ch4
    1
 
@@ -877,6 +880,7 @@ EndRepeat
 
 #lvl_c_13
   11,R
+#Collapse
    6,R,Z
    1,R,J
    7,R
