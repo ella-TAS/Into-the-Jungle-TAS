@@ -1,3 +1,6 @@
+#console, load, Into The Jungle/ch4, 3892, 1697, 282, -37
+#Play Maze 37
+
 console, load, Into The Jungle/ch4
    1
 
@@ -631,6 +634,7 @@ read ITJ-4A lvl_b_09 lvl_b_11
    1,L
   40
 
+#Maze
 read ITJ-4A lvl_b_12 4SHC1
 
 #lvl_c_02
@@ -696,9 +700,8 @@ read,ITJ-4A,lvl_c_06,lvl_c_02 (2)
   13,L
   14,L,X
    1,L,J,G
-   9,L
-   5
-   6,L,X
+  14,L
+   5,L,X
    4,L,J,G
    5,L
    2,L,K
@@ -740,8 +743,8 @@ Endrepeat
   14,J
   37,U,Z
   52,J,G
-  50,K,G
-  60
+  51,K,G
+  59
    1,O
   30
    1,K,G
@@ -989,4 +992,4 @@ read ITJ-4A lvl_c_03 lvl_c_08
 
 read ITJ-4A lvl_c_12
 
-ChapterTime: 3:52.237(13661)
+ChapterTime: 3:52.220(13660)

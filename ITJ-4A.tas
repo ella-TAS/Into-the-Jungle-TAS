@@ -1,3 +1,6 @@
+#console, load, Into The Jungle/ch4, 4292, 1806, 316, -22
+#Play Maze 37
+
 console, load, Into The Jungle/ch4
    1
 
@@ -474,6 +477,7 @@ console, load, Into The Jungle/ch4
   40
 
 #lvl_c_01
+#Maze
   10,R,Z
    1,L,J
    4,L
@@ -485,8 +489,13 @@ console, load, Into The Jungle/ch4
   15,L
    6,R,Z
    1,R,J
-  62,R
-   8
+  11,R
+   1
+Repeat 19
+   1,L,D
+   2,R
+Endrepeat
+   1
    6,R,Z
    1,R,J
    2,R
