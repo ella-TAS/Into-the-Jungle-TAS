@@ -87,14 +87,32 @@ read ITJ-2A Start lvl_a_03
   40
 
 #lvl_a_03
-  10,R,D
-  15,R
-  14,R,Z
+  20,R,D
+  14,R,D,X
    1,R,J
-  13,R,D,X
+  17,R,D,X
   40
 
-read ITJ-2A lvl_a_06 lvl_a_09
+#lvl_a_06
+   2,R
+   2,R,J
+   5,R
+   4,J
+   9,R,D,X
+   5,J
+   8,R,J
+  15,R,U,X
+  40,R
+   7,R,D,X
+  29,R,J
+  15,R,X
+   1,R,J
+   4,R,Z
+   1,R,J
+   5,R
+  40
+
+read ITJ-2A lvl_a_07 lvl_a_09
 
 #lvl_a_09
    8,L,K
@@ -209,9 +227,9 @@ read ITJ-2A lvl_a_06 lvl_a_09
    7,L,J
   10,L,D,X
    1,R,J
-#desyncs with
+#if this desyncs,
+#disable
 #pandora's box 
-#enabled
    1,S
    1,D,J
   34
@@ -1527,4 +1545,4 @@ read ITJ-2A lvl_d_06 lvl_d_08
 
 read ITJ-2A lvl_d_13
 
-ChapterTime: 4:24.962(15586)
+ChapterTime: 4:24.554(15562)
