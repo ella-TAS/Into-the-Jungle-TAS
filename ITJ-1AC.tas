@@ -48,49 +48,41 @@ read ITJ-1A Start lvl_a_04
   15,U,X
   10,L
    1,G
-   5,R,J
-   2,R,K
-   3,R
-   8,R,J
+   1
+   1,K
+   4,R,K
+   1,J
+   2,R,J
+   2,R
+   8,L,J,G
   40
 
 #lvl_a_07cassette
-  11,R
-  15,L,X
-  10
-   7,R,J
-   4
+   2,L
+   1,L,J,G
+   8,L
+  16,L,X
+  14,L,C
+   1,R,J
+   8,J
   15,U,X
-   6,R
-  13,R
+   4
+  12,R
   20,R,J
-   2,K,G
-   1,R,K
+   3,K,G
    1,L,K
    9,J
    1,L,J
    1,R,K,G
+Repeat 8
    1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-   1,L,K
-   1,K
-  21,L,J
-  10,L,X
+   1,R,K
+Endrepeat
   19,L,J
-  13,U,X
-#0:15.045(885)
+  10,L,X
+  20,L,J
+  12,U,X
+#0:14.977(881)
  257
    1,J
 

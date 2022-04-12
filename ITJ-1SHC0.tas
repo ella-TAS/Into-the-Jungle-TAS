@@ -151,7 +151,6 @@ console, load, Into The Jungle/ch1
    5
    4,L
    2,L,G
-#+1f berry collect
    1
    1,J
    4,R,J
@@ -161,37 +160,7 @@ console, load, Into The Jungle/ch1
    8,L,J,G
   40
 
-#lvl_a_07cassette
-   2,L
-   1,L,J,G
-   8,L
-  15,L,X
-   7
-   5,R
-   7,R,J
-   4
-  15,U,X
-   6,R
-  12,R
-  20,R,J
-   2,K,G
-   1,R,K
-   1,L,K
-   9,J
-   1,L,J
-   1,R,K,G
-Repeat 8
-   1,L,K
-   1,K
-Endrepeat
-  19,L,J
-  10,L,X
-  20,L,J
-  12,U,X
- 257
-   1,J
-
-read ITJ-1AC collection SHC
+read ITJ-1AC lvl_a_07cassette SHC
 
 #lvl_a_08
    4,R
@@ -1151,4 +1120,4 @@ read ITJ-1A lvl_d_11 lvl_d_12
    1,D,J
   18
 
-ChapterTime: 3:02.699(10747)
+ChapterTime: 3:02.631(10743)
