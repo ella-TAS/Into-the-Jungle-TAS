@@ -616,14 +616,13 @@ read ITJ-2AC lvl_b_06 collection
    1,D,J
   34
   17,R,D
-   5,R
-   4
+   6,R
+   1,R,J
   40
 
 #lvl_b_05
-   1,L,D,J
   15,U,X
-   1,L
+   2,L
   40
 
 #lvl_b_06
@@ -631,8 +630,9 @@ read ITJ-2AC lvl_b_06 collection
   40
 
 #lvl_b_05
-  21,R
-  24,R,U,Z
+  23,R
+  19,R,U,Z
+   5
   12,L,J,G
    9,L,K,G
   40
@@ -915,9 +915,8 @@ read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
 #  15,R,U,X
 #  15,L,U,C
 #   8,L
-#  15,L,X
-#   1,L
-#  15,L,X
+#  16,L,X
+#  15,L,C
 #-----
    1,R,J
    1,J
@@ -1335,24 +1334,30 @@ read ITJ-2A lvl_d_06 lvl_d_08
    5,L,X
   10,L
   15,L,X
-  26,L,D
-   1,K
-  36,R,D
-  18,D
-   7,L,J
-   7,L,K,G
-  13,U,X
-  24,L,J
-  11,K,G
+  18,L
+   2,L,D
+   6,L
+   2,J
+  15,R,D,X
+  20,L,D
+   7,R,D
+   2,R
+   6,R,Z
+   1,L,J
+   2,J
+   4
+   2,R,J
+  15,U,X
+  18,L,J
+  12,L,K,G
+   3,J,G
+   1,R,J
+   4,K
+  12,L,J,G
+   6,K,G
    1,R,K
-   1,J
-   4,L,J
-   6,L,K,G
-   2,K
-   1,J
-  20,L,J
-  11,L,K,G
-   1,L
+   4,J
+  12,L,K,G
    4,L,J,G
    7,L
    4,Z
@@ -1531,8 +1536,9 @@ read ITJ-2A lvl_d_06 lvl_d_08
    4,D
   29,R,D
   14,R,D,X
-  33,R,J
-  10,R,Z
+  15,R,J
+  13,R
+  14,R,Z
    1,R,J
    6,R,K,G
    1,R
@@ -1543,4 +1549,4 @@ read ITJ-2A lvl_d_06 lvl_d_08
 
 read ITJ-2A lvl_d_13
 
-ChapterTime: 4:24.384(15552)
+ChapterTime: 4:24.010(15530)
