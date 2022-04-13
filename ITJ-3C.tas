@@ -2,9 +2,8 @@ console, rmx2, Into The Jungle/ch3
    1
 
 #Start
-  84
-
 #lvl_a_01
+  84
   13,L,Z
    1,R,J
    1
@@ -296,9 +295,6 @@ endrepeat
   15,L,X
    1
  200
-#unfortunately
-#low route isn't possible
-#can't quite enter it
   36
   15,U,X
   19,L,G
@@ -332,30 +328,52 @@ endrepeat
    8,R,J
   44,R,D
    4,R
-   1,R,D
+   1,D
   13,R,Z
    1,L,J
    6,L
-   6,L,D,J
-   9,D,X
-   3,R,J,G
-  10,R
-repeat 110
-   1,D
+  18,L,D,J
+  34,L,U,X
+   5,D
    1
-endrepeat
-repeat 10
-   1,D
-   1,L
-endrepeat
-   1
+  15,D
+   8
+   1,K
+   1,R,J,G
    1,L,J
- 245
-  19,L,U,X
+  28,J
+   9,R,K
+   1,R,J,G
+  12
+   2,D
+Repeat 9
+   2
+   2,D
+Endrepeat
+   2,J
+   7
+   2,L,K
+   8,L
+   5,L,Z
+   1,R,J
+   4,R
+   1,R,J
+   8,J
+   2
+   3,R
+   3
+  15,R,Z
+  13
+   3,L,J
+   3,J
+   1,L,J
+  17,J
+ 243
+  18,L,U,X
   68
   25,R,U,X
-  23,R,U,C
+  24,R,U,C
    4,X
  135,L,D,X
 
-ChapterTime: 1:16.585(4505)
+ChapterTime: 1:16.449(4497)
