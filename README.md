@@ -2,7 +2,7 @@
 Most up-to-date TAS files for Into the Jungle.
 
 Any%: 14:12.839  
-100%: 39:47.055
+100%: 39:46.256
 
 A-Side times:  
 0:   0:30.651  
@@ -13,7 +13,7 @@ A-Side times:
 5A:  0:44.982 + 3:01.560
 
 B-Side times:  
-1B:  1:35.234  
+1B:  1:35.217  
 2B:  1:50.653  
 3B:  2:37.318  
 4B:  1:59.289  
@@ -21,9 +21,9 @@ B-Side times:
 
 C-Side times:  
 1C:  0:38.199  
-2C:  0:54.978  
-3C:  1:16.585  
-4C:  0:47.702  
+2C:  0:54.944  
+3C:  1:16.296  
+4C:  0:47.651  
 5C:  2:42.996
 
 # Contributors
