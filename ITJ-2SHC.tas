@@ -104,7 +104,7 @@ read ITJ-2A Start lvl_a_03
   15,R,U,X
   40,R
    7,R,D,X
-  29,R,J
+  28,R,J
   15,R,X
    1,R,J
    4,R,Z
@@ -873,9 +873,9 @@ read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
    3,R,K
    8,L,K
    7,L
-   6,L,Z
-   1,L,J
-   7,L
+   4,L,Z
+   2,L,J
+   8,L
    1,L,J
   11,L,D,X
   40
@@ -1539,4 +1539,4 @@ read ITJ-2A lvl_d_06 lvl_d_08
 
 read ITJ-2A lvl_d_13
 
-ChapterTime: 4:23.925(15525)
+ChapterTime: 4:23.908(15524)
