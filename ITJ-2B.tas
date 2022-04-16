@@ -449,17 +449,17 @@ console, hard, Into The Jungle/ch2
   13,R,D
    5,R,J,G
   20,R,K,G
-  24,R,G
+   3,R,K,G
+   2,G
    1
    2,K
-   6,U,X
-   1,R,J
-   1,R,K,G
-  22,R,J,G
-  18,R,D
+   5,R,U,X
+   2,R,J,G
+  27,R,K,G
+  14,R
   14,R,Z
    1,R,J
-   9,R,D,X
+   8,R,D,X
    1,R,J
   40
 
@@ -539,8 +539,6 @@ console, hard, Into The Jungle/ch2
   42,R
   14,R,Z
   13,R
-#1:25.221(5013)
-
    6,R,Z
    1,R,J
    7,R
@@ -672,4 +670,4 @@ console, hard, Into The Jungle/ch2
   12,U,C
  135,L
 
-ChapterTime: 1:49.242(6426)
+ChapterTime: 1:48.902(6406)
