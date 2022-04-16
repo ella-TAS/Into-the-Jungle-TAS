@@ -116,14 +116,14 @@ console, load, Into The Jungle/ch0
   14,U,X
    2,R,J
   11,R
-   9,R,Z
+   8,R,Z
    1,R,J
    1
    4,R
    2,R,K
    1,R,J
-   2,R
-   3,R,K,G
+   3,R
+   2,R,K,G
    6,R,J,G
   15,R,D,X
    3,R,J
@@ -137,7 +137,7 @@ console, load, Into The Jungle/ch0
   20,R,J
    8,R
   14,R,U,X
-  20,R,J,G
+  19,R,J,G
    1
    6,J
    1
@@ -282,17 +282,16 @@ console, load, Into The Jungle/ch0
    1,R,J
    5,R,D,X
   40
-#It's faster to wait
-#for the timer to stop so
-#it negates fadeout.
-
-#No longer true,
-#but keeping the haiku
 
 #lvl_a_07
    8,R,D,X
+#It's faster to wait
+#for the timer to stop so
+#it negates fadeout.
+#No longer true,
+#but keeping the haiku
    1,S
    1,D,J
   18
 
-ChapterTime: 0:30.651(1803)
+ChapterTime: 0:30.617(1801)
