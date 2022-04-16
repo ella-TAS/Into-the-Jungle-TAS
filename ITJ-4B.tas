@@ -1,5 +1,5 @@
-console, hard, Into The Jungle/ch4, 1516.7, 832
-Play Maze 37
+#console, hard, Into The Jungle/ch4, 1516.7, 832
+#Play Maze 37
 
 console, hard, Into The Jungle/ch4
    1
@@ -433,22 +433,24 @@ console, hard, Into The Jungle/ch4
   43
 
 #lvl_0b_03
-   6,R,D,X
+   7,R
    6,R,J
-   5,R,D,X
-   1,R,J,G
-  11,R
-  12,R,J
+   2,R,K,G
+  10,R,D,X
+   1,R,J
+   7,R
+   7,R,J
    5,D,X
-   1,R,J,G
-  10,R
-   4,D,J
-   6
-   7,L,J,G
+   6,J,G
+   9,R
+   1
+   2,R,D,J
+   3,L,J
+   4,L,K,G
+   3,L,J,G
    1,L,K
   11,R,K
-   1,R,J,G
-   1,K
+   1,J
    7,R,Z
    1,R,J
    6,R
@@ -1117,4 +1119,4 @@ console, hard, Into The Jungle/ch4
   14,K
   66,L,J
 
-ChapterTime: 1:59.153(7009)
+ChapterTime: 1:59.119(7007)
