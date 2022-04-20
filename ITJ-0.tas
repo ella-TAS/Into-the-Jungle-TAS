@@ -80,6 +80,7 @@ Endrepeat
    6,R,Z
    1,J
    7,F,0.000001
+AnalogMode,Ignore
    1,U
   15,R,U,Z
    1,L,J
