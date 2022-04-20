@@ -156,8 +156,7 @@ read ITJ-3A Start lvl_a_03
   11,L
    5,L,J
    3,R,J
-   1,R,K,G
-   3,K
+   4,R,K,G
   36,J,G
   19,U,G
    4,L
@@ -171,20 +170,16 @@ read ITJ-3A Start lvl_a_03
    1,K,G
    6,L
    1,R
-  11,R,J
-  15,R,U,X
-   1,R,J,G
-   1,L
-   6,R
-   1,R,J
-   1,R
-  15,U,X
-  28,R,D
+  15,R,J
+  14,R,U,X
+  10,R,J,G
+  11,K,G
+   6
+  12,R
    4,Z
    1,R,J
    5,R
-  56,D
-   3,R,D
+  59,D
   14,R,Z
    1,R,J
    6,R,D,X
@@ -1559,4 +1554,4 @@ read ITJ-3A lvl_d_12 lvl_d_15
    1,D,J
   18
 
-ChapterTime: 5:06.612(18036)
+ChapterTime: 5:06.476(18028)
