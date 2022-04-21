@@ -490,7 +490,7 @@ read ITJ-1AC lvl_a_07cassette SHC
    3,R,J
   10,R
   23,L,D
-   1,S
+   1,S,N
    1,D,J
   34
    6,L
@@ -1115,7 +1115,7 @@ read ITJ-1A lvl_d_11 lvl_d_12
    1,R,J
   14,R,D,X
    1,R,J
-   1,S
+   1,S,N
    1,D,J
   18
 

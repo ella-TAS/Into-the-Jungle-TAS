@@ -176,7 +176,7 @@ console, load, Into The Jungle/ch4
   15,L,U,Z
   16,L
    9
-   1,S
+   1,S,N
    1,D,J
   72,O
    5,R
@@ -387,7 +387,7 @@ console, load, Into The Jungle/ch4
    9,R
    7,L
    4
-   1,S
+   1,S,N
    1,D,J
   69,O
   10,R
@@ -1840,7 +1840,7 @@ console, load, Into The Jungle/ch4
   43
 
 #lvl_d_05
-   1,S
+   1,S,N
    1,D,J
   72,O
    5,R
@@ -2230,7 +2230,7 @@ console, load, Into The Jungle/ch4
 
 #lvl_d_13_outro
    1,R
-   1,S
+   1,S,N
    1,D,J
   18
 ChapterTime: 3:58.799(14047)

@@ -432,7 +432,7 @@ read ITJ-3A lvl_a_09 SHC2
   40
 
 #lvl_a_13
-   1,S
+   1,S,N
    1,D,J
   69,O
    1,R,J
@@ -692,7 +692,7 @@ read ITJ-3A SHC3 SHC4
   11,R,J
    5,R
    2,R,J
-   1,S
+   1,S,N
    1,D,J
   34
   11,R
@@ -1550,7 +1550,7 @@ read ITJ-3A lvl_d_12 lvl_d_15
    8,R,J
   15,U,X
    9,R
-   1,S
+   1,S,N
    1,D,J
   18
 

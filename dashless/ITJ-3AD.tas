@@ -248,7 +248,7 @@ console, load, Into The Jungle/ch3
   56,R,J,G
    3,R
   10,L
-   1,S
+   1,S,N
    1,C
   10,L,J
    4,R,Z
@@ -1795,7 +1795,7 @@ console, load, Into The Jungle/ch3
    7,R
    8,R,J
   11,R
-   1,S
+   1,S,N
    1,D,J
   18
 ChapterTime: 4:57.942(17526)

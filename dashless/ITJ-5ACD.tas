@@ -178,7 +178,7 @@ read ITJ-5AD Start lvl_c_02
   40
 
 #lvl_c_03
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,R

@@ -981,7 +981,7 @@ console, load, Into The Jungle/ch1
   40
 
 #lvl_d_06
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,J
@@ -1311,7 +1311,7 @@ console, load, Into The Jungle/ch1
   17,R
    1,R,J
    8,R
-   1,S
+   1,S,N
    1,D,J
   18
 ChapterTime: 2:57.582(10446)

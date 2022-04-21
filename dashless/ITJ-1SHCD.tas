@@ -327,7 +327,7 @@ console, load, Into The Jungle/ch1
   40
 
 #lvl_a_08(1)
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,R
@@ -619,7 +619,7 @@ console, load, Into The Jungle/ch1
   10,L,G
    1,R,J
    4,R
-   1,S
+   1,S,N
    1,D,J
   34
   14,R
@@ -657,7 +657,7 @@ console, load, Into The Jungle/ch1
    6
   43,R,J
   38,R
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,L
@@ -1736,7 +1736,7 @@ console, load, Into The Jungle/ch1
   40
 
 #lvl_d_06(2)
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,J
@@ -2071,7 +2071,7 @@ console, load, Into The Jungle/ch1
   17,R
    1,R,J
    8,R
-   1,S
+   1,S,N
    1,D,J
   18
 ChapterTime: 5:14.075(18475)

@@ -132,7 +132,7 @@ read ITJ-5A Start lvl_b_05
    7,R,J
    1,J
    1
-   1,S
+   1,S,N
    1,D,J
   34
   26,R,X
@@ -605,7 +605,7 @@ Endrepeat
   59
    1,J
   30
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,Z

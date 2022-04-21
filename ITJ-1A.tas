@@ -676,7 +676,7 @@ console, load, Into The Jungle/ch1
   40
 
 #lvl_d_06(2)
-   1,S
+   1,S,N
    1,D,J
   69,O
    1,J
@@ -907,7 +907,7 @@ console, load, Into The Jungle/ch1
    1,R,J
   14,R,D,X
    1,R,J
-   1,S
+   1,S,N
    1,D,J
   18
 

@@ -183,7 +183,7 @@ read ITJ-5AD Start lvl_b_05
    4,L,D
    1,R,D
    2,R,J
-   1,S
+   1,S,N
    1,D,J
   34
    4,R,J
@@ -542,7 +542,7 @@ read ITJ-5AD lvl_b_11 lvl_c_01
   40
 
 #lvl_c_03
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,R
