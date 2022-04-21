@@ -3,7 +3,7 @@ console, load, Into The Jungle/ch0
 
 #Start
 #lvl_a_01 (0)
-AnalogMode,Precise
+AnalogMode Precise
    4,L,J
    5,L
    1,L,J
@@ -18,47 +18,51 @@ AnalogMode,Precise
   12,L
    1,L,J,G
   13,L
-   8,L,J
+   8,L,D,J
    7,L
-   2,L,J
-  15,L
+   1,L,J
+   1,L
+   1,L,J
+   1,J
+  10,L
+   1
+   1,L
+   1
+   1,D
+   1,J
+   1,L,K
    1,L,J
    1,L,K
-   3,L,J
-   6,L
-   1,J
-   1
-   1,J
-   8
-   4,R,D
-   1,F,170.40602
-   1,F,160.52884
-   1,F,150.00005
-   1,F,138.18973
-   1,F,170.40591
+   1,K
+  15
+   5,D
+   1,F,173.94031
+   1,F,164.2029
+   1,F,153.96638
+   1,F,142.73045
+   3,R
+   1,D
+   1,R
+   1,D
+   1,R
+   1,D
+   1,R
+Repeat 6
+   1,R
+   1,F,109.08717
+Endrepeat
    2,R
-   1,D
+  19,F,93.1815
+   1,F,100.39886
+   1,F,107.78823
+   1,F,115.49929
+Repeat 4
    1,R
-   1,D
-   1,R
-   1,D
-   4,R
-Repeat,5
-   1,R
-   1,F,103.092221
+   1,F,113.53517
 Endrepeat
+Repeat 17
    1,R
-  20,F,92.66645
-   1,F,99.87631
-   1,F,107.24883
-   1,F,114.93073
-Repeat,5
-   1,F,120.58227
-   1,R
-Endrepeat
-Repeat 16
-   1,R
-   1,F,104.6818
+   1,F,105.15098
 Endrepeat
    3
   15,R,Z
@@ -66,22 +70,24 @@ Endrepeat
    3,F,99
    6,R,D,X
    1,R,J
-  11,R,D
-   4,Z
-   1,R,J
+   9,R
+   8,R,D,X
   40
 
 #lvl_a_01 (1)
-  10,R,D
+   1,R,J
+   9,R,D
    4,Z
    1,R,J
    3,R
    7,F,43.40123
-   6,R,Z
+   5,R,Z
    1,J
-   7,F,0.000001
-AnalogMode,Ignore
-   1,U
+   2,U
+   3,F,0.000001
+AnalogMode Ignore
+   3,R
+   1
   15,R,U,Z
    1,L,J
    1,L,K
@@ -189,25 +195,28 @@ AnalogMode,Ignore
    5,R
   14,R,U,X
    1,R,J,G
-  19,R,D
+  19,R
    2,R,J
    9,R,D,X
   40
 
 #lvl_a_05
-  12,R
-  13,R,D
-   1
-  13,R,D
+  30,R,D
+   2,R
+   4
+   1,R
+   4
   15,D,X
   15,R,D,C
-  15,R,X
-  15,R,Z
-  15,R,C
-  15,R,Z
-  15,R,U,X
-  15,U,C
-   5,U,X
+  15,R,D,X
+  10,R,D,C
+   1,R,J
+   7,F,25
+  15,R,U,Z
+  15,R,U,V
+  12,U,X
+   3,J
+   7,U,X
    1,R,J
    1,R,K
    1,R,J
@@ -338,4 +347,4 @@ AnalogMode,Ignore
 #No longer true,
 #but keeping the haiku
 
-ChapterTime: 0:29.478(1734)
+ChapterTime: 0:29.393(1729)
