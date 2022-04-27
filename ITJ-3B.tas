@@ -2,9 +2,8 @@ console, hard, Into The Jungle/ch3
    1
 
 #Start
-  69
-
 #lvl_a_01
+  69
    4,Z
    1,R,J
   13,R
@@ -122,10 +121,9 @@ console, hard, Into The Jungle/ch3
   10,R
    9,J
    7
-  87,L,G
-   1,U,G
+  86,L,G
+   2,U,G
    1,G
-   1,U,G
   15,R,X
    8,R
    8
@@ -144,14 +142,14 @@ console, hard, Into The Jungle/ch3
    1,J,G
   10,L,J
    1,R,J
-   8,G
+   7,G
    6,J,G
    8,L,J
   12,L,K
   40
 
 #lvl_a_05
-   4,L
+   3,L
    2,L,J,G
    5
    1,L,J
@@ -943,4 +941,4 @@ console, hard, Into The Jungle/ch3
    4,R
  135
 
-ChapterTime: 2:37.318(9254)
+ChapterTime: 2:37.267(9251)
