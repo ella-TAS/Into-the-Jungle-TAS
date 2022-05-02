@@ -34,11 +34,15 @@ console, load, Into The Jungle/ch1, d_01
    6,L,X
   38,L,J
   12,L,U,Z
-   1,R,J,G
-   2,L,J
-   2,L
+   1,J
    1,K
- 104,L,D
+   1,J
+   1,K
+   7,L
+Repeat 48
+   1,R
+   1,L
+Endrepeat
    5,L,J
   15,L,U,X
    9,R
@@ -65,8 +69,12 @@ console, load, Into The Jungle/ch1, d_01
    7,L
    4,X
    3,L,J
-  29,L,D
-#0:10.132(596)
+  11,L,D
+   3,D
+   3
+   3,D
+   9
+#0:10.081(593)
    1,S,N
    1,U,J
    1,O
