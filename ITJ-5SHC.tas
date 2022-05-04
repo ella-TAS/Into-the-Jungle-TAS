@@ -931,7 +931,14 @@ read ITJ-5A lvl_d_04 lvl_d_05
   12,R,J
   40
 
-read ITJ-5A lvl_d_07 lvl_d_10
+read ITJ-5A lvl_d_07 5SHC2
+
+#lvl_d_09
+   4,Z
+   2,R,J
+   8,R
+   1,R,J
+  40
 
 #lvl_d_10
    4,Z
@@ -980,21 +987,19 @@ read ITJ-5A lvl_d_07 lvl_d_10
    5,L,Z
    1,L,J
    7,L
-   1,L,J
-   1,L
+   2,L,D,J
   40
 
 #lvl_d_11
+   1,L,J
+  19,L,K,G
    1,L
-   1,L,J,G
-  16,L
-   7,L,J
   15,L,U,X
-   9
-   2,L,J
-   5,J
+   9,L
+   7,L,J
   11,L
-  19,U,X
+  15,U,X
+   4,L
   17,L,J
   22,R,K
    9,L,J
@@ -1012,26 +1017,31 @@ read ITJ-5A lvl_d_07 lvl_d_10
   11,L,J
   14,L
    2,R
-  15,R,J
+  14,R,J
   15,U,X
-  16,L,G
+  16,L
+   1,G
   12,L,J,G
-   8,K,G
-   9
-   2,L
-  30,J
-  10,L,K
+  12,K,G
    7
-   3,J
-   1,R,J
-  15,R
-  24,R,K
-  12,L,J
-   1,R,J
+   2,L
+  26,J
    3
+   9,L,K
+   1,K
+   7
+   1,J
+   2,R,J
+  11,R
+   1
+   1,R
+   1
+  22,R,J
+   2
+  11,L,K
+   5,L
   11,R,Z
-  17,L,J
-   4,L,J
+  21,L,J
   15,U,X
    4,R
    6,J
@@ -1158,7 +1168,7 @@ read ITJ-5A lvl_d_07 lvl_d_10
   18,U,X
   18,U,C
   10,U,X
-#2:21.814(8342)
+#2:21.729(8337)
   40
 
 read ITJ-5A lvl_d_13
