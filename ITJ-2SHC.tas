@@ -88,24 +88,26 @@ read ITJ-2A Start lvl_a_03
 
 #lvl_a_03
   20,R,D
-  14,R,D,X
+  13,R,D,X
    1,R,J
-  17,R,D,X
+   1,R
+  16,R,D,X
   40
 
 #lvl_a_06
-   2,R
+   3,R,D
    2,R,J
    5,R
-   4,J
+   1,R,J
+   2,J
    9,R,D,X
-   5,J
-   8,R,J
+   8,J
+   5,R,J
   15,R,U,X
   40,R
    7,R,D,X
-  28,R,J
-  15,R,X
+  27,R,J
+  16,R,X
    1,R,J
    4,R,Z
    1,R,J
@@ -128,31 +130,31 @@ read ITJ-2A lvl_a_07 lvl_a_09
   12,L
    1,L,J
    7,L
-  17,R,D
-  33,R
-  14,R,Z
+  35,R,D
+   4,R
+  21,R,X
+  11,R,Z
    1,R,J
-  10,R,D,X
+   1,R
   40
 
 #lvl_a_10
-   1,R,D,X
-   1,R,J
-   1
    6,R
-  14,R,J
-  12,R,U,X
+   7,R,J
+   8,R
+  14,R,U,X
    1,R,J,G
-  24,R,D
-   1,L,D
-   3,R,D
+  25,R,D
    8,L,D
+   1,R,D
+   1,D
+   1,R,D
    8,L,Z
    1,L,J
    3,L
-   5,L,J
+   5,L,K
    1,L
-  14,L,J
+  14,L,K
    1,R
    1,J,G
   15,L,U,X
@@ -255,24 +257,21 @@ read ITJ-2A lvl_a_07 lvl_a_09
    3,R,J
   13,R
   14,R,Z
-   4,R,J
-   4,R,K,G
-   3,R
+   2,R,J
+   2,R
+   1,R,K,G
+   6,R
+   1,R,K
    1,R,J,G
-  10,R,D,X
+   9,R
+   1,R,J
   40
 
 #lvl_a_14
-   1,R
-   1,R,J
-   2,R
-   3,R,K,G
-  11,R,J,G
-   1
-  11,R,Z
-   1,J,G
-   4
-  12,R
+   4,R
+  21,R,J,G
+   5,R
+   3
    1,R,J
    1,R
   17,R,D,X
@@ -414,28 +413,22 @@ Endrepeat
   40
 
 #lvl_b_02
-   5,L,U,X
-   3,L
-   8,U,Z
-  18,R,J
-   5,R,K,G
-   7,R
-   1,R,J
-   6,J
-   6,R,J
+   8,L
+  10,U,Z
+  15,R,J
+   8,R
+   3
+   2,J
+  11,R,J
   14,R,K,G
-   6,J,G
-   1,L,J
-   1,K
-   6,R,K
-  15,U,X
-   8,L,K
-  10,R,K
-   4,R,J,G
-   1,R,K,G
-   4,L,K
-   6,R,K
-   1,R,J,G
+   2,R,J,G
+  12,K
+  16,U,Z
+   7,L,J
+  11,R,J
+  10,R,K,G
+   2,R
+   3,R,J,G
    7,R
    4,Z
    2,R,K
@@ -445,24 +438,20 @@ Endrepeat
   40
 
 #lvl_b_09
-   1,R
-   1,R,J
-  10,R,D,X
-   2,R,J
-   3,R,K,G
-  10,R,J,G
-   2,L,J
+   3,R
+  20,R,J
    5,D,X
-  10,L,J
-  19,R,J
+  24,R,J
   15,R,D,X
-   3,R,D
-  18,R
+   5,R
+  17,R,J
   14,R,X
    8,R,J,G
-   8,R
-   2,R,K
-  22,R
+   5,R
+   1,R,K
+   4,R
+   1,R,K
+  21,R
   40
 
 #lvl_b_10
@@ -493,15 +482,17 @@ Endrepeat
    8,L,D,X
    1,L,J
    8,L,D
-  18,L,D,J
+  18,L,J
   15,L,X
   15,L,C
-   4,L
+   3
+   1,L
   15,L,X
-   4,L
+   3,L
   15,L,U,X
-  37,L,D
-   6,L
+  36,L,D
+   5,L
+   2,L,D
    4,Z
    1,L,J
    1,L
@@ -611,11 +602,11 @@ read ITJ-2AC lvl_b_06 collection
    5,L
   15,R,U,X
    2,L
-  20,R,D
+  24,R,D
    1,S,N
    1,D,J
   34
-  17,R,D
+  13,R,D
    6,R
    1,R,J
   40
@@ -761,6 +752,7 @@ read ITJ-2A lvl_b_15 lvl_c_02
    7,R
   40
 
+#lvl_c_03
    4,R
   12,R,J
   16,U,X
@@ -821,33 +813,24 @@ read ITJ-2A lvl_b_15 lvl_c_02
   40
 
 #lvl_c_04
-   3,R
+   3
    1,L,K,G
-   3,R,K
-   9,L,K
-  15,U,X
+   2,L,J,G
+  10,R,J
+  16,U,X
+  14,R,J
    4,L,J
-  15,R,J
    1,L,K,G
-   1,R,K
-   3,L,K
-   3,K
-   1,L,K
-   1,L
-   1
-   1,L,J,G
+  10,K
    7,L
   14,L,Z
    1,R,J
-   1,R
-  12,L
-  15,R,D
-   1,L,D
-  12,R,D
-   3,R
-   1,R,D
-  15,R,X
-   8,R,D
+   5,R
+   1,L,K
+   1,L
+  17,L,D
+  18,R,D
+  25,R,X
   15,R,D,C
    3,R,D
    3,R,J
@@ -940,16 +923,18 @@ read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
 
 #lvl_c_09
    3,R,D
-   1
-   1,R,J
-   1
+   1,J
   14,R,D,X
-   3,R,J
+   2,R,J
+   1,J
    1,R,K,G
-   3,R
+   3
   37,L,D
   10,R,D,X
-  19,L,J
+  15,L,J
+   1,L
+   1,L,K
+   1,L
   15,L,X
    4,L
   18,L,X
@@ -957,14 +942,14 @@ read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
   15,L,X
    4,L
   15,L,X
-  15,L
+  10,L
   15,U,Z
-   2,L
-   1,R
-   1,J,G
-   2,L,J
+   5,L
    2,R
    1,J,G
+   3,L,J
+   1,R,J
+   1,K,G
    5,L
    1,R,J
    1,K,G
@@ -975,14 +960,13 @@ read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
    1,J
    9,L,J
    1,K
-   1,L,K
-  41,L,K
-  15,L,D,X
-  17,L
+  41,L,J
+  20,L,D,X
+  12,L
   35,L,J
   36,L,X
   10,J
-   1,R,J
+   1,L,J
    1,J
    1,L,K,G
    1,L,J,G
@@ -997,9 +981,10 @@ read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
 
 #lvl_c_11
    1,L,J
-   5,L
-  30,D
-   4,L,D
+   3,L
+   1,L,K
+   2,L
+  33,D
   10,R,D,X
    8,L,J
    6,L
@@ -1541,4 +1526,4 @@ read ITJ-2A lvl_d_06 lvl_d_08
 
 read ITJ-2A lvl_d_13
 
-ChapterTime: 4:23.840(15520)
+ChapterTime: 4:23.381(15493)
