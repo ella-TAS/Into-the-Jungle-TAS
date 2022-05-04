@@ -1419,10 +1419,13 @@ console, load, Into The Jungle/ch5, b_01
    5,R
    1
    1,R
+#5SHC2
    7,L,Z
    1,R,J
-   7
-  16,L,J
+   4
+   3,K
+  14,L,J
+   1,R,J
   18,U,X
    1,R
   40
@@ -1818,4 +1821,4 @@ console, load, Into The Jungle/ch5, b_01
    1,D,J
   18
 
-#2:59.894(10582)
+#2:59.877(10581)
