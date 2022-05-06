@@ -867,14 +867,15 @@ EndRepeat
    4,D
    1,R,D
   18,L
-   1,R,J,G
-   7,R
-  41,G
-   3,R,J,G
-   2,R
+   9,R,J,G
+  35,G
+   3,D,G
+   5,U,G
+   1,G
+   1,J,G
   15,U,Z
   12,R,J,G
-   8,R,K,G
+   7,R,K,G
    1,J
   40
 
@@ -1329,4 +1330,4 @@ Endrepeat
    1,D,J
   18
 
-ChapterTime: 2:30.365(8845)
+ChapterTime: 2:30.348(8844)
