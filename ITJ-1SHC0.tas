@@ -1,5 +1,5 @@
-#console, load, Into The Jungle/ch1, 2561, -698, 904, -30
-#Play, post Heart, 37
+console, load, Into The Jungle/ch1, 2561, -698, 904, -30
+Play, post Heart, 37
 
 console, load, Into The Jungle/ch1
    1
@@ -255,19 +255,19 @@ read, ITJ-1AC, lvl_a_07cassette, lvl_a_07 (2)
 #lvl_a_10
    3,J
    3,K,G
-   3,R,K
-  12,R,D,X
+   4,R,K
+  11,R,D,X
   40
 
 #lvl_a_11
    2,R
-   2,R,J
+   1,R,J
+   1,R
   12,R,D,X
   40
 
 #lvl_a_09
-   3,R,D,X
-  30,R,D
+  33,R,D
   10,R
    2,R,D
   14,R,Z
@@ -555,34 +555,26 @@ read ITJ-1A lvl_b_05 lvl_b_08
   40
 
 #lvl_b_08
-  31,R,D
-   4,R,Z
-   2,R,J
+  25,R,D
+  10,R,D,X
   40
 
 #lvl_b_10
    3,R
-   2,R,J,G
-   2,R
-   1,L
-   3,R
-   1,R
-   1,R
-  15,R,D,X
+   1,R,J
+   4,R,K,G
    5,R
-   6,R,J,G
-  15,R,J
-   6,R
-  13,R,D,X
-  29,L,J
-  15,L,U,X
-   1,R,J,G
-   1,L,J
-  10,J
-   5,R,K,G
+  20,R,D,X
+  24,R,J,G
+  12,R,D,X
+  28,L,J
+  15,L,U,Z
+   1,R
+   2,K
+  12,R,J,G
    7,R
-  15,R,U,X
-   7,R
+  12,R,U,X
+  10,R
   14,R,Z
    9,R,J
    3,L,J
@@ -856,7 +848,7 @@ read ITJ-1A lvl_c_02 lvl_c_03
    4,R
   25,R,J,G
    3,G
-   1,K
+   1,K,G
    4,R,K
    6,R
    2,L,G
@@ -1093,4 +1085,4 @@ read ITJ-1A lvl_d_11 lvl_d_12
    1,D,J
   18
 
-ChapterTime: 3:01.509(10677)
+ChapterTime: 3:01.356(10668)
