@@ -1,4 +1,4 @@
-RecordCount: 5398
+RecordCount: 5420
 console, rmx2, Into The Jungle/ch5
 Set,CheatMode,true
    1
@@ -719,8 +719,9 @@ Set,CheatMode,true
   16,L,K
  166
   16,D,X
-   3,R,D
-  15,R,J
+   3,R
+  12,R,J
+   3,R
   14,R,U,X
   80
    1,J
