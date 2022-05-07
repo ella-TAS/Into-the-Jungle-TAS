@@ -13,6 +13,8 @@ Set,SpeedrunClock,2
 Set,Everest.UseKeyboardForTextInput,False
 Set,ScreenShake,Off
 Set,DisableFlashes,true
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
 
 console overworld
    2
