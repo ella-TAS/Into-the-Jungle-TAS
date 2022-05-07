@@ -2,7 +2,7 @@
 Most up-to-date TAS files for Into the Jungle.
 
 Any%: 14:09.643  
-100%: 39:40.357
+100%: 39:39.473
 
 A-Side times:  
 0:   0:29.393  
@@ -14,7 +14,7 @@ A-Side times:
 
 B-Side times:  
 1B:  1:35.217  
-2B:  1:48.851  
+2B:  1:48.409  
 3B:  2:37.267  
 4B:  1:59.119  
 5B:  2:26.999
@@ -31,4 +31,4 @@ TASers:
 EllaTAS, abiteofdata, cake, Cuberstache, Firethief, Flinchless, gameprofi, gnommis, Gowgon, Hane, Kataiser, Kirbz, Lost in Nowhere, med, mikachelya, nebs, sashabell, squeal, Teo, TheRoboMan, Vasher, Wakey
 
 Special Thanks:  
-Benjamanian, caeyo, Lmjacks, max480, New Game Plus, Thegur90, Vamp
+Benjamanian, caeyo, Dom, Lmjacks, max480, New Game Plus, Thegur90, Vamp
