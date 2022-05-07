@@ -1,3 +1,6 @@
+console, load, Into The Jungle/ch1, 6300, -2024, 248
+Play,Emergent,37
+
 console, load, Into The Jungle/ch1
    1
 
@@ -582,6 +585,7 @@ console, load, Into The Jungle/ch1
   15,R,D,X
   15,R,D,C
    9,R,D
+#Emergent
    1,R,J
    2,J
   14,L,D,X
