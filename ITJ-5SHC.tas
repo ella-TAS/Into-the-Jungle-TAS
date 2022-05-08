@@ -386,10 +386,139 @@ read,ITJ-5A,lvl_b_11,lvl_b_12 (2)
    7,L,Z
    1,L,J
    1,L
-#0:58.752(3456)
   40
 
-read ITJ-5AC lvl_c_cassette 5SHC
+#lvl_c_cassette
+   5,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+  13,L,D,X,G
+   2,L,J
+  16,L
+  39,L,J
+   2,L,K,G
+   1,L,D,G
+  14,L,D,X
+   1,R,J
+  15,D,C
+  15,D,X
+  15,D,C
+  15,L,X,G
+   1,R,J
+  14,D,G
+  15,D,X
+  15,D,C
+  15,D,X
+   6,L,Z,G
+   2,L,J
+   5,L
+   2,L,J
+  22,L
+   1,L,J
+  14,L
+   1,L,D,J,G
+  20,D,X
+   4,Z,G
+  48,L,J
+  13,G
+   1,K,G
+   1,R
+  28,L,D
+   1,L,D,G
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C,G
+   5,L,D
+   8,R,D
+  21,R
+   1,R,D,G
+   9,L,Z
+   1,R,J
+   7,R
+   5,R,J
+   9,R
+   2,R,K
+   5,R
+   2
+  15,D,X
+   9,L,Z
+   1,R,J
+   7,R
+  11,R,J
+  11,R
+  15,R,D,X
+   3,D
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+   2,L
+  14,R,D,C
+  14,R,J
+   1,R,K,G
+  10,R,Z
+   1,R,J
+   4,J
+  14,R,X
+   1,L,J
+  15,D,C
+  10,L,Z
+   1,R,J
+   7,R
+   3,R,J
+   9,R
+   2,R,K
+  14,R,X
+   1,R,J
+   1,R
+  15,R,Z
+  15,R,D
+  12,R,J
+  15,U,X
+  18,L,J
+ 257
+   1,J
+ 123
+  11,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_c_03
+   6,R
+  11,R,J
+   1,R
+   1,R,K
+  37,R
+  32,R,X
+  13,R,D
+   2,R
+   4,Z
+   1,R,J
+   6,R
+   7,R,J
+  40
+
+#lvl_c_02
+   6,R,J
+  15,U,X
+  10,R,J,G
+   2,R
+   3,R,K,G
+   7,R
+  14,U,X
+   7,R,J
+#1:24.116(4948)
+  40
 
 read ITJ-5A lvl_c_04 lvl_c_07
 

@@ -1,3 +1,9 @@
+#console, load, Into The Jungle/ch2, 3756, -1431, 396, -105
+#Play Veil 37
+
+#console, load, Into The Jungle/ch2, 7508, -4117
+#Play Nest 37
+
 console, load, Into The Jungle/ch2
    1
 
@@ -346,6 +352,7 @@ Endrepeat
   40
 
 #lvl_b_01
+#Veil
    3,R
    7,R,D,X
    1,R,J,G
@@ -572,9 +579,32 @@ Endrepeat
   11,L
   40
 
-read ITJ-2AC lvl_b_06 collection
+#lvl_b_06
+   2,L
+   4,L,J
+   8,L,Z
+  17,L,J
+   6,L,D,X
+   1,L,J,G
+   1,J
+   1
+   4,L
+   3,L,J
+   4,L,K,G
+   1,L
+  40
 
 #lvl_b_cassette
+   1,L,J
+   5,L
+  22,L,J
+  20,L,D
+  12,L,U,Z
+   1,R,J,G
+   4,L,J
+  21,L
+ 257
+   1,J
  123
   14,R
    4,Z
@@ -1028,6 +1058,7 @@ read,ITJ-2A,lvl_c_05,lvl_c_08 (2)
    1,L,J
   40
 
+#Nest
 read ITJ-2A lvl_c_12 lvl_d_03
 
 #lvl_d_03
