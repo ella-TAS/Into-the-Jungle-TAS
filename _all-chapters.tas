@@ -1,0 +1,27 @@
+read LoadStart
+
+#A-sides
+read ITJ-0 Start
+read LoadANo Prologue
+read ITJ-1HC Start
+read LoadA
+read ITJ-2HC Start collection
+read CassetteRTM
+read ITJ-2HC Continue
+read LoadA
+read ITJ-3HC Start
+read LoadA
+read, ITJ-4A, Start, lvl_c_02 (2)
+read, ITJ-4SHC, lvl_c_02 (2), lvl_c_02 (4)
+read, ITJ-4A, lvl_c_02 (3)
+read LoadA
+read ITJ-5A Start exit
+read CassetteRTM depths
+read ITJ-5A reenter lvl_c_04
+read ITJ-5HC lvl_c_04
+read Load1B
+
+#B-sides
+read _100 B-sides
+
+FileTime: 34:10.914(120642)

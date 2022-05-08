@@ -1,0 +1,81 @@
+console, load, Into The Jungle/ch5,4596, 2707.75, 0, -105
+Play Cassette 37
+
+console, load, Into The Jungle/ch5
+   1
+
+#Start
+read ITJ-5A Start lvl_c_04
+
+#lvl_c_04
+  11
+#Cassette
+   2,R,J,G
+   1,R
+   1,R,K,G
+   1,R
+   5,R,X
+   8,R,J
+   4,R
+   1,R,K,G
+   6,R
+   4,L
+   4,L,X
+   1,L,D,J,G
+  18,L
+   4,L,D
+  12,D
+  40
+
+#lvl_c_02
+   6,D
+  26,L,D
+  40
+
+#lvl_c_03
+   5,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,D,G
+  14,R,D,X
+   1,L,J
+   5,L
+   1,L,G
+   1,L
+   1,L,J
+  14,L
+   1,L,J
+   1,D,G
+  14,R,D,X
+   1,L,J
+   5,L
+   1,L,G
+   1,L
+  10,L,J
+  10,L
+   1,L,D,G
+  15,U,X
+   6,D
+   9,L,D
+  10,L,Z
+   5,L,J
+   3,K,G
+   2,R,K
+   1,R
+  15,L,U,X
+   9,L
+  11,L,J
+   7,L,Z
+   1,L,J
+   1,L
+#0:06.341(373)
+  40
+
+read ITJ-5SHC lvl_c_cassette lvl_c_08
+
+#lvl_c_08
+   8,R
+
+read ITJ-5A 5SHC1

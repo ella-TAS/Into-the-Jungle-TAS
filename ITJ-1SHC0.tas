@@ -141,7 +141,7 @@ console, load, Into The Jungle/ch1
    1,R,J
   40
 
-#lvl_a_07
+#lvl_a_07 (1)
    2,R,J
    1,R
   14,R,U,X
@@ -199,7 +199,7 @@ Endrepeat
    9,D,X
   40
 
-#lvl_a_07
+#lvl_a_07 (2)
    1,D
   15,L,D
   34,R,D
@@ -339,7 +339,7 @@ Endrepeat
    3,J
   40
 
-#lvl_b_01
+#lvl_b_01 (1)
   10
    1,K
    9,U,X
@@ -456,7 +456,7 @@ Endrepeat
    2,D
   40
 
-#lvl_b_01
+#lvl_b_01 (2)
    9,R,D
   14,R,X
    1,R,J,G

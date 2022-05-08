@@ -40,7 +40,6 @@ read LoadB
 read ITJ-4B Start
 read LoadB
 read ITJ-5B Start
-#AC
 read Load1C
 
 #C-sides
@@ -64,4 +63,4 @@ read ITJ-5C Start
    1,S
 read LoadJournal
 
-FileTime: 39:39.473(139969)
+FileTime: 39:39.337(139961)

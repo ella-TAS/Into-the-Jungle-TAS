@@ -1,0 +1,209 @@
+console, load, Into The Jungle/ch3
+   1
+
+#Start
+read ITJ-3A Start lvl_a_12
+
+#lvl_a_12
+  12,R
+  14,U,X
+   4,R,J
+  10,L,J
+   8,L
+   2,L,K
+   2,L
+   4,L,Z
+   1,L,J
+   2,L,K,G
+  10,L
+  40
+
+#lvl_a_13
+   1,L
+   9,L,J
+   1,L
+  15,L,D,X
+  12,L,J
+   4,L
+  15,L,U,X
+   1,J,G
+   5
+   2,L
+   3,R,J
+   3,J
+  15,R,U,X
+  12,R,G
+   1,R,J
+  19,R
+   1
+   3,R,K
+   9,R
+   6,J,G
+   5,R,J
+   7,R
+  10,R,D,X
+  11,L,J
+   5,L,G
+  25,L,J,G
+  15,U,X
+  40
+
+#lvl_a_13Heart
+  11,L,J
+   5,L,Z
+   1,L,J
+  10,D
+   1,J
+   1,K
+   9
+   4,R
+   1,X
+  34
+   1,C
+  19
+   1,L,J
+   2,L
+   6
+   3,L
+   2
+   2,L
+   4,Z
+   1,R,J
+   2,R
+   2,R,J
+   1,R
+   3,R,D,J
+   5,R
+   4,R,J
+   5,R
+  15,R,U,X
+  12,R
+   1,L,J
+  10,L,D,X
+  20,L,J
+  15,U,X
+   5,L
+   1,J,G
+   1,R,J
+   1,K
+   3,L,J,G
+  15,L
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1,J,G
+   4
+   1,L
+   1,L
+   1
+   1
+   1,J
+   1
+   1,R,J
+   9,R,K
+   9,J
+   2
+  23,U,X
+   1,L
+   4,J,G
+   3
+   3,L
+   1,R
+  11,R,J
+   6,R
+  12,U,X
+  25,L,J
+   4,X
+  34,D,X
+  22,R
+  10
+  69,D
+  59
+   1,J
+  30
+   1,R,D
+  72,O
+  14,L,D,X
+   1,L,J
+   8,D,X
+  40
+
+read, ITJ-3SHC, lvl_a_13 (2), lvl_b_04
+
+read ITJ-3A SHC4 lvl_b_09
+
+#lvl_b_09
+   2,R
+  15,R,D,X
+   1,R,D
+   3,R
+  20,R,J
+  19,R,U,X
+  15,U,C
+  11,R,G
+   1,J,G
+  10,R,J
+   1,L,J
+   8,G
+   6,J,G
+   6,R,J
+   8,R,G
+   6,R,J,G
+   1,R
+   5,K,G
+   6,R
+   1,L
+   8,L,J
+   9,R,U,X
+   1,L
+   1,J
+   3
+   3,K,G
+   4
+   7,R,D
+  40
+
+read, ITJ-3SHC, lvl_b_08, lvl_b_09 (2)
+
+#lvl_b_09 (2)
+   8,L,D
+   2,R,D
+  17,L,D
+   2,L
+   5
+  15,L,X
+   4,R
+  16,L,K
+  15,L,U,X
+   6,L
+  15,L,U,Z
+   2,L
+   1,R
+   1,J,G
+   2,L,J
+   1,R,J
+   1,R,J
+   1,R,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+   1,R,J,G
+   1,K
+   7,J,G
+  40
+
+read ITJ-3A lvl_b_11
+
+ChapterTime: 3:44.570(13210)
