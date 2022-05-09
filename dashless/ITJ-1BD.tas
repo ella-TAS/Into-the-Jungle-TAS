@@ -407,17 +407,19 @@ console, hard, Into The Jungle/ch1
   10,R
    1,R,J
   14,R
-   8,R,J
-  14,R,D,X
-  14,R,J
-  20,R,U,X
-   1
-  11,R
    1,R,J
-   1,L,J
-  10,R,J
-   5,R
-   5,R,J
+  21,R
+   5,R,D
+   8,R,J
+  10,R
+  15,R,U,Z
+  51,R
+   5,R,D
+   4,R,J
+  10,R
+   2,L
+   1,J
+   4,R,J
    1,R,K
   21,R,D
   12,R,X
@@ -852,4 +854,4 @@ console, hard, Into The Jungle/ch1
    4,R,J
   20,U,X
  134
-ChapterTime: 2:25.265(8545)
+ChapterTime: 2:26.115(8595)
