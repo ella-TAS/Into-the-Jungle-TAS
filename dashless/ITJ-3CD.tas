@@ -211,15 +211,77 @@ console, rmx2, Into The Jungle/ch3
    4,K,G
    8,G
   31,R,J,G
-   1,K,G
-  10,R
-   1,L
+   1
    1,G
-  14,R,J
-  15,Z
-  14,R
-  20,R,D
-   8,R
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1,J,G
+   1,L,J
+  24,R,J,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+
+   1,J,G
+  10,R,J
+   1,L,J
+   8,G
+  10
+   1,G
+  48,R,J
+  14,R,D
+   2,R
+   1
+   9,L,G
+   4,R,J
+  16,R
   20,R,J
   15,U,X
    1
@@ -245,7 +307,9 @@ console, rmx2, Into The Jungle/ch3
    2,K
    8,R,J,G
    4,R
-  13
+   3
+   1,J
+   9
    1,J
   17,L,J
    4,L
@@ -698,4 +762,4 @@ console, rmx2, Into The Jungle/ch3
  100
   15,U,X
  133
-#1:33.602(5506)
+ChapterTime:

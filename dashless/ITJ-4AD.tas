@@ -523,20 +523,28 @@ console, load, Into The Jungle/ch4
    2,L,D
    1,R,J,G
    1,R,K,G
-  14,R
-  10,L,X
-   6,R,J
-   3,R
-  22,L
-   7,U,X
+  11,R
+   7,L,X
    1,R,J
+   7,J
+  16
    3,R
+   3
+   1,R
+   1
+   1,R
+   1
+   1,R
+   1,J
+   8,R,J
+   2,R
+   1,R,K,G
    1,R,J,G
-  14,R
+  16,R
+   2,R,J
+  16,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
+  20,R
    1,R,J
   17,R
   40
@@ -1152,7 +1160,7 @@ console, load, Into The Jungle/ch4
   43
 
 #lvl_d_05
-   1,S,N
+   1,S
    1,D,J
   72,O
    5,R
@@ -1542,7 +1550,7 @@ console, load, Into The Jungle/ch4
 
 #lvl_d_13_outro
    1,R
-   1,S,N
+   1,S
    1,D,J
   18
 ChapterTime: 3:57.473(13969)
