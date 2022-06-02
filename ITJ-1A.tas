@@ -1,15 +1,15 @@
-console, load, Into The Jungle/ch1, 6300, -2024, 248
-Play,Emergent,37
+#console, load, Into The Jungle/ch1, 6300, -2024, 248
+#Play,Emergent,37
 
 console, load, Into The Jungle/ch1
    1
 
 #Start
-#lvl_a_01
   66
+
+#lvl_a_01
   13,R,X
-   1,R,J
-   1,R
+   2,R,J
   15,R,U,X
   29,R,D
    8,R,Z
@@ -19,9 +19,8 @@ console, load, Into The Jungle/ch1
    8,R
    1,R,J
    4,R
-  15,R,X
-  14,R,D
-   4,R,Z
+  29,R,X
+   4,Z
    2,R,J
    1,R,K,G
    9,R
@@ -34,14 +33,14 @@ console, load, Into The Jungle/ch1
    8,R
    1
    1,G
-   1,J,G
+   1,J
   10,R,J
    1,L,J
    8,G
   28,R,J
    1,G
-   1,K,G
-   4,R,K
+   1,J
+   4,R,J
    4,R
    2
    1,L
@@ -71,43 +70,41 @@ console, load, Into The Jungle/ch1
    7,R
    4,R,J
    2,R,K,G
-   5,R
-   1
+   6,R
   40
 
 #lvl_a_06
    3,R
   11,R,J
-  13,R,Z
+  12,R,D,X
    1,L,J
+   1,J
+   1
+   1,J
+   2
+   9,L,D,X
    1,R,J
-   6,R
-   4,L
-   6,L,Z
-   1,R,J
-   3,R
+   1,R
    1,R,J
    2,R
-   1,R
-  10,R,J
-   6,R
+  11,R,J
+   7,R
   14,R,U,X
    1,R,J,G
-   7,R
+   8,R
   40
 
 #lvl_a_08
-   4,R
+   1,R
    6,R,J
-   7,R
-   7,R,J
-   6,R
-   3,R,J
-   2,R
+  10,R
+   8,R,J
+   5,R
+   2,R,J
+   3,R
   15,U,X
-   8,R
-   2
-   4,Z
+  10,R
+   5,R,D,X
    2,R,J
    3,R,K,G
   10,R,J,G
@@ -124,12 +121,10 @@ console, load, Into The Jungle/ch1
   40
 
 #lvl_a_12
-  10,R,U,X
-   2,R
-  15,R,C
-   3,R
-   1,R,G
-  12,R,J,G
+  12,R,U,X
+  18,R,C
+   1,G
+  12,R,J
    4,L,K,G
    4,R,K
    4,L,K
@@ -139,8 +134,7 @@ console, load, Into The Jungle/ch1
   40
 
 #lvl_b_01
-   7
-   2
+   9
    1,J
    1,L,K,G
    9,U,X
@@ -160,7 +154,7 @@ console, load, Into The Jungle/ch1
   26,R,J
    1,R
    1,R,J
-   4,R,Z
+   4,Z
    1,R,J
    5,R
   40
@@ -865,14 +859,10 @@ console, load, Into The Jungle/ch1
    1,R,J
   16,R
    6
-  15,R,D,X
-   5,R,D
-  10,L,D,X
-   1,R,U,J
-   3,U
-   1,R
-   5,R,U
-   1,R,K
+  19,R,D,X
+  11,L,D,C
+   1,R,J
+   8,F,16
    1,R,J
    1,R,K
    1,R,J
@@ -881,22 +871,20 @@ console, load, Into The Jungle/ch1
    1,R,K
    1,R,J
    1,R,K
-   5,R,J,G
-   2,R
+   1,R,J
+   6,R,K,G
   40
 
 #lvl_d_13
-  15,R,D,X
-  21,R,D
-   1,R,J
-   9,R,U,X
-   1,R,J,G
+  23,R,D,X
+  12,R
+   3,R,J
    8,R
    1,R,J
+   5,R
   14,R,D,X
-   1,R,J
    1,S,N
    1,D,J
   18
 
-ChapterTime: 1:44.261(6133)
+ChapterTime: 1:44.142(6126)
