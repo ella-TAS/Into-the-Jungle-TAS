@@ -1,33 +1,7 @@
 console, load, Into The Jungle/ch4
 
 #Start
-#lvl_a_01
-  76
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  14,R,X
-   1,R
-   3
-  31,R
-   6,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   3,R
-  40
+read, ITJ-4AD, Start, lvl_a_02
 
 #lvl_a_02 (1)
   11,R
@@ -176,7 +150,7 @@ console, load, Into The Jungle/ch4
   15,L,U,Z
   16,L
    9
-   1,S,N
+   1,S
    1,D,J
   72,O
    5,R
@@ -235,79 +209,15 @@ console, load, Into The Jungle/ch4
    1,R,J
    1,J
    1,R,J
-  12,R,K
-  12,J,G
-   9,R,K,G
-  43
-
-#lvl_a_07
-  12,R,J,G
-   5,R,K,G
-   7,L,K,G
-  12,R,J,G
-   7,R
-   1,R,J
-  14,R
-  15,U,X
-  22,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  24,R
-  25,R,J
-  12,R,K,G
-  12,R,J,G
-   4,R,K,G
-   8,L,J
-   9,R,K
+  11,R,K
+  12,L,J
+  10,K,G
   40
 
-#lvl_a_08
-   3
-   3,K,G
-   1,R,J,G
-   3,J,G
-   1,L,J
-   2,J
-   2,R,J
-   8,R
-   1,L
-   7,R
-  20,R,J
-   4,R
-   1,R,J,G
-  27,R,K,G
-   8,R
-   3,R,D
-  23,R,J
-  17,R
-   1,R,J
-  18,L
-  13,R,D
-  40
-
-#lvl_a_10
-  11,R,D
-   5,R,Z
-   1,R,J
-   7,R
-   1,R,J
-  18,R
-   2,R,D
-   1,R,J
-   4,R
-   1,R,J
-   4,R
-   8,R,J
-   6,R,K,G
-  10,R
-   1,R,J
-  19,R
-  43
+read, ITJ-4AD, lvl_a_07, lvl_a_12
 
 #lvl_a_12
+   3
   15,R
    8,R,J
    8,R,K,G
@@ -387,7 +297,7 @@ console, load, Into The Jungle/ch4
    9,R
    7,L
    4
-   1,S,N
+   1,S
    1,D,J
   69,O
   10,R
@@ -550,60 +460,9 @@ console, load, Into The Jungle/ch4
   11,D
    2,L,D
    2,D
-  40
+  37
 
-#lvl_b_04
-  18,R,D
-  15,R,X
-  27,G
-  13,U,G
-   5,D,X
-   6,J,G
-   1
-   1,R
-   1
-   1,R
-   1
-   1,R
-  15,D
-   7,R
-  13,L
-  15,L,Z
-   1,R
-   3,J,G
-   3,L,J
-   1,R,K
-  10,R,D
-   8,G
-   1,J,G
-   1,K,G
-   3,J,G
-   1,R,K,G
-   2,L,K
-   5,L
-  40
-
-#lvl_b_05
-   1,L,J
-   2,L
-   7
-  11,R,J
-   1,L
-  15,L,D
-  40
-
-#lvl_b_06
-   9,L,D
-  22,L,J
-  12,L,K,G
-   6,L,J,G
-   7,L,K,G
-  19,L
-   1,L,J
-  20,L
-   1,L,J
-   5,L
-  43
+read, ITJ-4AD, lvl_b_04, lvl_b_07
 
 # (1)
    9,L
@@ -749,68 +608,26 @@ console, load, Into The Jungle/ch4
    8,R
   40
 
-#lvl_b_10
-  27,R
-   5,R,Z
-   1,R,J
-   1
-   1,J
-   1
-   6,R
-  12,G
-  13,D,G
-   4
-   8,R,U,Z
-   4,L,J,G
-   5,L
-   1,L,J
-   3,L
-   1,R
-   1,R,D
-   4,D
-   2,R,J
-   1,J
-   1,R,J
-   1,L,K,G
-  17,R,K
-  11,R,K
-   1,G
-  12,R,J,G
-   7,R,K,G
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  34,R,D
-   1,R,J
-  12,R
-  43
+read, ITJ-4AD, lvl_b_10, lvl_b_11
 
 #lvl_b_11
-   3,R
+   6,R
    1,R,J
   14,R
-   2,R,J
-  10,R
-   2,L,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-  10,D,X
-   4,L,G
-   5
-   1,G
-   9
-   1,G
-   2
    1,R,J
-   4,R,K
+   4,R
    3
-  36,R,K
-
-  12,R,J
+   3,R
+   2,R,J,G
+   5,R
+   1,R,J
+   9,R
+  10,D,X
+   6,L,G
+   7
+   5,R
+  42,R,J
+  12,R,K
   15,U,X
   11,L,G
   12,J,G
@@ -834,11 +651,7 @@ console, load, Into The Jungle/ch4
    8,G
    4,J,G
    8,G
-
-
-
    1,L
-
   61,G
    3
   12,R
@@ -869,67 +682,7 @@ console, load, Into The Jungle/ch4
    8,R
   40
 
-#lvl_b_12
-   6,R
-   1,R,J
-  22,R
-   1,R,J
-  23,R
-   6,R,D
-  10,U,X
-  28,R
-   7
-   1,G
-   8,R,J,G
-  28,R,D
-   2,L,D
-   1,R,J,G
-   1,R,K,G
-  14,R
-  10,L,X
-   6,R,J
-   3,R
-  22,L
-   7,U,X
-   1,R,J
-   3,R
-   1,R,J,G
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  17,R
-  40
-
-#lvl_c_01
-   5,R,X
-   1,R,J
-  18,R
-   5,R,X
-   1,R,J
-  14,R
-   5,R,J
-   5,U,X
-  23,R
-   5,R,X
-   1,R,J
-  14,R
-   1,R,J
-  26,R
-  44
-  13,R
-   3,R,D
-   1,R,J
-   7,R
-   1,R,J
-   2,R
-   1,R,J
-   5,R
-   1,R,J
-  13,R
-  40
+read, ITJ-4AD, lvl_b_12, lvl_c_02 (1)
 
 #lvl_c_02 (1)
    7,R
@@ -1046,21 +799,7 @@ console, load, Into The Jungle/ch4
   10,R,D
   40
 
-#lvl_c_06
-  10,D
-  13,D,X
-   5,L
-  10,U,C
-   3
-  11,U,C
-   6,R,J,G
-   5,R
-   3
-   5,R,X
-   7,L,J
-  34,G
-  10,L,J,G
-  40
+read, ITJ-4AD, lvl_c_06, lvl_c_02 (2)
 
 
 
@@ -1085,64 +824,9 @@ console, load, Into The Jungle/ch4
    3,L
   40
 
-#lvl_c_Cassette (1)
-   1,L
-   1,L,J
-   4,L
-   1,L,J
-  14,L
-   1,L,J
-  21,L
-   1,L,J
-  14,L
-   1
-   1,L
-   2
-   2,L
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-  11,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-   3,L
-  11,D,X
-   1,J
-  25,L
-  92
-   6,L
-   4
-   1,L
-   4
-   1,R
-   1,J,G
-   7,R
-   7,L
-  49,L,J
-  10,L,K,G
-   6,L,J,G
-  16,L
-  18,L,J
-  22,L
-   2
-   2,L
-   4,L,J,G
-   2,L
-  20,L,J,G
-  16,L
-  20,L,J
-  15,L
-   5,L,J
-  18,L
-   9,L,D
-  40
+read, ITJ-4ACD, lvl_c_Cassette (1), lvl_c_casetteHeartRoom 
 
 #lvl_c_casetteHeartRoom
-
-
    8,R,D
    3,D
   11,R,D
@@ -1195,31 +879,9 @@ console, load, Into The Jungle/ch4
   11,J,G
   40
 
-#lvl_c_Cassette (2)
-  11
-  12,J,G
-   9,K,G
-   1,J,G
-   8,R,J
- 257
-   1,J
- 123
-  14,R
-   1
-   1,R
-   2
-   2,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  13,R
-   1,R,D
-   1,R,J
-   4,R
-   1,R,J
-  40
+read, ITJ-4ACD, lvl_c_Cassette (2), lvl_c_02 (2)
 
-#lvl_c_02(3)
+#lvl_c_02 (2)
   15,D,X
    1,R,J
    4,R
@@ -1280,26 +942,7 @@ console, load, Into The Jungle/ch4
    4,L
   40
 
-#lvl_c_04
-   9,L
-   5,R,X
-   1,L,J
-  14,L
-   5,L,X
-  23,L
-  15,D,X
-  12,J
-   5,R,K
-   3
-   8,R,X
-  27,R,D
-   9,U,X
-  23,R
-   1,R,J
-  14,R
-   1,R,J
-   9,R
-  40
+read, ITJ-4AD, lvl_c_04, lvl_c_02 (3)
 
 #lvl_c_02 (4)
    6,R
@@ -1411,58 +1054,7 @@ console, load, Into The Jungle/ch4
   11,K,G
   40
 
-#lvl_c_03
-   5,R,J,G
-   6,R
-  15,R,X
-  10,L,C
-  22,L,J,G
-  12,U,G
-   9,G
-   1,J,G
-  22,D
-  40
-
-#lvl_c_02 (6)
-  18,D
-  21,R,D
-  79,D
-  40
-
-#lvl_c_05
-  11,D
-  15,R,X
-  15,L,C
-   3
-   3
-   1,R,J
-  21,R
-   5,L,X
-  21,R,J
-  43,G
-  12,R,J,G
-   2,R,K,G
-  40
-
-#lvl_c_02 (7)
-  12,R,J,G
-  12,R,K,G
-  12,R,J,G
-   3,K,G
-   9,L,K,G
-   6,L,J,G
-   9,L
-  11,J
-  10,R,J
-  21,U,X
-   5,L,G
-   5,R,J,G
-  13,R
-   1,R,J,G
-  14,R
-   1,R,J
-   4,R
-  40
+read, ITJ-4AD, lvl_c_03, lvl_c_08
 
 #lvl_c_08 (1)
   10,R
@@ -1537,45 +1129,7 @@ console, load, Into The Jungle/ch4
    7,R
   40
 
-#lvl_c_10
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  17,R,J
-  15,U,X
-  17,R
-   6,R,J
-   1,L,K
-  10,L,J
-   1,K
-  19,L,J
-  14,L,U,X
-   3
-   7,R
-  15,R,U,X
-   6,R
-   3
-  10,R,U,X
-  27,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   1,R
-  40
+read, ITJ-4AD, lvl_c_10, lvl_c_11
 
 #lvl_c_11
   13,R
@@ -1593,7 +1147,6 @@ console, load, Into The Jungle/ch4
   32,R,J
    3
   10,U,X
-
   24
   15,D,X
    1
@@ -1620,617 +1173,11 @@ console, load, Into The Jungle/ch4
    2,R
   40
 
-#lvl_c_12
-  12,R
-   1,R,J
-  14,R
-   9,R,U,X
-   3
-   2,L
-  12,R
-  14
-   9,R,X
-   1,L,J
-  15,R
-   1,R,J
-  14,R
-   1,R,J
-  10,R,D
-  25,D
-   3
-   9,R,X
-   5,R,J,G
-   3,R,K,G
-   2,R,J,G
-   1,R,K,G
-  14,R
-   1,R,J
-  10,R,D
-  10,L,D
-   8,R,D
-  12,R,J,G
-   1,K
-  25,L
-  16,R,G
-  20,U,G
-  12,R,J,G
-  12,R,K,G
-  12,R,J,G
-  11,R,K,G
-  40
-
-#lvl_c_13
-  11,R,J,G
-   1,R,K,G
-   1,R,J,G
-  13,R
-   5,R,X
-   1,R,J
-  14,R
-   1,R,J
-  22,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   3,R,J
-  15,R,D
-  40
-
-#lvl_d_01
-   5,R
-   1,R,J
-  14,R
-   3,R,J
-   6,R,K,G
-   3,R
-   4,R,J,G
-   7,R
-   2,J
-   5,R,J
-   1,R,K,G
-   4,R,J,G
-   4,R,K,G
-   4,R,J,G
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  26,R,D
-   2,R,J,G
-   5,R
-   2,L
-   4,R,J,G
-  12,R
-   2,R,J
-   1,R,K,G
-   4,R,J,G
-   4,R,K,G
-   7,R
-   1,R,J
-   9,R
-  40
-
-#lvl_d_02
-   5,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   5,R,J
-  37,R,D
-   1,R,J,G
-   1,R,K,G
-  12,R
-   1,R,J
-  14,R
-   8,R,J
-  19,R
-   2,L
-   1,R,J,G
-   1,R,K,G
-  12,R
-   1,R,J
-  21,R
-   6,R,J
-  18,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  21,R
-  45,R,J
-   3,R,K
-   4,R,J,G
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  12,R
-  43
-
-#lvl_d_03
-   2,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  30,R
-  35,R,J
-   7,R,K
-   1,R,J,G
-   1,R,K,G
-  13,R
-   5,R,D,X
-   1,R,J
-  14,R
-  19,R,J
-   4,L,J
-   6,R,K,G
-   7,R
-   1,R,J
-  23,R
-   7,R,D
-  10,R,J
-  32,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   9,R
-  43
-
-#lvl_d_04
-   5,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  25,R
-  30,R,J
-  10,R,K,G
-   8,R
-   1,R,J
-  37,R
-   1,R,J,G
-  32,R,K,G
-   5,L,Z
-   1,R,J
-   7,R
-  11,R,J
-  18,R
-   4,L
-   1,R,J,G
-  24,R
-  36,R,J
-  12,R,K,G
-  10,R,J,G
-   7,R
-   1,R,J
-  10,R
-   1,R,J
-  16,R
-  16,R,J
-  13,R
-  11,R,D
-   1,R,J,G
-   1,R,K,G
-  12,R
-   1,R,J
-  11,R
-  43
-
-#lvl_d_05
-   1,S,N
-   1,D,J
-  72,O
-   5,R
-   1,R,J
-  14,R
-   1,R,J
-   6,R
-   6,U,X
-  17,R,J
-  28,R
-  11,R,D
-   2,L,D
-   1,R,J,G
-   7,R,K,G
-  21,R
-   5,L
-   1,R
-   1,L
-  10,R,D,X
-   6,R,J
-   1,R
-  20,R,J
-  39,R,K,G
-   8,R,J,G
-  20,R
-   1,R,J
-  14,R
-   3,R,J
-  16,R
-   1,R,J
-  15,R
-   9,R,D,X
-   6,R,J
-   1,R
-   3
-  15,R,J
-   6,R,K,G
-  19,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-   1,R
-  43
-
-#lvl_d_06
-  12,R
-   2,L
-   9,R,Z
-   1,R,J
-   7,R
-   5,R,D
-   2,R,J
-   5,R
-  10,R,J
-   1,R
-   7,R,J,G
-   7,R
-   7,L,Z
-   1,R,J
-  12,R
-  18,R,J
-  12,R
-  23,R,D
-   1,R,J
-  17,R
-   5,R,J
-  20,R
-   2,L
-   2,R
-   1,R,J,G
-  30,R,K,G
-  12,R,J,G
-   6,R,K,G
-   7,R
-   1,R,J
-  22,R
-   8,R,J
-  18,R
-  14,R,D
-   7,R
-   1,R,J
-  14,R
-   5,R,J
-  19,R
-   2,R,D
-   2,L,D
-  23,R,J
-  15,R
-   1,R,J,G
-   1,R,K,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-   7,R
-  43
-
-#lvl_d_07
-   7,R
-   1,R,J
-  14,R
-   1,R,J
-  13,R
-   2,L
-  11,R,Z
-   9,R,J
-   4,R
-   1,R,J
-   9,R
-   1,R,J,G
-  11,R
-  16,R,K
-  14,R
-  15,R,D
-   1,R,J
-   8,R
-  14,R,J
-  25,R,K
-  31,R
-  11,R,J,G
-  21,R
-   9,R,J
-   5,R
-   2,R,J
-  15,R
-   1,L
-   1,R
-   1,R,J,G
-  34,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-  18,R
-   1,R,J,G
-  24,R
-   5,R,D
-  16,R,J
-   1,R,K
-
-
-  18,R
-   3,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   3,R
-  43
-
-#lvl_d_08
-   6,R,D,X
-   1,R,J
-   1,R
-  16,R,J
-  36,R,K
-  15,R,U,X
-  29,R
-   2,L
-   1,R,J,G
-   1,R,K,G
-  12,R
-  11,R,D,X
-  21,R,J
-   4,L,J
-  12,R,K,G
-   3,R,J,G
-   7,R
-   1,R,J
-  22,R
-   7,R,J
-  35,R
-   3,J,G
-   6,R,J,G
-   6,J,G
-   4,L,K,G
-   1,R,J
-  38,R,K
-  11,R,J,G
-   7,R
-   8,L,D,X
-   1,R,J
-  12,R
-   7,R,J
-  19,R
-   1,R,J
-  22,R
-  43
-
-#lvl_d_09
-   5,R
-   1,R,J
-   3,R
-   7,R,D,X
-   1,R,J
-  12,R
-  22,R,J
-   3,L,J
-   5,R,K,G
-   8,R
-   1,R,J
-  14,R
-  26,R,J,G
-   1,K,G
-  10,R
-   1,L
-   1,G
-   7
-   1,G
-   5,R,J
-   1,R
-  39,R,J
-  12,R,K,G
-   5,R,J,G
-   9,R
-   1,R,J
-  31,R
-   7,R,U,Z
-   3
-   8,R,U,Z
-   1,R,K
-   6,R,J
-   9,R
-   2,L
-   1,R,J,G
-   1,R,K,G
-  10,R
-  12,R,D,X
-   4,R,J
-  23,R
-   1,R,J,G
-   1,R,K,G
-  14,R
-   1,R,J
-   6,R
-  43
-
-#lvl_d_10
-   8,R
-   1,R,J
-  14,R
-   9,R,J
-  26,R
-   1,R,J
-   5,R
-   7,R,D,X
-   1,R,J
-   9,R
-   8,R,J
-   1,R,K,G
-   1,R,J,G
-  13,R
-   1,R,J
-  14,R
-  12,R,J
-  15,R
-  20,D
-  12,L,D
-  38,R,J
-  12,R,K,G
-  12,R,J,G
-   8,R,K,G
-   7,R
-   1,R,J
-  16,R
-  29,D
-  38,R,J
-  12,R,K,G
-  12,R,J,G
-   8,R,K,G
-   7,R
-   1,R,J
-  14,R
-   2,R,J
-  37,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  43
-
-#lvl_d_11
-   1,R,J
-  14,R
-   1,R,J
-  32,R
-  53,R,J
-   1,R,K
-  17,R
-   1,R,J
-  14,R
-   1,R,J
-  24,R
-  21,R,J
-  12,R,K,G
-  12,R,J,G
-   6,K,G
-   2,L,K,G
-   2,L
-  32,R,J
-  15,R,U,X
-  21,R
-   3
-  10,R
-  15,R,U,Z
-  11,R,D
-   5,R,J
-  19,R,K,G
-   5
-   5
-  27,R,J,G
-   3
-   7,R,J,G
-  15,R,X
-  25,R
-  12,R,D
-   1,R,J
-  14,R
-   2,L
-   1,R,J,G
-   1,R,K,G
-  16,R
-   1,R,J,G
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   7,R
-  40
-
-#lvl_d_12
-   7,R
-   1,R,J
-   1,R
-   6,R,D,X
-   1,R,J
-  14,R
-  12,R,J
-  32,R
-  11,R,D
-  43,R,J,G
-   1,K,G
-  10,R,J
-   1,L,J
-   3,J,G
-   5,G
-  15,J,G
-   5,G
-   1,J,G
-   8,G
-  30,R,J
-  20,R
-  20,R,D
-  14,R,J
-  10,L,J,G
-  32,R,K,G
-   2,L,K,G
-   4,R,J,G
-  26,R
-   1,R,J
-  13,R
-   1,R,J
-  34,R
-   2,R,J
-  22,R
-   1,R,J,G
-   1,R,K,G
-  12,R
-   9,R,J
-  26,R
-   1,R,J,G
-  14,R
-   1,R,J
-  14,R
-   4,R,J
-  34,R,D
-   1,R,J,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  13,R
-  43
+read, ITJ-4AD, lvl_c_12, lvl_d_13_outro
 
 #lvl_d_13_outro
    1,R
-   1,S,N
+   1,S
    1,D,J
   18
-ChapterTime: 3:58.799(14047)
+ChapterTime: 5:50.285(20605)
