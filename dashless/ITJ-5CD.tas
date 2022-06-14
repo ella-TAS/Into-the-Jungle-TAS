@@ -869,16 +869,20 @@ Set,CheatMode,true
    1,G
    3,R,J
    7,R
- 115
+ 112
    1,J
-  20,R
-  15,R,D,X
-  11,R,C
-   4
-  11,R,U,X
+  15,L
+   8,R,D
+   1,L,D
+   2,R,D
+   2,R,J
+   5,R
+  14,R,J
+  15,R,Z
+   8,R
+  12,R,U,X
    7,R,J,G
-   8,R,J
-  39
+  28
   14,U,X
   95
    1,J
@@ -1173,4 +1177,4 @@ Set,CheatMode,true
   12,L,J
   15,U,X
  134
-ChapterTime: 3:36.274(12722)
+ChapterTime: 3:36.308(12724)
