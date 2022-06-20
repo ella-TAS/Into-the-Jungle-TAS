@@ -45,7 +45,7 @@ read ITJ-1AD Start lvl_a_04
   13,R
   40
 
-#lvl_a_07
+#lvl_a_07 (1)
    1,R
    1,R,J
   14,R
@@ -109,7 +109,7 @@ read ITJ-1AD Start lvl_a_04
    1,D
   40
 
-#lvl_a_07
+#lvl_a_07 (2)
   19,L,D
   31,R,D
   40
