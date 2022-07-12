@@ -485,8 +485,11 @@ read,ITJ-5A,lvl_b_11,lvl_b_12 (2)
  257
    1,J
  123
-  11,R
-   6,R,Z
+  10,R
+   1,R,N
+   1,R,J
+   2
+   6,R,D,X
    1,R,J
    7,R
    1,R,J
@@ -494,14 +497,14 @@ read,ITJ-5A,lvl_b_11,lvl_b_12 (2)
   40
 
 #lvl_c_03
-   6,R
-  11,R,J
-   1,R
-   1,R,K
-  37,R
-  32,R,X
-  13,R,D
+  10,R,J
+   3,R
+  26,R,D,X
    2,R
+  18,R,D
+   4,R
+   1,R,D
+   1,R
    4,Z
    1,R,J
    6,R
@@ -517,7 +520,7 @@ read,ITJ-5A,lvl_b_11,lvl_b_12 (2)
    7,R
   14,U,X
    7,R,J
-#1:24.116(4948)
+#1:23.521(4913)
   40
 
 read ITJ-5A lvl_c_04 lvl_c_07
