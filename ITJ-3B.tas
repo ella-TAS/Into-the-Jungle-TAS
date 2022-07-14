@@ -811,15 +811,15 @@ console, hard, Into The Jungle/ch3
    2,R,U,X
   10,U,C
    3,R,J
-  16,R
-   1,N
+  15,R
+   1,R,N
    1,R,J
    2,R
   10,R,D,X
    1,R,J
-   5,R
+   6,R
   15,D,X
-  12,R,D
+  11,R,D
   14,R,Z
   10,R,J
   14,R,D,X
@@ -852,6 +852,8 @@ console, hard, Into The Jungle/ch3
    1,R,J
    6,R,D,X
   40
+
+#lvl_c_06
    2,R,J
    5,R
    1,R,J
@@ -959,4 +961,4 @@ console, hard, Into The Jungle/ch3
    4,R
  135
 
-ChapterTime: 2:36.621(9213)
+ChapterTime: 2:36.604(9212)
