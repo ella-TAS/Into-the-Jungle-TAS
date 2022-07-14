@@ -347,16 +347,13 @@ console, load, Into The Jungle/ch4
    1,R,D
    4,D
    2,L,D
-  18,L,X
-  15,L,D,C
-  27,R,D
-   1,D
-  11,R,X
-   4,L,J
-   9,L
-   5
-   7,R,Z
-   1,L,J
+  15,L,X
+  24,L,D,C
+  22,R,D
+  15,R,X
+   5,R,Z
+   2,L,J
+   1,L
    7
    5,L,Z
    1,R,J
@@ -1330,4 +1327,4 @@ Endrepeat
    1,D,J
   18
 
-ChapterTime: 2:30.348(8844)
+ChapterTime: 2:30.161(8833)
