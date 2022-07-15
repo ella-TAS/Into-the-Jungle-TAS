@@ -552,13 +552,10 @@ console, hard, Into The Jungle/ch3
   12,R,K
   48
   15,U,X
-  14,R,J
-  12,R
-  12,R,J
+  44,R,J
   18,U,X
-  12,R
-  15,R,C
-  16,R
+   5,R
+  31,R,X
    4,Z
    8,R,J
   40
@@ -994,4 +991,4 @@ console, hard, Into The Jungle/ch3
    4,R
  135
 
-ChapterTime: 2:36.349(9197)
+ChapterTime: 2:36.332(9196)
