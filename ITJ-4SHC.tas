@@ -69,7 +69,7 @@ console, load, Into The Jungle/ch4
    1,R,K
    1,J
    1,K
-  10,R,D,K
+  10,R,K
    1,R,J,G
    6,L,J
    2,J
@@ -178,25 +178,23 @@ console, load, Into The Jungle/ch4
   10,R,J
   14,U,X
   10,R,J
-  13,R
-   4,Z
+  12,R
+   5,L,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-   3,R
-   7,R,D,X
+   1,R
+   9,R,D,X
   40
 
 #lvl_a_04
-  25,R,D
+  22,R,D
    9,R,Z
    1,R,J
    7,R
-  11,R,J
-   3,R
+  15,R,J
   14,R,U,X
    1,R,J,G
-   1,R
    1,R,K,G
    1,L,K
    7,R
@@ -233,7 +231,7 @@ console, load, Into The Jungle/ch4
 read ITJ-4A lvl_a_07 lvl_a_13
 
 #lvl_a_13
-   2,R,X
+   2,R
    1,R,J
    7,R
   25,R,J
@@ -1026,4 +1024,4 @@ read ITJ-4A lvl_c_03 lvl_c_08
 
 read ITJ-4A lvl_c_12
 
-ChapterTime: 3:51.778(13634)
+ChapterTime: 3:51.744(13632)
