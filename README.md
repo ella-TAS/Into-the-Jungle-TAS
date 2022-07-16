@@ -5,8 +5,8 @@ Any%: 14:08.776
 100%: 39:27.947
 
 All Chapters: 34:02.873  
-All B-Sides: 10:30.156  
-All C-Sides: 6:30.099
+All B-Sides: 10:29.306  
+All C-Sides: 6:29.249
 
 A-Side times:  
 0:   0:29.393  
@@ -32,7 +32,7 @@ C-Side times:
 
 # Contributors
 TASers:  
-EllaTAS, abiteofdata, cake, Cuberstache, Firethief, Flinchless, gameprofi, gnommis, Gowgon, Hane, Kataiser, Kirbz, Lost in Nowhere, med, mikachelya, nebs, sashabell, squeal, Teo, TheRoboMan, Vasher, Wakey
+EllaTAS, mikachelya, abiteofdata, cake, Cuberstache, Firethief, Flinchless, gameprofi, gnommis, Gowgon, Hane, Kataiser, Kirbz, Lost in Nowhere, med, nebs, sashabell, squeal, Teo, TheRoboMan, Vasher, Wakey
 
 Special Thanks:  
 Benjamanian, caeyo, Dom, Lmjacks, max480, New Game Plus, Thegur90, Vamp

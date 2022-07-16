@@ -1,31 +1,8 @@
-read LoadStart 0 switchToITJ
-read LoadStart rename
-   1,S,N
-   1,D,J
-  32
-read LoadEnableCheatMode
-   1,X
-  42
+read LoadStart
 
-#configure the amount of
-#presses if you need to
-   1,U
-  48
-   1,L
-   8
-   1,L
-   8
-   1,L
-   8
-   1,L
-   8
-   1,J
-  21
-   1,R
-   1,J
-  30
-   1,J
- 304
+read LoadEnableCheatMode
+read LoadBCheatMode Prologue
+
 read ITJ-1B Start
 read LoadBCheatMode
 read ITJ-2B Start
@@ -45,4 +22,4 @@ read ITJ-5B Start
  194
 read LoadJournal
 
-FileTime: 10:30.156(37068)
+FileTime: 10:29.306(37018)

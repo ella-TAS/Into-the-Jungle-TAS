@@ -16,11 +16,6 @@ Set,DisableFlashes,true
 Set,CrouchDashMode,Press
 Set,GrabMode,Hold
 
-#Start on Begin
-#   1,D
-#Play rename
-#-----
-
 console overworld
    2
    1,J
@@ -34,7 +29,6 @@ Endrepeat
    1,J
   14,L
    1,D
-#switchToITJ
    1,F,180
    1,D
    1,F,180
@@ -42,9 +36,8 @@ Endrepeat
    1,U
    1,F,
    1,U
-#rename
    1,J
-  44
+  41
 
 #choose the file name
 #and input S

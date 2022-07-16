@@ -1,19 +1,20 @@
-#We use cheat mode to enable all levels for the All B and All C side tas runs
+console, load, Into The Jungle/ch0
+Set CheatMode false
+   1
 
-#lvl_0
-  61
+#Start
+#lvl_a_01
    5,L
    1,L,J
-   3,L
+  13,L
   40
 
-#lvl_-1
+#lvl_a_00
    1,L
    1,R,N
    1,G
    1,F,
    1,L,U,D,G
    1,J
-
-#Overworld
+#0:01.105(65)
  123
