@@ -1,8 +1,9 @@
 console, load, Into The Jungle/ch5
+   1
 
 #Start
 #lvl_a_01
-  37
+  36
   22,R,J
    2,J
   10,K,G
@@ -278,7 +279,7 @@ console, load, Into The Jungle/ch5
 
 #lvl_b_01
  149,F,356
-  62,L,D
+  62,L,U
    1,L,K
    1,L,J
    1,L,K
