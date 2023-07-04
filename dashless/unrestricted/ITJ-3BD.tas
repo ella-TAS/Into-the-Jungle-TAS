@@ -1,4 +1,4 @@
- console, hard, Into The Jungle/ch3
+console, hard, Into The Jungle/ch3
 
 #Start
 #lvl_a_01
@@ -182,75 +182,28 @@
    6,R,J
   13,L,J,G
    2,L,G
-   4,R,J,G
-Repeat, 15
-   1,S,N
-  10,O
-   2,R,J
-EndRepeat
-   1,S,N
-  10,O
-   5,U,X
-Repeat, 5
-   1,S,N
-  10,O
+  34,R,J,G
+  15,U,X
+  27,R,J
+
+   6,R,K
+   4,R,J
+  14,K
+   8,R,K
+  15,U,X
+  11,L,G
+   6,J,G
+  65,G
+  11,L,J,G
+   7,K
    2
-EndRepeat
-Repeat, 13
-   1,S,N
-  10,O
-   2,R,J
-EndRepeat
-   1,S,N
-  10,O
-   1,R
-   1,K
-Repeat, 2
-   1,S,N
-  10,O
-   2,R,K
-EndRepeat
-   1,S,N
-  10,O
-   1,R
-   1,L,J,G
-   1,S,N
-  10,O
-   1,L,J,G
-   1,L
-   1,S,N
-  10,O
-   1,L
-   1,K
-Repeat, 5
-   1,S,N
-  10,O
-   2,L,J,G
-EndRepeat
-Repeat, 3
-   1,S,N
-  10,O
-   2,L
-EndRepeat
-   6,R,J
-   8,R,G
-   1,J,G
-  10,R,J
-   1,L,J
-   8,G
-  11,J,G
-   1,R,J
-  27,L,J,G
-   8,K,G
-   9,G
-   6,L,J,G
-   5,L
-   1,L,J
-  12,L,K
-  19,L
-  20,L,D
-   3,L
-   3,R
+  12,L
+   3,L,J
+  33,L,D
+   4,R,D
+   1,D
+   3,R,D
+   2,L,D
   27,L,J
   12,L,K,G
    9,L,J,G
@@ -258,7 +211,7 @@ EndRepeat
    1,L,J
   14,L
    1,L,J
-  16,L
+  14,L
    1,L,J
   40
 
@@ -551,22 +504,34 @@ EndRepeat
   64
   21,R,U,X
   14,L,D
-  86
+  88
    1,J
-  22,R,D
-  14,R,D,X
+  16,L,D
+   6,R,D
+  13,R,D,X
   13,R,J
   16,R
    3
    7,R
-  25,U,X
-  34,R
-  39,U,X
-  23
-  11,R
-  14,J
-  11,U,X
- 129
+  15,U,X
+   5,R
+   3
+  15,L
+  15,U,X
+  13,L
+  57,G
+   1,R
+   1,J
+   4,R,J
+   1,K
+   3,R,K
+   1,J
+   1,R,J
+   3,R
+   1,J
+   3,R,J
+   7,R
+ 131
    1,J
   24,R,D
    1,R,J
@@ -781,22 +746,18 @@ EndRepeat
    1,J
   14,R,D
   15,J
-  87
-  11,U,X
-  32,R
-   6,J
-   9,R,U,X
-  32,D
-  18,R,D
-   8,R
-  16,R,J
-  88
+ 117
   15,U,X
-  13,R,G
-   1,J,G
-  10,R,J
-   1,L,J
-   8,G
+  16,R
+  10
+  16,R,D
+  11,R,J
+ 102
+  15,U,X
+  12,R,G
+   6,R,J
+   6,L,J
+   8,L,G
    1,J,G
   10,L,J
    1,R,J
@@ -804,11 +765,9 @@ EndRepeat
    3,L,J,G
   25,L
    3,L,J
-   3,L,K,G
-  10,L
-  14,R,J,G
-  12,R,K,G
-   5,R,J,G
+  17,L,K,G
+  17,R,J
+   6,R,K,G
   40
 
 #lvl_c_03
@@ -1101,4 +1060,4 @@ EndRepeat
  132
   15,R,U,X
  134
-ChapterTime: 3:39.011(12883)
+ChapterTime: 3:29.899(12347)
