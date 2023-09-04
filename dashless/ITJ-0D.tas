@@ -246,125 +246,113 @@ console, load, Into The Jungle/ch0
 #lvl_a_04
   13,R
    1,R,J
-  23,R,D
-   2,R,J
   18,R,D
+   1,R
+   3,R,D
+   1,R
+   2,R,J
+  17,R
+   1,L
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
+  10,R,K
+   1,R
    4,R,K
-   5,R
-   1,R,J
-   3,R
-   1,R,J
-   1,R,K,G
-   1,R,J
-   3,K,G
-   8,J,G
-   3,R,J
-   7,R
-   8,R,J
-   1,R
-   1,R,J
-   3,R,K,G
-  23,R,J,G
-   3,J
-   1,R,K,G
-   3,L,K
-   6,R,K
-   2,R,J,G
-   1,R,K
-  14,F,162
-   2,D
-   1,R
-   1,D
    2,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   2,R,K
-  37,R,J,G
-   1,R,K,G
-   5
-   2,R
-   1,D,J
-   6,R,J
-   1,R,K,G
-   3,R,J,G
+  11,R,J
+   8,R
+   5,R,J
    1,R
-   1,R,K,G
-   3,R
+   3,R,K
+   2,L,K
+   1,R,J
+   1,K
    1,R,J,G
    9,R
-   2,R,J
-  21,R,D
-   1,D
-   7,R,D
-  10,R
-   1,R,J
+   9,R,J
+   1,L,J
+   9,R,J
+   1,R
+   6,R,J
    1,R,K,G
-   3,R,J,G
-   5,R
-   1,R,K,G
-   2,R
-   1,R,J,G
   10,R
+   1,L
+   1,F,197
+   6,F,218
    1,R,J
-   7,R
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   9,R
+  31,R,J
+   4,R,K,G
+   4,R,J,G
+   1,R
+   1,R,K,G
+   9,R
+   1,R,J
+  21,R
+   6,R,J
   40
 
 #lvl_a_05
-  21,R,D
-   1,R,D,J
-   1
-  31,R,D
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-  24,R,D
+   4,R,J
+  51,R,D
    1,R,J
    1,R,K
    1,R,J
-  17,R,D
-   7,D
+  18,R,D
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   5,D
-   2,F,149.0
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
    1,R
-   1,D
+   1,F,161
+   1,R
+   1,F,161
+   1,R
+   1,F,161
+   1,R
+   1,F,161
+   1,R
+   1,F,161
+   1,R
+   1,F,161
+   1,R
+   1,F,161
+   1,R
+   1,F,161
+   1,R
+   1,F,151
    1,R
   49,F,102.31
   87,F,90.001
@@ -375,12 +363,9 @@ console, load, Into The Jungle/ch0
    1,F,51.32
    1,F,41.41
   39,F,30.11
-   4,U
-   1,F,10
-   1,F,20
-   1,F,30
+   5,U
+   3,F,37
    1,F,42
-   1,F,57
    1,R
    1,R,J
    1,R,K
@@ -609,4 +594,4 @@ console, load, Into The Jungle/ch0
    1,D,J
   18
 
-ChapterTime: 0:47.685(2805)
+ChapterTime: 0:46.019(2707)
