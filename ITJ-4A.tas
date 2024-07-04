@@ -58,38 +58,27 @@ console, load, Into The Jungle/ch4
   14,R,X
   40,L
    4,L,J
-   6,L
-  14,R,D,X
-   6,R,J
-   2,R
-   2,R,J
-  16,R
-   1
-   3,R
-   4,R,J,G
-   6,R
-   1,R,J
-   1,R
-   1,R,J
-   2,R
-  36,L,D
-   2,L
-  20,L,X
-  15,L,C
-   3,L,D
-  15,R,D
-   1,L,J
+   3,L
+   3
+  10,R,D,X
+  14,R,J
+   1,R,K,G
+   3,R,J,G
+  11,R
    1,L
+   3,R
+  43,L,D
+  22,L,X
+  14,L,C
    1,L,J,G
-  10,L,K,G
-   5,L
-   2,L,J
-  16,L,D
-   6,R,D
+   7,L
+   1,L,J
+  20,L,D
+   8,D,X
   43
 
 #lvl_a_04
-  31,R,D
+  33,R,D
   12,R,Z
    1,R,J
    3,R
@@ -780,22 +769,21 @@ EndRepeat
    4,R
    1
   15,R,U,Z
-   3,R
+   4,R
   10,R,X
    9,R,J
+   1,R,K,G
+   1,R,J,G
   15,R,D,X
-   1,R,J
-   7,R,D,X
-   1,R,J
-   2,R
+   3,R,J
   40
 
 #lvl_c_10
+   7,R,J
    5,R
-  13,R,J
+   1,R,J
   15,U,X
-   1,R
-   9,L
+  10,L
    5,R,X
   13,L,J
    5,L,K,G
@@ -933,70 +921,71 @@ EndRepeat
    8,R
    8,R,J
   11,R,D,X
-   1,R,J,G
-   7,R
-   1,R,J
-   3,R
+   2,R,J,G
+  10,R
   43
 
 #lvl_d_03
+   2,R,D
    1,R,J
-  15,R
-   3,R,J
+   5,R
+   2,R,J
+   5,R
+   1
+  14,R,U,X
+   1,R,J,G
+   1,R,K,G
+   2
+   1,R
+   1
    4,R
-  14,R,U,Z
-   2,R,J,G
-  15,R,D
    1,D
+  10,R,D,X
+   1,R,J,G
+   3,R,K,G
+   3,R
   43
 
 #lvl_d_04
-  10,R,U,X
-   1,L
-   4,J,G
+   2,R
+   1,R,J
+  14,R,D
+   2,L,D
+   4,R,D
+   2,R
+   1,R
+   1,D
+   1,D
+  15,R,Z
    2
-   1,J
-   4
-   1,R
-   1,D
-   3,R,D
-   1,D
-   1,R
-   7,R,D
-   5,R
-  15,R,X
-   5,R
    4,Z
    1,R,J
    6,R
-   4,R,J
+  11,R,J
+  10,R
+   1,R,K,G
+  18,R,J,G
+   1,R
+   2,R,J
    6,R
-   1,R,J
-  11,R
   14,R,Z
-  13,R,J
-  15,R,U,X
-   1,R,J,G
-   1,L
-   6,R
-   4,Z
+#1:51.639(6567)
    1,R,J
-   9,R
+   6,R
    1,R,J
   15,R,D,X
-   6,R,D
+   7,R,D
    1,R,J
    5,R,D,X
   43
 
 #lvl_d_05
    9,R,D,X
-   4,R,J
+   4,J
    8,U,Z
    1,J
-  11
+  12
    1,R
-   1
    7,R,Z
    8,R,J
    5,R
@@ -1083,66 +1072,55 @@ EndRepeat
    4,R,J
   15,R,D,X
    6,R,D
-   3,R,J
-   9,R
-   1,R,J
-  15,R,D,X
-  12,R
-   1,R,D
-   6,R,J,G
    1,R
+   1,R,J
+   7,R
+   3,R,J
+   5,R
+   4
+   1,R,J,G
+   1,R,K,G
+   8,R
+   1,R,J,G
+   1,R,K,G
+  15,R,D,X
+   5,R,D
    7,R,J
    1,R
-   2,R,D,J
+  14,R,D,X
+   2,R,J,G
+# later landing to line up dcb
    5,R
-  15,R,D,X
-   1,R,J
-   3,J
-   1,R,J
-   1,R,K,G
-   4
-   3,R
-   1,R,J
-   3,R
    2,R,J
-   6,R,D,X
-  46
+   4,R
+  43
 
 #lvl_d_08
-   2,R,D,X
-   3,R,J,G
-  19,R,K,G
-  15,R,D,X
-  14,R,C
-   3,R,J,G
-  21,R,K,G
-   1,R
-   1
-   1,J
-   1
-   6,J,G
-   5
-   2,R
-   6,L,Z
-   1,R,J
-  22,R,D
-   2,R
-   1,R,D
-  10,R,U,Z
-   1,L,J,G
-   9,R,J
+   3,R
+  12,R,J
+   5,R
+   2,R,J
    7,R
-  14,R,Z
-   1,R,J
-  10,R,D,X
-   2,R,J
+  14,R,U,Z
+   1,R,J,G
+   5,R,K,G
    2,R
    1,R,J
+   4
+  17,R,D
+   7,R,U,Z
+   1,L
+   7,J,G
+   7,R,U,X
+   8,R,J,G
+   5,R
+   1,R,J
+  10,R
+   4
    1,R
-   2,R,J
-   2
-   6,R
   14,R,D,X
+#2:05.953(7409)
+#2:07.194(7482)
    1,R,J
   12,R,D,X
   43
@@ -1289,26 +1267,23 @@ Endrepeat
    3,R
    1,R,J
   14,R,D,X
-  14,R,J
-  18,R,D,X
-  24,R
-   1,R,D
-   1,L,D
-   4,J,G
-   8,R,J
-   9,L,J
-   1,J
-   1,G
   13,R,J
-  18,R,X
-   4,R
-  15,R,X
-   1
+  18,R,D,X
+  19,R
+  14,R,X
+   1,R,J,G
+   3,R,K,G
+   6,R
+   1,R,J
+   8,R
+   7
+  14,R,X
+   1,R,J,G
+   3,R,K,G
+   5,R
+   3,R,J
    3,R
-   1,R,G
-  40,R,J,G
-   6,R,D
-  10,R,Z
+   9,R,D,X
    1,R,J
    6,R
    7,R,J
@@ -1327,4 +1302,4 @@ Endrepeat
    1,D,J
   18
 
-ChapterTime: 2:30.161(8833)
+ChapterTime: 2:26.761(8633)
