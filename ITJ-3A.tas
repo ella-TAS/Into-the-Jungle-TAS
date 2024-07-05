@@ -41,20 +41,26 @@ console, load, Into The Jungle/ch3
 #lvl_a_02
    1,R,J
    2,R
+   2,R,J
+   5,R
    4,R,J
-  12,R
-  30,R,J
+   2,R
+  18,R,J
+   1,R,K,G
+   3,R,J,G
   15,R,D,X
-  15,R
-   4,Z
-   1,R,J
-   3,R,K,G
-   7,R,J,G
+  10,R
+   6,R,D
+# terrible
+   5,R,J
   40
 
 #lvl_a_03
-  11,R,J
-  18,R,U,X
+   8,R,J
+  14,R,U,X
+# TERRIBLE
+   1,J,G
+   3
    1,R,J,G
    1,L
    6,R
@@ -139,17 +145,15 @@ console, load, Into The Jungle/ch3
 #lvl_a_08
    5,R,U,X
    1,R,J,G
-  16,R,K,G
+  13,R,K,G
+   1,K
+   3,R,K
+   4,J,G
+   3,R,J
   15,U,X
-  11,R,G
-   1,J,G
-   4,R,J
-   6,R
-   2,L,G
-  11,J,G
-   8,G
-   1,J
-  10,R,J
+   3,L
+   1,R,J,G
+  18,J,G
   40
 
 #lvl_a_09
@@ -1307,7 +1311,7 @@ console, load, Into The Jungle/ch3
    9,R
   40
 
-#lvl_d_09
+#lvl_d_11
   18,R,J
   13,U,X
   71
@@ -1475,4 +1479,4 @@ console, load, Into The Jungle/ch3
    1,D,J
   18
 
-ChapterTime: 3:11.862(11286)
+ChapterTime: 3:11.114(11242)
