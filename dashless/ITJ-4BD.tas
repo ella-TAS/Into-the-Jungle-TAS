@@ -1,4 +1,4 @@
-RecordCount: 1703
+RecordCount: 1999
 
 console hard "Into The Jungle/ch4"
    1
@@ -130,48 +130,49 @@ console hard "Into The Jungle/ch4"
   43
 
 #lvl_0a_04
-   7,R,D,X
+   3,R
+   1,R,J
+   1,R
+   6,R,D,X
+   1,R,J
+   7,R
+   6,R,J
+  18,R
+  12,R,J,G
+   8,R,X
+   1,L,J
+  19,L,K
+  13,L,J,G
+   8,K,G
+  12,Z
    1,R,J
    7,R
    1,R,J
-  15,R
-  14,R,X
-   1,R,J,G
-   1,J
-   3,R,J
-   5
-  13,U,X
-  11,L,J
-  11,L
-  10,L,Z
-   1,R,J
-   5,L
-   2,R
-   1,R,J
-  18,R
-  14,R,D
+  10,R,D
+   2,D
+  21,R,D
   40
 
 #lvl_0a_05
-   4,R,D
+   3,R,D
   36,R,J
    3,R,K
   40
 
 #lvl_0a_06
-  25,R,K
+  24,R,K
    8,U,X
    3
    7,U,X
    3,R
-   9,U,X
+   8,U,X
    3
-   6,U
+   7,U,X
    8,R
   15,U,X
-   4,R
+   3,R
    3
-   4,R
+   5,R
   14,U,X
   14,R,J
   11,R
@@ -402,18 +403,25 @@ console hard "Into The Jungle/ch4"
    1,D,J
   69,O
   15,U,X
-  33,L
-  20,L,J
-  15,U,X
-  12,L,J,G
-   6,K,G
-   9,L
-  14,L,J
-  14,L
+  20,L
+  10
+   5,R,J
+   1
+   1,J
+   6,L,J
    3
-   6,L
+   4,J
+  21,L,J,G
+   8,K,G
+   1,R,K
+  14,L,J,G
+   1,L,K,G
+  12,L,J,G
+   5,L
    1,L,J
-  15,L
+  16,L
+   1,L,J
+  18,L
    5,L,D
    3,L,J
    5,L
@@ -1282,4 +1290,4 @@ console hard "Into The Jungle/ch4"
   15,R,X
    8,R
  133
-ChapterTime: 3:00.625(10625)
+ChapterTime: 3:01.033(10649)
