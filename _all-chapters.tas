@@ -12,7 +12,7 @@ read LoadA
 read ITJ-3HC Start
 read LoadA
 read, ITJ-4A, Start, lvl_c_02 (2)
-read, ITJ-4SHC, lvl_c_02 (2), lvl_c_02 (4)
+read, ITJ-4SHC, lvl_c_02 (1), lvl_c_02 (3)
 read, ITJ-4A, lvl_c_02 (3)
 read LoadA
 read ITJ-5A Start exit

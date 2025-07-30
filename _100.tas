@@ -17,7 +17,10 @@ read LoadA 0 control
    1,J
   46
 read ITJ-1SHC1 Start
-read LoadC hundo
+read LoadC menu hundo
+   1,J
+  46
+
 read ITJ-2SHC Start
 read LoadA
 read ITJ-3SHC Start
