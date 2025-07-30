@@ -932,6 +932,7 @@ console load "Into The Jungle/ch5"
   40
 
 #lvl_c_05
+# Bring lantern with
   12,R,J,G
    7,R,K,G
    1,R
@@ -1596,7 +1597,6 @@ console load "Into The Jungle/ch5"
    1,J,G
    1,R,J
   16,L,K,G
-
    3,J,G
    1,R,J
    1,K
@@ -1606,30 +1606,66 @@ console load "Into The Jungle/ch5"
   14,D
   15,U,X,G
    1,L
-   8,J,G
+   1,J,G
    1,R,J
-  11,L,K,G
+   1,R,K
+   8,R,J
+  10,R
+   2,R,J,G
+   1,L,J
+   1,R,J
+   4,J
   40
 
 #lvl_d_07
-#2 Pixels From Dave
-   4,L
-   6,L,J,G
-   4,L
-   1,L,D,G
-  13
-   3,L
-   4,Z
-   2,L,J,G
-  21,L,K,G
-  90,U,G
-   3,R,J
-   4,R,K,G
-  22,R
-   9,R,J,G
-   5,R
+   1,K
+  17,L
+   1,J
    1,R,J
-  13,R
+   1,J
+   4,R
+   1
+   1,R,J
+   2,R
+   1,R,J
+   4,R
+   2
+   1,R
+   1,K
+   1,J,G
+   4,J
+   6
+   5,L
+   1,L,J
+   2,L
+   1,L,J,G
+   3,L,K,G
+   3,L
+  25,L,J,G
+   8,L
+   1
+   1,L
+   1
+   1,L
+   1,L,J,G
+   7,L
+  13,L,J
+  11,K,G
+   1,R,K
+   1,J
+   1,K
+  14,L,K
+  12,J,G
+   3,K,G
+   1,R
+   1,J
+   2,R,J
+  26,R,K,G
+   1,R,J,G
+   7,R,K,G
+   5,R
+   1,J
+  11,R
   27,R,J
    2
   11,J,G
@@ -2458,4 +2494,4 @@ console load "Into The Jungle/ch5"
    1,S
    1,D,J
   18
-ChapterTime: 5:54.059(20827)
+ChapterTime: 5:54.518(20854)
