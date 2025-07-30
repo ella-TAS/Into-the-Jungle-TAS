@@ -1,4 +1,4 @@
-console, load, Into The Jungle/ch0
+console load "Into The Jungle/ch0"
    1
 
 #Start
@@ -469,18 +469,18 @@ console, load, Into The Jungle/ch0
   14,R,J
    1,R,K,G
    2,L,K
-  11,R,K
+  12,R,K
   12,R,J,G
+   3,R
    2
-   1,R
-   2
-   2,R
-   1,G
-  12,J,G
-   8,G
-  20,L,J
-   5,L
-  21,L,J
+   1,J,G
+   6,R,J
+   4,J
+   1,L,J
+   1,L,K,G
+  20,L,J,G
+   1,L
+  19,L,J
    1,L,K,G
    4,L,J,G
    6,L
@@ -495,79 +495,83 @@ console, load, Into The Jungle/ch0
    1,R,J
    1,L,J
    1,K
-   2,J,G
   19,R,J
-  12,R,K
-   7,R
-   1,G
-   1,J,G
-  10,R,J
-   1,L,J
-   8,G
-   1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-  10,R,J
-   1,L,J
-   8,G
-   1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-  13,R,J
-   4,J
-   5,R,K
-   7,R,J
-   4,R
-   1,R,K,G
-   4,R,J,G
-   3,R,K,G
-   6,R
-   1,R,J
    1,R
+  19,R,J
+   1,K,G
+   4,K
+   6,R,K
+   1,L,K
+   1,J,G
+   9,J
+   1,L,J
    1,R,J
-   6,R
-  10,R,J
-   4,R
-   8,R,K,G
+   1,K,G
+   8,K
+   2,R,K
+   1,L,K
+   1,J,G
+   8,J
+   2,L,J
+   1,R,J
+   1,K,G
+   7,K
+   2,R,K
+   1,L,K
+  11,L,J,G
+   1,R,J,G
+   1,K,G
+   3,J,G
+   1,K
+   1,J
+   2,R,J
+   1,J
+   1,K
+   7,R,K
+   1,R
+   1
    1,R
    1,R,J,G
+   4,R,K,G
+   3,R,J,G
+   9,R
+   1,R,J
+   4,R
+   1
+  10,R,J
+   5,R
+   9,R,K,G
+   1,R,J,G
    1,J
-   4,R,J
+   2,R,J
+   2,R
    1,R,K,G
    1,R,J,G
    9,R
    1,R,J
   18,R
   26,R,J
-   1,J
-   1,R,G
-   1,J,G
-   3,R,J
-   6,R
-   1,L
-   1,G
-   9,R,J
+   1,R,K,G
+  12,R,J,G
    5,R
    1,R,J
    1,R
    1,R,J
-   8,R
+   2,R
+   1,R,J
+   3,R
    1,R,J
   14,R
    1,R,J
   14,R
   10,R,J
-   1
-   4,R
-   6,J,G
-   1,R,J
    2,R
-   1
-   4,R
+   3
+   2,J,G
+   1,R,J
+   2,J
+   2,R,J
+   7,R
    1,R,J
    1,R,K,G
    5,R,J,G
@@ -594,4 +598,4 @@ console, load, Into The Jungle/ch0
    1,D,J
   18
 
-ChapterTime: 0:46.019(2707)
+ChapterTime: 0:45.152(2656)
