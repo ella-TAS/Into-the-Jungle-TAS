@@ -1,4 +1,4 @@
-console, hard, Into The Jungle/ch1
+console hard "Into The Jungle/ch1"
    1
 
 #Start
@@ -20,28 +20,32 @@ console, hard, Into The Jungle/ch1
    1,R,J,G
    1,R,K,G
   28,R
-  49,R,J,G
-  23,R,K,G
-  20,R,U,X
+  27,R,J
+  14,R
+   2
    2,R
-   2,L
-   1,R
+   3,R,D
+   1,R,J,G
+  18,R,K,G
+  15,R,U,X
+   5,R,J
    8,K,G
    1,L,K
   14,R,J,G
    1,R,K,G
-   1,R,J,G
   11,R
    1,R,J
-   6,R
+   9,R
   40
 
 #lvl_A_02
-   6,R
-   1
-   1,R
+   5,R
    1,R,J
   17,R
+   1
+   1,R
+   1
+   1,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -102,15 +106,16 @@ console, hard, Into The Jungle/ch1
    1,L,K,G
    5,R,J,G
   11,R
-   3,R,J
+   1
+   1,R
+   1,R,J
    1,R,K,G
-  12,R
+   1,R,J,G
+  11,R
    1,R,J
   14,R
    1,R,J
-  18,R
-   1,R,J
-  11,R
+  16,R
   40
 
 #lvl_A_021
@@ -122,39 +127,44 @@ console, hard, Into The Jungle/ch1
    6
   32,R,J
   31,R,U,X
-  30,R,G
-   7,R,J
-  16,R
-   2
-   2,R
+  22,R
+   6,R,D
    1,R,J,G
    1,R,K,G
-  11,R
+  14,R
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+  14,R
    1,R,J
-  11,R
+   8,R
   40
 
 #lvl_A_03
-   3,R
-  12,Z
+   5,R
+  11,Z
    1,R,J
   12,R
   18,R,J
-  10,R,G
-   5,R,K
-   7,L,K
-   8,L,G
+   6,R
+   3
    1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   7,J,G
-   8,G
-   1,J,G
-   2,L,J,G
-   1,K
-  19,R,K
-   5,R
+   4,R,J
+   1,L,J
+  12,K,G
+   5,L,J,G
+   5,J
+   2,R,J
+  11,K,G
+   2,L,K
+   1,J
+  19,R,J
+   1,R
+   1
+   1,R
+   1
+   1,R
    1,R,J,G
    1,R,K,G
   14,R
@@ -808,35 +818,46 @@ console, hard, Into The Jungle/ch1
    6
   26,R,J
   10,R,D
-   1,D
-   3,R,D
-   8,D
-   4,R,D
-  11,R,X
+  21,D
+  28,R,J
    6
   35,R,J
-  14,U,X
-  12,R,J
-  27,R,G
-  43,R,D,J,G
+  20,R,U,Z
+  10,L,J,G
+   2,J
+   2,R,J
+   1,J
+   3,R,J
+  40,R,K
+   2
+   1,R,J,G
+   1,R,K,G
+   2,K
+  13,R,K
+  20,R,D
    6
-  14,J
+  11,J
+   3,R,J
   20,R,U,X
   30,D
-   9,R,D
-   9,D
-  23
-   8,R
-  33,R,J
-  10,R,X
+   4,R,D
+  11,D
+   2,R,D
+  15
+   9,L,X
+   1,R,J
+  11,R
+  18,R,J
    6
-  34,R,J
-  25,R,X
-   5,L,D
-   3,R,D
+  15,R,J
+  20,R
+   4,R,D
    6
-   5,R,J
-  36,R
+   1,R,J
+  25,R,D
+   6,D
+   5,R,D
+   1,R
    1
    1,R
    1,R,J,G
@@ -917,4 +938,4 @@ console, hard, Into The Jungle/ch1
    4,R,J
   18,U,X
  134
-ChapterTime: 2:22.987(8411)
+ChapterTime: 2:22.137(8361)
