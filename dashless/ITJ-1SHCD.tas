@@ -240,7 +240,7 @@ console load "Into The Jungle/ch1"
    1,R,K
    8,G
   12,J,G
-   8,G
+  14,G
    1,J,G
    1,L,J
    7,R,J
@@ -257,11 +257,20 @@ console load "Into The Jungle/ch1"
   27,L,K
    9,L,J,G
    9,L
-  16
-  22,L
-  24,L,J
-   8,L,K,G
-  14,U,X
+   1,L,J
+   9,L
+   1,L,J
+   2,L
+   6,R
+   1,J,G
+   5,R
+   3
+   1,R
+   4,L
+  22,L,K
+   1,L,J,G
+   1,K
+  23,L,J,G
  257
    1,J
  123
@@ -1767,4 +1776,4 @@ read, ITJ-1AD, lvl_d_03 (1), lvl_d_10
    1,S
    1,D,J
   18
-ChapterTime: 5:14.177(18481)
+ChapterTime: 5:14.262(18486)
