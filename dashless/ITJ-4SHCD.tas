@@ -1,4 +1,4 @@
-console, load, Into The Jungle/ch4
+console load "Into The Jungle/ch4"
 
 #Start
 read, ITJ-4AD, Start, lvl_a_02
@@ -213,7 +213,7 @@ read, ITJ-4AD, Start, lvl_a_02
   11,R,K
   12,L,J
   10,K,G
-  40
+  43
 
 read, ITJ-4AD, lvl_a_07, lvl_a_12
 
@@ -322,21 +322,30 @@ read, ITJ-4AD, lvl_a_07, lvl_a_12
   75,R,D
    1
    1,R,D
-   3,R
-   3,R,J
+   2,R
+   1
+   1,R
+   1
+   1,R
+   1,R,J
    1,R,K,G
-   1,R,J,G
-  14,R
-   2,R,J
+   2,R,J,G
+  12,R
+   3,R,J
   40
 
 #lvl_b_02 (0)
-   6,J
-  15,U,X
-  18,R,J
-  12,K,G
-  12,L,J
-   1,K,G
+  12,R,J,G
+   7,J,G
+   5,K,G
+   1,J
+   1,K
+   9,R,K
+  12,R,J,G
+   9,L,K
+   9,R,J
+  12,L,K
+   9,J,G
   40
 
 #lvl_b_021
@@ -382,7 +391,6 @@ read, ITJ-4AD, lvl_a_07, lvl_a_12
   18,R,D
    8,R
   29,R,D
-
    1,R,J
   19,R
   10,R,J
@@ -465,7 +473,7 @@ read, ITJ-4AD, lvl_a_07, lvl_a_12
 
 read, ITJ-4AD, lvl_b_04, lvl_b_07
 
-# (1)
+#lvl_b_07 (0)
    9,L
    1,L,J
   14,L
@@ -522,7 +530,7 @@ read, ITJ-4AD, lvl_b_04, lvl_b_07
   13,R
   40
 
-#lvl_b_07
+#lvl_b_07 (1)
   14,Z
    7,R,J
    5,R
@@ -609,76 +617,46 @@ read, ITJ-4AD, lvl_b_04, lvl_b_07
    8,R
   40
 
-read, ITJ-4AD, lvl_b_10, lvl_b_11
+read, ITJ-4AD, lvl_b_10, lvl_b_12
+
+#lvl_b_12
+   7,L
+   1,L,J
+   5,L
+  40
 
 #lvl_b_11
-   6,R
+   9,L
+   1,L,J
+  48,L
+  15,U,X
+  16,L
+   1,L,J,G
+  17,L,K,G
+  11,J,G
    1,R,J
-  14,R
-   1,R,J
-   4,R
-   3
-   3,R
-   2,R,J,G
-   5,R
-   1,R,J
-   9,R
-  10,D,X
-   6,L,G
-   7
-   5,R
-  42,R,J
-  12,R,K
-  15,U,X
-  11,L,G
-  12,J,G
-   8,G
-  12,J,G
-   3
-  18
-  30,D
-  11,J
-  15,U,X
-  11,G
-  12,J,G
-   8,G
-  12,J,G
-  36,G
-   3
-  33,D
-  15,U,X
-  11,G
-  12,J,G
-   8,G
-   4,J,G
-   8,G
-   1,L
-  61,G
-   3
-  12,R
-  13,R,D
-   3,R
-   5,R,D
-   9,R
-  15,U,X
-  33
-   4,L,D
-   4,L,J,G
-  18,L
-  19,R,D
-   1,R,J,G
-   1,R,K,G
-  10,R
-   1,R,J
-  14,R
-  13,R,J
-  15,U,X
+   2,K,G
+  19
    2,R
-  12,R,J,G
-   3,K,G
-  12,J,G
-   5,K,G
-  21,R
+  12,R,D
+  14,R
+  11,D
+  15,U,X
+  22,L,D
+   1,G
+  10,L
+   4,R,D
+  10,D
+   6,R,D
+   1,R,J,G
+  13,R
+   1,R,J
+  16,R
+  26,D
+   1,S
+   1,D,J
+  69,O
+   5,R
    1,R,J
    8,R
   40
@@ -802,8 +780,6 @@ read, ITJ-4AD, lvl_b_12, lvl_c_02 (0)
 
 read, ITJ-4AD, lvl_c_06, lvl_c_02 (1)
 
-
-
 #lvl_c_02 (1)
   12,L,J,G
    1,K,G
@@ -825,7 +801,7 @@ read, ITJ-4AD, lvl_c_06, lvl_c_02 (1)
    3,L
   40
 
-read, ITJ-4ACD, lvl_c_Cassette (1), lvl_c_casetteHeartRoom
+read, ITJ-4ACD, lvl_c_Cassette (0), lvl_c_casetteHeartRoom
 
 #lvl_c_casetteHeartRoom
    8,R,D
@@ -880,7 +856,7 @@ read, ITJ-4ACD, lvl_c_Cassette (1), lvl_c_casetteHeartRoom
   11,J,G
   40
 
-read, ITJ-4ACD, lvl_c_Cassette (2), lvl_c_02 (2)
+read, ITJ-4ACD, lvl_c_Cassette (1), lvl_c_02 (1)
 
 #lvl_c_02 (2)
   15,D,X
@@ -1059,16 +1035,17 @@ read, ITJ-4AD, lvl_c_03, lvl_c_08
 
 #lvl_c_08 (0)
   10,R
-   9,L
-  38
-   5,L,D,X
    1,R,J
-  12,R
-   6,R,J
-   6,R
-   3,L
-  13,L,J
-  12,R,K,G
+  23,R
+  14,R,J
+   8,R
+   1,R,J,G
+   4,R,K,G
+  23,R
+   1,L,J
+   7,J
+   4,R,J
+  12,R,K
   12,J,G
   12,K,G
    4,J,G
@@ -1181,4 +1158,4 @@ read, ITJ-4AD, lvl_c_12, lvl_d_13_outro
    1,S
    1,D,J
   18
-ChapterTime: 5:49.656(20568)
+ChapterTime: 5:57.833(21049)
