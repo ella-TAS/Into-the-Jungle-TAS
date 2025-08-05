@@ -16,33 +16,25 @@ console load "Into The Jungle/ch1"
    1,R,J
   14,R
    1,R,J
-  16,R
-  11,R,J
-   5,R
-   2,R,J
-   2,R,G
+  14,R
+  20,R,J
+  12,K,G
    1,J,G
   10,R,J
    1,L,J
-   8,G
+   1,K,G
+   6,L,K
+   1,R,K
+   1,L,K
    1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-   4,L,J
-   1,R,J
-   1,L,J
-   9,R,J
    2,L,J
-  21,R,J
-   9,L
-   1,L,G
-  12,J,G
-   2,R
-   5,G
-   1,L,G
-  15,R,K,G
+   3,R,J
+  22,R
+   1,R,J,G
+   1
+   6,R
+  10,R,K,G
+   4,R
    5,R,J
    7,R,K
   10,R
@@ -71,25 +63,17 @@ console load "Into The Jungle/ch1"
   15,R
   25,R,J
   15,R,U,X
-  12,R
-   1,R,G
-   3,R,J
-  37,R
+  10,R
    1
    1,R
-   5,R,D
-   5,R,J
-  19,R
-   1
-   1,D
-   2,R,D
    1,R,J,G
-   1,R,K,G
-   6,R
+  10,R,K,G
+  57,R
    1,R,J,G
-  13,R
+   4,R,K,G
+   7,R
    1,R,J
-  14,R
+  29,R
    1,R,J
    1,R
   40
@@ -139,17 +123,16 @@ console load "Into The Jungle/ch1"
 #lvl_a_02 (1)
   14,L,J
   15,U,X
-  34,L,J,G
-   9,K,G
-   8,G
-  23,R,J
-   2,R
-   1,R,J
-   7,R
-   1
-   1,R
-   1
-   1,R
+  29,L,J,G
+   2,J
+   2,L,J
+   1,K,G
+   7,L,K
+   1,K
+   1,R,K
+   1,R,J,G
+  17,R,K,G
+  15,R
    2
    2,R
    1,R,J
@@ -166,44 +149,35 @@ console load "Into The Jungle/ch1"
   14,R
    1,R,J
   24,R
-  33,R,J,G
-   1,K,G
-  10,R,K
+  31,R,J
+  11,K,G
    1,L,K
-  13,R,K,G
-   1,J,G
-  10,R,J
-   1,L,J
+  14,R,J,G
+  11,K,G
+   1,L,K
+  14,R,J,G
+  11,K,G
+   1,L,K
   13,R,J,G
+   1
   12,K,G
-   8,G
-  12,J,G
-   8,G
-  12,J,G
-   8,G
-  18,J,G
   40
 
 #lvl_a_05
-  21,G
-   1,K,G
-  10,R,K
-   1,L,K
-  13,R,K,G
-   1,J,G
-  10,R,J
+  11
+   9,J,G
+   2,R,J
    1,L,J
-  13,R,J,G
-   8,K,G
-   1,L,K
-  24,R,K,G
-  14,R,J,G
-  10,L,K,G
-  54,R,J
-  15,R,D
+  14,R,K,G
+  11,J,G
+   1,L,J
+  14,R,K,G
    1,R,J,G
    1,R,K,G
-  21,R
+  11,R
+  71,R,J,G
+   1,R,K
+  23,R
   40
 
 #lvl_a_07 (0)
@@ -220,11 +194,13 @@ console load "Into The Jungle/ch1"
    1,R,J
    1,R,K
    1,R,J
-  25,R,K
+  27,R,K
   15,U,X
-   3,R
-   9,R,J,G
-  18,R,K,G
+   6,R
+   1,R,J,G
+  12,R,K,G
+   2,J,G
+   1,K
    3,J
   40
 
@@ -300,18 +276,19 @@ console load "Into The Jungle/ch1"
    1,R,J
   16,R
   33,R,J
-  24
-   6,R
-  17,J
+  14,R
+  16
+   3,R,J
+  14,J
+   2,R,J
   15,U,X
-  11,R,G
-   1,J,G
-   6,R,J
-   4,R
+   2
    1,L
-   3,G
-  23,R,J
-   8,R,K,G
+   1,L,J,G
+   7,J,G
+   1,R,K,G
+  22,R,J,G
+   9,R,K,G
   40
 
 #lvl_a_10 (0)
@@ -351,32 +328,25 @@ console load "Into The Jungle/ch1"
   14,R
    1,R,J
   22,R
-  52,R,J,G
-   1,K,G
-  10,R,K
-   1,L,K
-  13,R,K,G
-   1,J,G
-  10,R,J
+  47,R,J
+   2
+   2,R
+  11,J,G
    1,L,J
-  13,R,J,G
-   1,K,G
-  10,R,K
-   1,L,K
   14,R,K,G
-   1,J,G
-  10,R,J
+  11,J,G
    1,L,J
-  13,R,J,G
-   1,K,G
-  10,R,K
-   1,L,K
   14,R,K,G
-   9,L,J
+  12,J,G
+   5,K,G
+   1,L,J,G
+  14,L,K,G
   40
 
 #lvl_a_11 (0)
-  25,L
+   7,L
+   1,L,J,G
+  10,L
   40
 
 #lvl_a_10 (1)
@@ -388,72 +358,76 @@ console load "Into The Jungle/ch1"
 
 #lvl_a_11 (1)
   15,R
-   5,R,J
-  10,R,G
+   2,R,J
+   8,R
+   2
+   2,R
    1,R,J,G
-  13,R
-  10,L,G
-  43,R,J
+   1,R,K,G
+   9,R
+  51,R,J,G
   40
 
 #lvl_a_09 (1)
-  56,R,J,G
-   3,R,K
-  24,R
+  46,R
    1,R,J,G
    1,R,K,G
-   4,R
-   1,R,J,G
-  10,R
+  31,R
+   1
+   1,R
+   2
+   2,R
    1,R,J
-   2,R,K,G
-   9,R
+   1,R,K,G
+   1,R,J,G
+  11,R
   40
 
 #lvl_a_12
-   2,R
    1,R,J
   14,R
-  15,R,J
-  15,U,X
-  11,R,G
-   1,J,G
-  10,R
-   1,L
-   1,G
-  10,R,J
-  14,R,G
-   1,J,G
-  10,R
-   1,L
-   1,G
-   5,R,J
-   5,R
-  19,R,J,G
-   1,K,G
-  10,R
-   1,L
-   1,G
-  19,R,J
-  13,L
+  17,R,J
+  12,R,U,X
+   7,R,J,G
+   2,R
+   1
+   6,R
+   1,R,J,G
+   1,R,K,G
+  18,R
+  12,R,J,G
+   9,R
+   7,L
    8,L,J
-  14,L,G
-   1,J,G
-  10,L
-   1,R
-   1,G
-   3,L,J
    5,L
-  21,L,J,G
-   1,K,G
-  10,L,K
-   4,K
+   1,L,J
+  11,L
+   1,L,J,G
+   9,L,K,G
+  19,L
+   1,L,K,G
+  16,L,J,G
+   1,K
    1,J
-   3,L,J
-   2,J
-   2,L,J
-  12,L,K,G
-  10,J,G
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,K
   40
 
 #lvl_b_01 (0)
@@ -871,18 +845,18 @@ read, ITJ-1AD, lvl_b_05, lvl_b_08
    6,R
    1,R,J
   11,R
-  27,R,J
-  16,R,J,G
+  41,R,J
    1,K,G
-   9,R,K
-   1,R
-   1,L
-   6,G
-   1,J,G
-   8,R,J
-   8,K
+   5,K
    1,L,K
-  12,L,J,G
+   5,J,G
+   1,R,J,G
+   1,K,G
+   1,J,G
+   6,R,J,G
+   1,L,K,G
+  10,R,K
+  11,L,J,G
   40
 
 #lvl_b_09
@@ -893,30 +867,41 @@ read, ITJ-1AD, lvl_b_05, lvl_b_08
    1,L,J
   14,L
    1,L,J
-  23,L
-  35,L,J
-   7,L,K,G
+  18,L
+   5,L,J
+   5,L
+   1,L,J
+  13,L
+   1,L,J,G
+  12,L,K,G
+   7,L
+  12,L,J
+   8,K,G
    9,L
-  10,L,J
-  10,L,K,G
-  24,L
-  21,L,D
-  15,L
-  40,L,J,G
-   1,L,K
-  28,L
-  21,L,J
+  11,L,J
+  18,L
+  12,L,D
+   3,L
+  20,L,J
+   3,J
+   3,L,J
+   1,L,K,G
+   1,L,J,G
    2,J
    2,L,J
-   2,L,K,G
-   1
-   1,K,G
-   1
-   1,K,G
-   8,L
-   4,L,J
-  13,L
-   6,R,J
+  11,L,K,G
+   5,L,J
+   5,L,K
+   5,L
+   5,L,J
+  11,L
+   7,L,D
+   3,D
+   3,U
+   3,D
+   3,U
+   3,D
+   1,U
   77
   10,R
   11
@@ -1345,62 +1330,82 @@ read, ITJ-1AD, lvl_b_11, lvl_c_01
    1,R,J
    1,R,K,G
   13,R,J,G
-  30,R,K,G
+  19,R,K,G
    1,J,G
-  10,R,J
+   6,R,J
    1,L,J
-   8,G
+   1,K,G
+   6,L,K
+   1,R,K
    1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-  10,R,J
+   6,R,J
    1,L,J
-   8,G
+   1,K,G
+   6,L,K
+   1,R,K
    1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-  10,R,J
+   6,R,J
    1,L,J
-   8,G
+   1,K,G
+   6,L,K
+   1,R,K
    1,J,G
-  10,L,J
-   1,R,J
-   8,G
-   1,J,G
-  10,R,J
+   6,R,J
    1,L,J
-   8,G
+   1,K,G
+   6,L,K
+   1,R,K
    1,J,G
-  10,L,J
+   6,R,J
+   1,L,J
+   1,K,G
+   6,L,K
+   1,R,K
+   1,J,G
+   6,R,J
+   1,L,J
+   1,K,G
+   6,L,K
+   1,R,K
+   1,J,G
+   6,R,J
+   1,L,J
+   1,K,G
+   6,L,K
+   1,R,K
+   1,J,G
+   6,R,J
+   1,L,J
+   1,K,G
+   6,L,K
+   1,R,K
+   3,R,J,G
+   1,L,K,G
+   9,L,J,G
+  42,R,D
+  14,D
+  25,R,D
    1,R,J
-   8,G
-   2,J,G
-   8,G
-  17,L,J
-  13,R
-   7,D
-  56,R,D
-   1,R,J,G
-   6,R,K,G
-   1,L,K
+  11,R
+   3,L
+   3,L,J
+  16,L
+   9,L,J
   18,L
-   1,L,J
-  15,L
-  46,L,J
-   6
-  31,L
-   2
-   2,L
    1,L,J,G
    1,L,K,G
-  12,L
-   3,L,J
   18,L
-  11,R,D
+  12,L,D
+  15,L
+   1
+   1,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   1,L,J
+   8,L,D
+  20,R,D
   40
 
 #lvl_c_08 (1)
@@ -1409,6 +1414,7 @@ read, ITJ-1AD, lvl_b_11, lvl_c_01
   19,R
    1,R,J
   40
+
 read, ITJ-1AD, lvl_c_11, lvl_d_01
 
 #lvl_d_01 (0)
@@ -1547,52 +1553,7 @@ read, ITJ-1AD, lvl_c_11, lvl_d_01
    1,R,D
   40
 
-#lvl_d_03
-   1,R,D
-   1,R
-   1,R,D
-  12,R,Z
-   1,R,J
-   6,R
-  51,R,J,G
-   1,G
-  12,J,G
-   8,G
-  12,J,G
-   8,G
-   1,J,G
-   6,L,J
-  10,R,J
-   1,R,K
-  12,R,J,G
-   8,G
-  12,J,G
-   8,G
-  12,J,G
-   2,L
-   3
-   6,R,G
-   1,J,G
-  10,L,J
-   1,K
-   2,L,K
-   1,L,J,G
-   1,L,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,K
-   1,R,K
-   1,K
-   1,R,K
-  12,R,J
-   2,R
-  10,L,G
-  12,J,G
-   8,G
-  12,R,J
-   8,K,G
-  40
+read, ITJ-1AD, lvl_d_03 (0), lvl_d_06 (0)
 
 #lvl_d_06
    2,R,J,G
@@ -1637,17 +1598,25 @@ read, ITJ-1AD, lvl_d_03 (1), lvl_d_10
    6
   41,R,J
   20,R,U,X
-  19,R,G
-  19,R,J,G
-  28,R,K,G
-   2,R,J,G
-  18,R
-   1,R,J
-  14,R
+  17,R
+   1,R,J,G
+   1,R,K,G
+   1,K
+   6,R,K
+   1,K
+   4,R,K
+   1,J
+   5,R
+  10,R,J
+   6,R
+   2
+   2,R
+   1,R,J,G
+   1,R,K,G
+  26,R
    1,R,J
    2,R
   40
-
 
 #lvl_d_11
   12,R
@@ -1804,4 +1773,4 @@ read, ITJ-1AD, lvl_d_03 (1), lvl_d_10
    1,S
    1,D,J
   18
-ChapterTime: 5:13.548(18444)
+ChapterTime: 5:04.742(17926)
