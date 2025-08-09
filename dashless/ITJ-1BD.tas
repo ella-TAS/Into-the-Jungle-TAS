@@ -183,6 +183,7 @@ console hard "Into The Jungle/ch1"
   12,R
    3,R,J
   40
+
 #lvl_A_04
    4,R,J
    5,R
@@ -246,6 +247,7 @@ console hard "Into The Jungle/ch1"
    5,R,J
    7,R,K
   40
+
 #lvl_A_05
   22,R
    2
@@ -272,52 +274,61 @@ console hard "Into The Jungle/ch1"
    1,K
   20,R,K
    4,R
-  30,R,J,G
+  28,R,J,G
    1,K,G
-  10,R
-   1,L
-   1,G
-   1,R,J
-  19,R
-   1,R,G
-   6,R,J,G
-  18,R
-   4,R,D
-   1,R,J
-  10,R
-   1
+   7,R,K
+   1,L,K
+   2,R,J,G
+   1,R,K
    1,R
-   1
-   1,R
+  12,R,J
+   8,R,K,G
+  16,R,D
+   1,R,D,J
+  16,R
    1,R,J
    1,R,K,G
    1,R,J,G
-  14,R
+   1,K,G
+  10,R
+   6,L,D
+   1,G
+   2
+   1,G
+   1,J
+   1,L,J
+   5
+   1,L
+   2,R
+   3,R,J
   40
 
 #lvl_A_06
-   1,R
-   8,Z
-   1,R,J
-  12,R
-  49,R,J,G
-  12,K,G
-   8,G
-   5,J,G
-   8,G
-  11,J,G
-   1,L,J
-   4,R,J
-  15,U,X
-  11,L,G
-  12,J,G
-   8,G
-  23,R,J
+   6,R,J
+  12,L,J
+   1,G
    2,J
-   3,R,K,G
-  12,R
-   4,R,J
-  12,R,K,G
+   1,L,J
+   1,R,J
+   5,K
+   1,L,K
+   1,J,G
+  11,L,J
+   2,R,J
+   4,R,K
+  24,R,J
+   2,L,J
+  14,R,X
+   3,R,J,G
+   2,R,G
+   6,R,K,G
+  14,R
+   1,L
+   1,R
+   9,R,J,G
+   7,R
+  12,R,J
+   4,K,G
   12,R,J,G
    1,K,G
   40
@@ -384,29 +395,34 @@ console hard "Into The Jungle/ch1"
   40
 
 #lvl_B_02
-   3,R
-   1,R,J
-  14,R
-   1,R,J
-  15,R
-  31,R,J
-  15,R,U,X
-  10,R
-   3
-   9,R
-  15,R,X
-   3,R
-   3
-   8,R
-  15,R,U,Z
-  19,R,G
-   6,R,J,G
-   2,R
-   3
-  16,R
-  20,R,X
-  23,R,D
    4,R
+   4,Z
+   1,R,J
+   7,R
+  22,R,J
+   1,R
+   1,R,J
+  15,R,U,X
+  12,R
+   3
+  10,R
+  15,R,U,Z
+  31,R,D
+   1,J,G
+   4,R,J
+   5,R
+   5,R,J
+   7,R
+   9,L,D
+   2,L
+   1
+   7,J,G
+   2,R,J
+   5,R
+   2,R,J
+  21,R,D
+   1,R,J
+  19,R
    1,R,J
    7,R
   40
@@ -498,11 +514,115 @@ console hard "Into The Jungle/ch1"
   30,R,J
   15,R,U,X
   37,R,D
-#-1349.45
-  15,R,J
-  15,R,U,X
-  10,R,G
-  15,J,G
+   1,D
+   1,L
+   1,D
+   1,L
+   1,D
+   1,L
+   1,D
+   1
+   1,D
+   1
+Repeat, 5
+   1,D
+   1,R
+   1,D
+   1,R
+EndRepeat
+   8,J
+   4,L,J
+   5
+  10,J
+   8
+   1
+   1,R
+   1,D
+   1,J
+   5,L
+   2,L,J
+   1,L
+   1,S
+  10,J
+   1,D,J
+   1,J
+   1,D,J
+   1,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,L,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   1,R,J
+   1,D,J
+   5,R,J
+  22,R,K
+   2
+   1,G
+  12,J
+   8,K,G
   40
 
 #lvl_B_06
@@ -786,7 +906,6 @@ console hard "Into The Jungle/ch1"
    1,R,J
    1,R
   40
-
 #lvl_C_05
   13,R
    4,Z
@@ -832,7 +951,6 @@ console hard "Into The Jungle/ch1"
    1,R,J
   10,R
   40
-
 #lvl_C_06
    3,R
    6,Z
@@ -964,4 +1082,4 @@ console hard "Into The Jungle/ch1"
    4,R,J
   18,U,X
  134
-ChapterTime: 2:21.440(8320)
+ChapterTime: 2:22.749(8397)
