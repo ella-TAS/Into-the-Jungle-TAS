@@ -1,6 +1,6 @@
-RecordCount: 1271
+RecordCount: 1420
 
-console, hard, Into The Jungle/ch5
+console hard "Into The Jungle/ch5"
    1
 
 #Start
@@ -109,7 +109,6 @@ console, hard, Into The Jungle/ch5
   11,R,U,Z
    1,J
   26,L,J
-
   19,R,K
    1,L,J
   12,L,K
@@ -241,11 +240,21 @@ console, hard, Into The Jungle/ch5
   10,R,K
    1,J
   23,R,J
-  11,R,D,Z
-  26,R,J
-  21,R,U,Z
-   1,L,J
-   3
+   9,R,D,Z
+   8,R,J
+   1,R
+   1,R,J
+   4,R
+   1,R,J
+   1,R
+   4,L
+   9,R,J
+   2,R
+   3,L
+   3,L,J
+   1,K
+  11,R,K
+   1,J
   11,L,J
    1,K
   25,L,K
@@ -265,7 +274,7 @@ console, hard, Into The Jungle/ch5
    1,L,J
   12,L,K
   12,J,G
-   8,K,G
+   7,K,G
   40
 
 #lvl_a_07
@@ -726,28 +735,21 @@ console, hard, Into The Jungle/ch5
   15,R,U,X
   23,R,J
    3,R,G
-  61,U,G
+  38,U,G
+  25,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   2,R,K,G
-   5,R
-   2,R,K
+  38,R,K,G
    3
-  23,R,K
-  12,R,U,X
-   3
-   3,R,U
+   1,R
   15,R,U,X
-  29,R,J
-   5,R,K,G
-   1
-   1,K,G
-   8,R
+  21,R
+
    1,R,J
   14,R
    1,R,J
-  14,R
+  15,R
    1,R,J
   40
 
@@ -785,24 +787,21 @@ console, hard, Into The Jungle/ch5
   23,L,J
    1,L,G
    9,U,G
-  18,G
+  24,G
    5,L,X
-  32,R,J
+   1,L,K,G
+   1,L,J,G
+  28,R,J
    1,K
-  25,R,K
+  24,R,K
    1,J
-  23,R,J
-   2,J
-   7,R,K,G
+  25,R,J
+   3,K,G
    1,L,J
    9,L,K
-   7,L
-  11,R,X
-  25
-  27,L
-  12,L,J
-  10,L
-  10,L,Z
+   8,L
+  14,L,J
+  14,Z
    3,R,J
    3,R
    9,R,D,X
@@ -1013,7 +1012,7 @@ console, hard, Into The Jungle/ch5
    4,L,K
   40
 
-#lvl_c_07
+#lvl_c_08
   20,L
   14,U,X
   19,R,J
@@ -1059,22 +1058,18 @@ console, hard, Into The Jungle/ch5
   14,R,D,X
   15,R,J
   15,R,U,X
-  10,R,J,G
-   1,K,G
-  10,R,K
+   4,R,J
+  11,K,G
    1,L,K
-   8,G
-   1,J,G
-  10,L,J
-   1,R,J
-   8,G
-  12,J,G
-   8,G
-   7,J,G
-   9,L,J
-  12,R,K,G
-   1,L,J
+  14,R,J,G
+  10,K,G
+   2,L,K
+  15,R,J,G
+   1,K,G
    8,L,K
+  12,R,J,G
+   1,L,K
+   8,L,J
   40
 
 #lvl_c_09
@@ -1187,4 +1182,4 @@ console, hard, Into The Jungle/ch5
   15,R,U,X
    7,R
  135
-ChapterTime: 3:28.437(12261)
+ChapterTime: 3:26.618(12154)
