@@ -451,26 +451,47 @@ read ITJ-3AD lvl_a_10 lvl_a_11
    1,R,K
    7,R
    7,L
-  34,L,J,G
-   1,K,G
-   4,L,K
-   6,L
-   1,R
-   1,G
-  13,L,J
-  11,U,X
-  40
-
-#lvl_a_13Heart
+  17,L,J,G
+   1,L
    7,L,J
-   3,K,G
    7,L
-   1,L,J
-  16,L
+   1,K,G
+   8,L
    1,R
+   1,J,G
+   7,R
+   1,L
+   1,L,J,G
+   2,L,K,G
+   1,L
+   1,R
+  12,J,G
+   1,L
+   6,R
+   1,G
+   8,J
+  40
+#lvl_a_13Heart
+   6,R,U
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+   2,L,J
+   1,L
+   1
+  10,L
+   1
    1,R,J
-   8,R
-  39
+   3,R
+   9
+   2,L
+   2
+   1,J
+   1,L
+  30
    3,R
    1,R,J
   22,R
@@ -502,71 +523,90 @@ read ITJ-3AD lvl_a_10 lvl_a_11
    2
    1,J,G
    6,L
-   6,R
-  17,R,J
-  15,R,U,X
-  13,L
-   1,R
-   1,L
-   1,R
-   3,J,G
-   7,R
-   2,L
-  12,L,J
-  36,U,X
- 169,D
-   1,O
-  30
-  64,L,D
-   5,D
-   6,L,D
-  19,D
-  40
-
-#lvl_a_13 (1)
-   1,S
-   1,D,J
-  69,O
-   5,R
-   1,R,J
-  14,R
-   1,R,J
    3,R
-  40
-
-#lvl_a_12 (1)
-  11,R
-  10,R,J
-   5,R
-   1,R,J
-   1,R
-   1,R,J
-  15,R,G
-   1,K,G
-  10,R
+  11,R,J
+   2,R
+   4,L
+  12,U,X
+  24,L,J
    1,L
-   1,G
-  25,R,J
-  10,R
-  12,R,D,X
-   1,R,J,G
-  10,R
+   4,X
+   1,R,D,X
+  12
+  30,L,D
+   4,L
+ 146,L,J
+   1,L,O
+  42,L,J
+  35,L
+  68,L,D
+  40
+#lvl_a_13 (1)
+   7,D
+  15,L,D
+  24,R,D
+   6,L,D
+   2,R,D
   12,R,J
-  41,R,D
-   1,G
-  36,R,J
+  20,R
+   2,L
+   4,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   5,R,J
+  16,R
+   1,R,J,G
+   2,R,K,G
+   8,R
+   2,R,J
+   1,R
+   1,L
+   1,R
+   2,L
+   1
+   3,R
+   4,R,J
+   1,R,K,G
+   3,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+   8,R
+  40
+#lvl_a_12 (1)
+   6,R
+   2,R,J
+  21,R
+   1,J,G
+   8,R
+   1
+   1,L
+   1,J,G
+   6,L
+   1
+   1,R
+   1,R,J,G
+  38,R,K,G
+   4,R,D
+   1,R,J,G
+   1,R,K,G
+  13,R
+  42,R,J
+   1,K
+  18
+  16,R,D
+   1,R,J,G
+   9,R,K,G
+  21,R
+   6,R,J,G
+  13,R
+   6,L,D
+   1,J,G
+   6,L
+   1
    2
-   2,R
-  21,R,J,G
-  13,D
-   2,L,D
-   1,L,J,G
-   1,K,G
-   2
-   5
-   3,L
-   2,R
-   5,R
+   7,R
   33,R,J
    2,R,K,G
    2,L,K
@@ -587,9 +627,7 @@ read ITJ-3AD lvl_a_10 lvl_a_11
   14,R
    1,R,J
   40
-
 read ITJ-3AD lvl_a_14 lvl_b_05
-
 #lvl_b_05 (0)
    7,R
    1,R,J,G
@@ -1749,7 +1787,6 @@ read ITJ-3AD lvl_c_12 lvl_d_05
   15,U,X
    5,L,J,G
   40
-
 #lvl_d_051
   31,L
   14,L,J
@@ -2020,4 +2057,4 @@ read ITJ-3AD lvl_d_12 lvl_d_15
    1,S
    1,D,J
   18
-ChapterTime: 8:03.446(28438)
+ChapterTime: 8:04.772(28516)
