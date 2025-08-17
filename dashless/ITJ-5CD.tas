@@ -1,4 +1,4 @@
-console, rmx2, Into The Jungle/ch5
+console rmx2 "Into The Jungle/ch5"
 Set,CheatMode,true
    1
 
@@ -240,17 +240,23 @@ Set,CheatMode,true
    3
   18,L,J
    1,K
-  25,L,K
+  23,L,K
+   2,L
    1,J
    7,L,J
    6,R,J
-   4,R,K,G
-   8,Z
-   9,R,J,G
-  16,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J,G
+  24,R,K,G
+  11,R
    1,R,J
   14,R
-  15,R,D
+   1,R,J
+  30,R
+   3
+   8,D
   15,D,X
   14,D
   49,L,D
@@ -304,6 +310,7 @@ Set,CheatMode,true
    3
    1,L
   37
+
    1,J
   11,R
   15,R,X
@@ -523,7 +530,7 @@ Set,CheatMode,true
   13,R,Z
   43
 
-#lvl_a-06   
+#lvl_a-06
    1,R
    1,R,J
    7,R
@@ -1177,4 +1184,4 @@ Set,CheatMode,true
   12,L,J
   15,U,X
  134
-ChapterTime: 3:36.308(12724)
+ChapterTime: 3:36.988(12764)
