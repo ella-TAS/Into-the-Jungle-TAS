@@ -592,6 +592,33 @@ read, ITJ-4AD, lvl_b_04, lvl_b_07
   43
 
 #lvl_b_09
+#  20,R
+#   8,R,D
+#   1,D
+#   1,R,D
+#   1,D
+#  15,D,X
+#   9,R
+#   7,R,D,J
+#   4,L,J
+#   1,R,J
+#   1,L,J
+#   1,R,J
+#   1,L,J
+#   1,L,K,G
+#Repeat, 8
+#   1,R,K
+#   1,L,K
+#EndRepeat
+#   2,R,K
+#   1,L,K
+# 1666.25
+#   1,J,G
+#   1,R,J
+#   1,K
+#  20,R,K
+# 1636.00
+# 1.5px away
   10,R
    8,D,X
   28,R,D
@@ -1158,4 +1185,4 @@ read, ITJ-4AD, lvl_c_12, lvl_d_13_outro
    1,S
    1,D,J
   18
-ChapterTime: 5:57.833(21049)
+ChapterTime: 5:58.360(21080)
