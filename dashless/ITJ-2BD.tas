@@ -460,7 +460,6 @@ console, hard, Into The Jungle/ch2
    1,R,J
    5,R
   40
-
 #lvl_b_04
    9,R
    1,R,J
@@ -523,7 +522,6 @@ console, hard, Into The Jungle/ch2
    1,R,J
    8,R
   40
-
 #lvl_b_05 (0)
    6,R
    1,R,J
@@ -630,8 +628,8 @@ console, hard, Into The Jungle/ch2
    1,L,J
    3,J
   40
-
 #lvl_c_01b
+
   30,R
    1
    1,R
@@ -645,25 +643,40 @@ console, hard, Into The Jungle/ch2
   18,R
    1,R,J
   13,R
-   7,X
-  29,R,J
+   5,Z
+   1,R,J
+   4,R
+  28,R,J
   15,R,U,X
-  14,R
+  29,R
+   5,R,X
+  42,R
+   2,R,D
+  11,R,X
    3
-   5,R
-  10,R,X
-  42,R,J
-  15,R,U,X
-  20,R
-   3
-   2,R
-  13,X
-  76,R,J
-  15,R,U,Z
-   9,R
-   2
-   9,R,J,G
+   4,R,X
+   1,R
+   1,L
    8,R
+   1,R,J,G
+  27,R,K,G
+  20,R
+   5,R,D
+   7,L,D
+   1,R
+   1,L
+   1,L,D
+  32,R,J
+  15,R,U,Z
+  17,R
+   1,J,G
+   2,R,J
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   1,L,J
+   6,R,J
+   7,R
    1,R,J
   14,R
    1,R,J
@@ -675,7 +688,6 @@ console, hard, Into The Jungle/ch2
    1,R,J
    2,R
   40
-
 #lvl_c_02
   12,R
    1,R,J
@@ -1161,4 +1173,4 @@ console, hard, Into The Jungle/ch2
    1
   15,U,X
  132
-ChapterTime: 3:04.756(10868)
+ChapterTime: 3:04.960(10880)
