@@ -1,4 +1,4 @@
-console, hard, Into The Jungle/ch2
+console hard "Into The Jungle/ch2"
    1
 
 #Start
@@ -324,13 +324,25 @@ console, hard, Into The Jungle/ch2
   14,L,J
   20,R,J
   17
-  49,R
+  43,R
+  16,L,D
+  22,L,J
+  10,L
+  34,L,J
+   1
+   7,R,D
+  11,R,J
+   5,R
+   4,R,J
+   5,L,J
   13,L
-   3,R
-  29,L
-  23,R
-  15,R,U,X
-  17,R
+  48,R,J
+   9,R,K,G
+   5,J,G
+   1,K
+   3,R,K
+  12,R,J,G
+  13,R
    1,R,J
   14,R
    1,R,J
@@ -1073,6 +1085,7 @@ console, hard, Into The Jungle/ch2
    1,R,J,G
    5,R
   40
+
 #lvl_c_06
    6,R
    4,Z
@@ -1144,6 +1157,7 @@ console, hard, Into The Jungle/ch2
    1,R,J
    5,R
   40
+
 #lvl_c_07
    9,R
    1,R,J
@@ -1273,4 +1287,4 @@ console, hard, Into The Jungle/ch2
   15,R,U,X
    6,R
  136
-ChapterTime: 3:08.003(11059)
+ChapterTime: 3:09.975(11175)
