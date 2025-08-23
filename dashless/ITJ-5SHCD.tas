@@ -1535,28 +1535,40 @@ read ITJ-5AD lvl_d_07 lvl_d_10
    1,R,J
   28,R,D
   16,R
-  12,R,D,K
-   6,L,K
-   1,R,K
-   1,L,J,G
-   3,J,G
-   2,R,J
-   1,J
+   7,R,D,J
+   4,L,J
    1,R,J
-   1,J
-   2,R,J
    1,L,J
-   8,K,G
-   1,R,K
-   2,L,K
-   1,L,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
    1,L,K,G
+Repeat, 5
+   1,R,K
+   1,K
+EndRepeat
+   2,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   8,L,K,G
    1,R,K
    1,K
    1,R,K
    1,K
    1,R,K
-  14,R,J
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,J
+  13,R,J
   14,R,U,X
   40
 
@@ -1789,4 +1801,4 @@ read ITJ-5AD lvl_d_07 lvl_d_10
   40
 
 read ITJ-5AD lvl_d_14
-ChapterTime: 8:23.608(29624)
+ChapterTime: 8:23.710(29630)
