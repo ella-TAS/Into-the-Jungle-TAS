@@ -159,18 +159,21 @@ console load "Into The Jungle/ch5"
    1,J,G
    9,L,D
    6,R
-  36,R,J
-  15,U,X
-   4,R
-  12,R,J,G
-  12,R,K,G
-   8,R,J,G
-  10,R,D
-   8,L
-  19,L,J
-   2,J
-  10,L,K,G
-  10,L,D
+  94,R,J
+  13,R,D
+   1,J
+  11,R,J
+  13,R
+  14,L,D
+   2,D
+  43,L,J
+  12,K,G
+  12,J,G
+   6,K,G
+  14,L
+  38,L,J
+   9,K,G
+  11,L,D
    4,R
    4
   21,J
@@ -2516,4 +2519,4 @@ console load "Into The Jungle/ch5"
    1,S
    1,D,J
   18
-ChapterTime: 5:43.808(20224)
+ChapterTime: 5:46.358(20374)
