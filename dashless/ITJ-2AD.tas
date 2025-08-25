@@ -567,22 +567,33 @@ EndRepeat
    7,R,J
   29,R
   15,R,U,X
-  74,R
-   3
-  16,X
-   1,R,J,G
-   7,R
-   2,R,J,G
-   3,R
-   1
-   5,R
+  15
+  14,R
+  16
+   7,R,G
+  37,G
+   2,J,G
+  14,R
+  17
+   8,J
+   7
+   9,J
+  20,R,J
+  56,R,K
+  12,R,J,G
+   4,R,K,G
+  10,R
+   3,R,J
+  19,R
   70,R,J
   22,R,K,G
    1,J
   12,R,J
-   5,R
-   2,R,J
-  11,R
+   6,R
+   1,R,J
+   2,R
+   1,R,J
+   8,R
    1,K
   25,R,J
    5,R
@@ -1775,4 +1786,4 @@ EndRepeat
    1,R,J,G
    5,R
  110
-ChapterTime: 4:05.514(14442)
+ChapterTime: 4:08.251(14603)
