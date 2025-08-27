@@ -1633,75 +1633,79 @@ read, ITJ-1AD, lvl_d_03 (1), lvl_d_10
   11,R,J,G
   22,R
    3
-   5,R,J
-  22,R
+   1,R,J
+  18,R
+   3,L
    6
-  41,R,J
-  20,R,U,X
-  17,R
-   1,R,J,G
-   1,R,K,G
-   1,K
-   6,R,K
-   1,K
-   4,R,K
+  12
    1,J
-   5,R
-  10,R,J
-   6,R
    2
+   1,J
+   1
+   1,J
+   8
+   1,L
+   3,L,D
+   5,L
+   4,Z
+   2,R,J
    2,R
+   1,R,J
+   2,R
+   1,D
+  24,R,J
+   3,R,K,G
+   1,R,G
+   6,R,J,G
+  10,R
    1,R,J,G
-   1,R,K,G
-  26,R
+   3,R,K,G
+   7,R
    1,R,J
    2,R
   40
 
 #lvl_d_11
-  12,R
-   1,R,J
-  25,R
-   5,R,J
-   8,R
-   6,R,J
-   9,K,G
-   5,R,K
-   6,J,G
-   8,R,J,G
-   7,R,K,G
-  16,R
-   1
-   1,R
-   7,D
-   6,R,D
-   5,R
-  28,R,J,G
-   1,R,K,G
-  10,R,J,G
-  28,R
-   8,R,D
+  16,R,D
+   2,R
+   6,R,D,J
+   3
+   2,R
    1,R,J,G
    1,R,K,G
-  17,R
-   2
-  31,R,J
-  15,R,U,X
-  25,R,J
-   1,K,G
-   6,R,K
-   1,L,K
-   1,J,G
-   4,L,J
-   1,J
-   1,R,J
-   1,R,K,G
-   8,R,J,G
+   1,R
+   1
+   4,R,J,G
+   3,R
+   2,R,J
+   3,R
+   2,R,J
    5,R
    1,R,J
+  10,R
+   1,R,J,G
+   1,R,K,G
+  18,R
+   1,R,J,G
+   4,R,K,G
+   5,R
+  31,R,J
+   4,R,D
+   1,R
+   1,R,D
+  11,J
    9,R
    1,R,J
-  22,R
+   5,R
+   1,R,K,G
+  11,R,J,G
+  12,L,K,G
+   3,J,G
+   1,L,J
+   2,R,J
+  29,R,K,G
+   1,R,J
+  24,R
   40
 
 #lvl_d_12
@@ -1810,4 +1814,4 @@ read, ITJ-1AD, lvl_d_03 (1), lvl_d_10
    1,S
    1,D,J
   18
-ChapterTime: 4:59.982(17646)
+ChapterTime: 4:57.007(17471)
