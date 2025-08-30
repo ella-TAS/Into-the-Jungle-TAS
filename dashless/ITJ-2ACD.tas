@@ -1,21 +1,23 @@
-console, load, Into The Jungle/ch2
+console load "Into The Jungle/ch2"
    1
 
 #Start
 read ITJ-2AD Start lvl_b_02
 
-#lvl_b_02
-  18,R
-  60,R,D,J
+#lvl_b_02 (0)
+  12,R
+   1,R,J
+  21,R
+   5,R,J
+   7,R
+  26,R,J
   15,R,U,X
-  13,R
-   1,J,G
-   3,L,J,G
-   6,R,K,G
-   1,K,G
-   5,R,K,G
-  12,R,J,G
-   2,R,K,G
+  14,R
+   1,J
+   3,R,J
+  12,R,K,G
+   6,J,G
+  12,R,K,G
    9,R
   12,R,J
   12,R,K,G
@@ -42,7 +44,7 @@ read ITJ-2AD Start lvl_b_02
    3,L
   40
 
-#lvl_b_04
+#lvl_b_04 (0)
   11,L
    3,J
    5,L,J
@@ -63,7 +65,7 @@ read ITJ-2AD Start lvl_b_02
    8,L
   40
 
-#lvl_b_05
+#lvl_b_05 (0)
    3,L
    1,L,J
   14,L
@@ -89,7 +91,7 @@ read ITJ-2AD Start lvl_b_02
   10,L
   40
 
-#lvl_b_05
+#lvl_b_06 (0)
   53,L
   65,L,J
    6,L
@@ -137,7 +139,7 @@ read ITJ-2AD Start lvl_b_02
    1,R
   40
 
-#lvl_b_06
+#lvl_b_06 (1)
    9,R
    1,R,J
   19,R
@@ -154,7 +156,7 @@ read ITJ-2AD Start lvl_b_02
   10,R
   40
 
-#lvl_b_05
+#lvl_b_05 (1)
    4,R
    1,R,J
   14,R
@@ -182,7 +184,7 @@ read ITJ-2AD Start lvl_b_02
    8,R
   40
 
-#lvl_b_04
+#lvl_b_04 (1)
   23,R
  170,R,J
    4,R,D
@@ -195,7 +197,7 @@ read ITJ-2AD Start lvl_b_02
    1,R,J
   40
 
-#lvl_b_02
+#lvl_b_02 (1)
   18,R
    1,R,J
   18,R
@@ -210,4 +212,4 @@ read ITJ-2AD Start lvl_b_02
   40
 
 read ITJ-2AD lvl_b_13
-ChapterTime: 4:34.788(16164)
+ChapterTime: 4:53.760(17280)
