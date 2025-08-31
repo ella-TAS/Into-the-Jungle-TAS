@@ -393,20 +393,27 @@ console hard "Into The Jungle/ch2"
   40
 
 #lvl_b_03
-  73
-   3,R
-  10,R,X
-  10,R,J
-  46,R
-  15,R,U,Z
-  26,L
-   8
-  17,R
-  36
-   3
-   9,L,G
+  79
+   1,L
+   1
+   1,L
+   1
+   1,L
+   1
+  26,R
+  46,R,J
+  15,R,U,X
+   9,R
+   5,L
+   2,L,J
+  39,R,J
+  26
+  14,J
+   6,L,J
+  10,L,K,G
+  10,G
   29,U,G
-  80,G
+  38,G
    3,J,G
   19,K
   28,L,K
@@ -1300,4 +1307,4 @@ console hard "Into The Jungle/ch2"
   15,R,U,X
    6,R
  135
-ChapterTime: 3:10.910(11230)
+ChapterTime: 3:10.876(11228)
