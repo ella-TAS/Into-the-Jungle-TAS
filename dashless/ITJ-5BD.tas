@@ -1,4 +1,4 @@
-RecordCount: 2362
+RecordCount: 2647
 
 console hard "Into The Jungle/ch5"
    1
@@ -546,42 +546,56 @@ EndRepeat
    1,R,J
    6,R
   40
+
 #lvl_b_05
    8,R
    7,Z
    1,R,J
   13,R
   23,R,J
-  12,R,K,G
-  18,G
-   8,R,J,G
-  14,R
-  10,R,J
-  29,R
-  16,U,X
-  36,L,J
-  15,L,X
-  10,J,G
-  37,K,G
-   1,G
-  18,J,G
-  11,L,J
-  10,K
-   7
+   6,R,K,G
+   6,R,J,G
+   1,R
+   7,R,K,G
+  11,R
+   5,L
+   1,K,G
    4,L,K
-   3,L
-  33,L,J
-  27,R,K
-  12,R,J,G
-  12,K,G
-  12,J,G
-   7,K,G
-   7,R
-  12,L,J
-   1,R,U,X
+   1,K
+   4
+  35,R,J
    3
-  20,R,U,X
-   1,R,G
+   2,R
+   1
+  38,L,K
+   9,L,J,G
+  15,L
+   2
+  12,L,J
+  17,U,X
+   9,G
+  26,U,G
+  18,L,J,G
+   7
+   4,R,G
+  36,G
+   2,K,G
+   1,L,K
+  34,L,J
+  27,R,K
+  11,J,G
+   1,L,J
+  14,R,K,G
+  11,J,G
+   1,L,J
+   1,R,K,G
+   5,L,K
+   3,R,K
+   3
+   9,R,K
+  23,R,U,X
+
+   2,R,G
   15,U,G
   22,R,J,G
    7
@@ -592,7 +606,11 @@ EndRepeat
   10,R,J
   16,R
    1,R,J
-  19,R
+  15,R
+   1
+   1,R
+   1
+   1,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -604,6 +622,7 @@ EndRepeat
    1,R,J
    4,R
   40
+
 #lvl_b_06
   10,R
    1,R,J
@@ -737,6 +756,7 @@ EndRepeat
    1,R,J
    9,R
   40
+
 #lvl_c_02
    5,R
    1,R,J
@@ -796,6 +816,7 @@ EndRepeat
   33,R,J,G
    6,R,K
   40
+
 #lvl_c_03
    5,R,J
    8,U,X
@@ -807,28 +828,24 @@ EndRepeat
   10,R,K,G
    1
    1,K,G
-   3,R
-   1
-   4,R
-   1,R,J
-   9,R
-  14,L,D,X
-  31,L,J
-  15,U,X
-   8,L,J
+   8,R
+  13,R,D,J
+   1,K,G
+   6,R,K
+   7,L,K
+   1,L,J,G
+   9,J,G
+   3,R,J
+  12,L,X
+  49,L,J
    3
    7,L,J
-  15,U,X
-   9,L,J
+  16,U,X
+  15,L,J
    3
-   9,J
-  10,U,X
-   7,R,J
-   2,L,J
-   3
-  24,L,J
-   1,J
-  13,G
+   6,L,J
+   6,L,K,G
+  14,L,G
    5,U,X
   28,R,J
    1,K
@@ -842,12 +859,14 @@ EndRepeat
    1,L,K,G
    8,R,K
   40
+
 #lvl_c_04
    3,R,J
   28,R
   11,R,J
   13,R
   40
+
 #lvl_c_05
   14,R,D,X
   10,R,J
@@ -1274,4 +1293,4 @@ EndRepeat
   15,R,X
    4,R
  135
-ChapterTime: 3:32.024(12472)
+ChapterTime: 3:32.279(12487)
