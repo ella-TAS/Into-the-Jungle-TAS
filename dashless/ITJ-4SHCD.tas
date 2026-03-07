@@ -1139,41 +1139,54 @@ read, ITJ-4AD, lvl_c_10, lvl_c_11
 #lvl_c_11
   13,R
   14,R,J
-   5,R,K,G
-  10,R,X
-   5,R,J
-  15,U,X
-   8,R
-  22,R,D
+   1,R,K,G
+   2,R,J,G
+  10,R
    1,R,J
-  14,R
-   1,R,J
-  23,R
-  32,R,J
-   3
-  10,U,X
-  24
-  15,D,X
-   1
-   7,L
-   9,L,J
-   6,K,G
-   4,L,K
-  12,R,J,G
-   5,R
-   8,L
-  15,R,D
-   1,G
-   5,R,J,G
-   5,R
-   8,R,J
-   2,J
+  20,R
+  42,R,J
+   2
    2,R
    1,R,J,G
    1,R,K,G
-  12,R
+  13,R
+   8,R
+  15,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+   1,R
+   1,J
+   1
+   1,J
+   1
+   1,D,J
+
+   1,K,G
+   1
+   1,L
+   1,R
+   1,J,G
+  23,L,J
+   5,L,J
+  12,R,K,G
+   1,J,G
+   5,R
+   1,L
+  23,R,D
+  12,X
+   3
+  22
+  15,U,X
+  61,G
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   7,R
    1,R,J
-  16,R
+  27,R
    1,R,J
    2,R
   40
@@ -1185,4 +1198,4 @@ read, ITJ-4AD, lvl_c_12, lvl_d_13_outro
    1,S
    1,D,J
   18
-ChapterTime: 5:58.649(21097)
+ChapterTime: 6:00.621(21213)
