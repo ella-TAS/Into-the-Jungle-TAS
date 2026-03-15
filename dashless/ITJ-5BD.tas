@@ -1,4 +1,4 @@
-RecordCount: 2647
+RecordCount: 2707
 
 console hard "Into The Jungle/ch5"
    1
@@ -1273,24 +1273,42 @@ EndRepeat
    1,J
   24,R,J
   52,R,K,G
-   1,R,J,G
-   5,R,K,G
-  23,R
+   1,J,G
+   7,R,J
+   1,L,J
+   1,K,G
+   5,L,K
+   1,R,K
+   1,J,G
+   5,R,J
+   1,L,J
+  17,R,K,G
+   3,R,G
+Repeat, 1500
+   1
+   1,G
+EndRepeat
+  12
+  18,R
+  17,R,J
+   8,J
+   2,L,G
+   5,R,J
+   5,R
+  53,R,J
    1,D,G
-   4
-  10,L,D,X
-  39,R,J
   15,R,U,X
-  13,R,G
-  19,U,G
-  40,G
+  19,R
+  30,G
+  12,U,G
+  25,G
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   3,R,K,G
-  17,R
-  42,R,J
-  15,R,X
-   4,R
+   1,R,K,G
+  13,R
+  11,R,J
+  13,R
+  14,R,X
  135
-ChapterTime: 3:32.279(12487)
+ChapterTime: 4:24.469(15557)
