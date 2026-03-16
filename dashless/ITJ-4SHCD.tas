@@ -91,66 +91,67 @@ read, ITJ-4AD, Start, lvl_a_02
    1,R,J
    8,R
   14,R,X
-   4
-  29,R
-   1,R,G
-  20,R,J,G
-  13,R
-  15,R,D
-   1,L,D
-   1,R,D
-   1,R,J,G
-  13,R,K,G
-  22,R
-   1,R,D
-  20,L,D
-   1,G
-   1,L,J,G
-  18,L
-   1,L,D
+   1,R
    3
-  15,L,X
-   3
-  14,L
-   2,L,J
-  31,L
-   1,G
-   2,L,J,G
-   9,L
-   1,L,J
-   6,L
+  25,R
    2
+   2,R
+   1,R,J,G
+   4,R,K,G
+   5,R
+   1,R,J
+  24,R
+   4,R,D
+   2,R
+  40,R,J,G
+  18,L,D
+   1,L,J,G
+  23,L,D
+   3
+  11,L,X
+   1,L
+   3
+  33,L
+  11,L,D
    2,L
    1,L,J,G
+  18,L
+   1,L,J,G
   41,L,K,G
-   6,L,D
+   7,L
   43
 
 #lvl_a_04 (0)
-  23,L
+  10,L,D
+   1,G
+  13,L,J,G
   43
 
 #lvl_a_05
-  14,L
-   8,J,G
-   2,K,G
-  10,L,K
-   5,L,J,G
-  10,L
-   1,L,J
-  19,L
-   7,L,J
-  13,L
+  17,L,D
+   1,R,J
+  10,J
+   5,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   8,L,J
+   7,L,K
+  15,L
+   1
+   1,L
    2
    2,L
-   1,L,J,G
-   6,L,K,G
-  18,L
-  22,L,D
-   8,L
-  15,L,U,Z
-  16,L
-   9
+   5,L,J,G
+   5,L
+   1,L,J
+  15,L
+  18,L,D
+   2,D
+  22,Z
+   1,J,G
+   4,L
+  21,D
    1,S
    1,D,J
   72,O
@@ -239,11 +240,12 @@ read, ITJ-4AD, lvl_a_07, lvl_a_12
   40
 
 #lvl_a_13 (0)
-  23,R,J,G
-  17,R,K
-   8,R
-  13,R,J
-  12,K
+   1,J
+  21,R,J
+  11,R,K,G
+  12,R,J,G
+   9,K
+   5,J
   40
 
 #lvl_a_15
@@ -373,28 +375,24 @@ read, ITJ-4AD, lvl_a_07, lvl_a_12
   11,R,J
   13,R,Z
    9,R,J,G
-   8,L,G
-  14,D,G
+  20,L,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   3,R,J
+  18,R
    1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  21,R,J
-  14,R
-   1,R,J
-   9,R
+   3,R
   40
 
 #lvl_b_03 (0)
-   5,R
+  14,R
+  14,R,D
+  14,R
    1,R,J
-  18,R,D
-   8,R
-  29,R,D
-   1,R,J
+  14,R
+  12,R,J
   19,R
-  10,R,J
-  18,R
   17,R,J
   10,R,K,G
    1,L,J
@@ -873,14 +871,17 @@ read, ITJ-4ACD, lvl_c_Cassette (0), lvl_c_casetteHeartRoom
   14,L
    1,L,J
   14,L
- 100
-  15,U,X
- 186,L
+   5,L,J
+  13,L
+  76
+  12,R,J
+  22,U,X
+  35,L
+  14,J,G
+ 128,K,G
    1,C
   30
-  12,J,G
-  12,K,G
-  11,J,G
+   4,J,G
   40
 
 read, ITJ-4ACD, lvl_c_Cassette (1), lvl_c_02 (1)
@@ -1120,18 +1121,12 @@ read, ITJ-4AD, lvl_c_03, lvl_c_08
 #lvl_c_08 (1)
   15,R,D
   15,R,Z
-   7,R,G
-   1,R,J
-   5,R
-   4,R,J
-  17,R
-   2
-   2,R,D
+   2,R
    1,R,J,G
    1,R,K,G
-  16,R
+  27,R,D
    1,R,J
-   7,R
+  12,R
   40
 
 read, ITJ-4AD, lvl_c_10, lvl_c_11
@@ -1198,4 +1193,4 @@ read, ITJ-4AD, lvl_c_12, lvl_d_13_outro
    1,S
    1,D,J
   18
-ChapterTime: 6:00.621(21213)
+ChapterTime: 5:56.490(20970)
