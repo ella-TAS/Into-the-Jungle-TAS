@@ -235,14 +235,41 @@ console rmx2 "Into The Jungle/ch2"
   15,R
    3,R,J
    5,R
-  23,R,J
-  26,R,D
-  17,R,X
+  10,R,J
+  12,R
+   7,R,D
+   1,R
+  23,J
+   1,L,J
+   1,J
+   5
+   5,L
+   5
+   6,D
+   1,J
+   9
+   8,R,D
+   1,R,J
+   7,R
+   1
+   1,R
+  11
+   8,D
+   1,J
+   8,R,J
+   5,R
+   1,R,J
+   6,R
+   2
+   2,R
+   5,R,D
+   1,R,J
+  11,R
   16,R,C
   17,R,X
   16,R,C
   15,U,X
-  18,U,C
+  19,U,C
   17,R,X
   14,R,D,C
   76,R,J
@@ -263,61 +290,80 @@ console rmx2 "Into The Jungle/ch2"
   10,R
   10,R,J
   32,R
-  22,R,J,G
-  15,R,K,G
-   5,K
-  66,R,J,G
+  17,R,J
+   2,J
+   2,R,J
+   1,R,K,G
+  15,R,K
+  63,R,J,G
    1,K,G
-  10,R,K
-   1,L
-   7,G
-  23,R,J
-  12,K,G
+   9,R,K
+  20,R,J,G
+   2,J
+  11,K,G
+   1,L,K
    1,L,J
-  17,L,K
-   2,J,G
+  16,L,K
+   3,J,G
    2,R,J
    9,R,K
    7,R
-   2,R,J,G
-  25,R
-   3,R,D
-  10,D
-   3,L,D
-   1
-   2,D
+   1,R,J,G
+   1,R,K,G
+  18,R
+   5,R,D
+  18,D
    1,J
    8,R
   11
   15,R,U,Z
    6,L
-   3
+   4
   13,R,D
   10,R,X
    5
   15,U,X
-  42,R
-   2
-   9,R,J,G
-  14,R
-   4,R,J
-  20,R
-  43,R,J
+   4
+  23,R,D
+   2,R,J
+  25,R
+   2,R,D
+   1,R,J
+   7,R,K
+  19,R
+   1
+   1,R
+   1
+   1,R
    6
-  40,R,J
+  36,R,J
+   6
+  35,R,J
   11,U,X
   38,R,J
   15,R,X
-  19,D
-  23,R,D
-  10,X
-   5
+  13
+   2,R
+  12,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   2,D
+   3,R,D
+   5,R
+   1,G
+   1
+   1,G
+   1,R
+  14,R,J
   10,X
    5
   10,X
    5
   15,U,X
   11,L
+   1
   12,J,G
   12,K,G
    2,J,G
@@ -350,8 +396,10 @@ console rmx2 "Into The Jungle/ch2"
   22,D
    2,R,D
    1,R,J,G
-   3,R,K,G
-   7,R
+   2,R,K,G
+   5,R
+   2,R,J
+   1,R
    2
    5,R
    1
@@ -360,7 +408,9 @@ console rmx2 "Into The Jungle/ch2"
   18,R,J
   15,R,X
   14,R
-  12,R,D
+   8,R,D
+   4
+   1,R,D
    7,R,J
   13,R
   23,R,J
@@ -406,4 +456,4 @@ console rmx2 "Into The Jungle/ch2"
   38,R,K
   13,R,X
  135
-ChapterTime: 1:17.231(4543)
+ChapterTime: 1:18.591(4623)
