@@ -1119,14 +1119,10 @@ read, ITJ-4AD, lvl_c_03, lvl_c_08
   40
 
 #lvl_c_08 (1)
-  15,R,D
-  15,R,Z
-   2,R
-   1,R,J,G
-   1,R,K,G
-  27,R,D
-   1,R,J
-  12,R
+   1,S
+   1,D,J
+  69,O
+  11,R
   40
 
 read, ITJ-4AD, lvl_c_10, lvl_c_11
@@ -1193,4 +1189,4 @@ read, ITJ-4AD, lvl_c_12, lvl_d_13_outro
    1,S
    1,D,J
   18
-ChapterTime: 5:56.490(20970)
+ChapterTime: 5:56.677(20981)
