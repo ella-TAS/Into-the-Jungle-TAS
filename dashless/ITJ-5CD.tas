@@ -310,7 +310,6 @@ Set,CheatMode,true
    3
    1,L
   37
-
    1,J
   11,R
   15,R,X
@@ -1063,16 +1062,20 @@ EndRepeat
    7,J
   15,U,X
   15,L
-   1,J
-   3,L,J
+  37,R
+  38
    2,J
-  16,U,X
-  29,R,J
+   7
+   3,J
    6
-  27,L,J
-  15,L,U,X
-  28,L
-  30,L,J
+  20,J
+  15,U,X
+   5,L
+  33,L,J
+   1,K
+   5,L,K
+   7,L
+  31,L,J
  138
   15,U,X
    1,L
@@ -1080,7 +1083,8 @@ EndRepeat
   12,K,G
    9,J,G
    7,L
-  11,R
+  82
+   8,R
   21,R,J
   15,U,X
    3,L
@@ -1100,44 +1104,38 @@ EndRepeat
   34,U,G
   72,G
    2,L,J,G
-  34,L,K,G
+  26,L,K,G
+   8,L
    7,R,D
-  27,L,D
-   4,L,J
-  35,J
-   5,K
-  18,R,K
-  12
-   1,J
-  21,R,J
-  14
-   1,J
-  21,R,J
-   1,J
-  13
-   6,J,G
-   6,R,J
-   3,R
-   2,L
-   1,L,J
-   2,L
-   1,L,J
+  26,L,D
+  15,J
+   7,L,J
+   3,J
+   9
    3,L
+   1,R,K,G
+   9
+   2,L
+   5,R,J,G
+  14,J
+   5
    6
-   6,J
-  16,L,J
+   5,J
+  12,L,J
    1,K
   25,L,K
    1,J
-  21,R,J
-  12,K,G
-   4,J,G
-   1,L,J
-  16,R,K,G
+  25,L,J
+  11,K,G
+   1,R,K
    1,J
-  22,L,K
+  22,R,J
+   1,K
+  21,L,K
   12,J,G
-  12,R,K
-  15,U,X
+   5,K,G
+   1,R,K
+   8,K
+  20,U,X
  135
-ChapterTime: 4:03.049(14297)
+ChapterTime: 4:03.899(14347)
